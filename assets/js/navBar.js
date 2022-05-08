@@ -39,7 +39,19 @@ const createThum = (pages) => {
 
 const createSearch = () => {}
 
-const changeLanguage = () => {}
+const changeLanguage = () => {
+    var div = $('<div />', { class: 'container-language' }).appendTo('body')
+    div.append($('<button/>', { id: 'spain', class: 'spain-language' }).append($('<img/>', { src: './assets/pics/icons/spain.png' }), $('<p/>').html('Español')),
+        $('<button/>', { id: 'english', class: 'english-language' }).append($('<img/>', { src: './assets/pics/icons/united-states.png' }), $('<p/>').html('Inglés')))
+
+    const spain = document.getElementById('spain')
+    const english = document.getElementById('english')
+
+    spain.addEventListener('click', () => { console.log('hola sapin'); })
+    english.addEventListener('click', () => { console.log('hola english'); })
+
+
+}
 
 var pages;
 $('.navigation li').click(function(event) {
@@ -50,16 +62,24 @@ $('.navigation li').click(function(event) {
     switch (option) {
         case 'thumb':
             if (!$('.container-thumbs').is(":visible")) {
+                if ($('.container-language').is(":visible")) { $('.container-language').remove() }
                 createThum(pages)
             } else {
                 $('.container-thumbs').remove()
             }
             break;
+
         case 'search':
             console.log('search');
             break;
+
         case 'language':
-            console.log('language');
+            if (!$('.container-language').is(":visible")) {
+                if ($('.container-thumbs').is(":visible")) { $('.container-thumbs').remove() }
+                changeLanguage()
+            } else {
+                $('.container-language').remove()
+            }
             break;
     }
 });

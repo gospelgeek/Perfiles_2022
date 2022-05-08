@@ -54,6 +54,7 @@ function loadPage(page, pageElement) {
 
 function loadRegions(page, element) {
 
+
     $.getJSON('./assets/pages/' + page + '-page.json').
     done(function(data) {
         $.each(data, function(key, region) {
