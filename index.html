@@ -54,24 +54,39 @@
     </div>
 
     <!--Navigation bar-->
-    <div class="navigation">
-        <ul>
-            <li class="thumb">
-                <a>
-                    <i class='bx bxs-grid'></i>
+    <div class="navigation options">
+        <ul class="options">
+            <li class="thumb options">
+                <a class="options" onclick="createThumb(`${ $('.magazine').turn('pages')}`)">
+                    <img src="/assets/pics/icons/grid.png" class="options" alt=""> </a>
                 </a>
             </li>
-            <li class="search">
-                <a href="#">
-                    <i class='bx bx-search-alt-2'></i>
+            <li class="search options">
+                <a class="options" onclick="createSearch()">
+                    <img src="/assets/pics/icons/search.png" class="options" alt=""> </a>
                 </a>
             </li>
-            <li class="language">
-                <a href="#">
-                    <i class='bx bx-globe'></i>
+            <li class="language options">
+                <a class="options" onclick="changeLanguage()">
+                    <img src="/assets/pics/icons/globe.png" class="options" alt=""> </a>
                 </a>
             </li>
         </ul>
+    </div>
+
+    <!--Search Section-->
+    <div id="search" class="container-search options">
+        <div class="input-search options">
+            <input id="word-search" class="options" type="text" placeholder="Ingrese su búsqueda aquí...">
+            <button id="button-search" class="options"><i class='bx bx-search-alt-2'></i></button>
+        </div>
+        <div class="result-search"></div>
+    </div>
+
+    <!--Language Section-->
+    <div id="language" class="container-language options">
+        <button id='spain' , class='spain-language options'><img src="./assets/pics/icons/spain.png" alt="" class="options"><p>Español</p></button>
+        <button id='english' , class='english-language options'><img src="./assets/pics/icons/united-states.png" alt="" class="options"><p>Inglés</p></button>
     </div>
 
     <script src="/assets/js/loader.js"></script>
@@ -119,7 +134,7 @@
 
                 // The number of pages
 
-                pages: 20,
+                pages: 6,
 
                 // Events
 
