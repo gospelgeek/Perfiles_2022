@@ -1,3 +1,4 @@
+//THUMBNAILS OPTION
 const createThumb = (pages) => {
 
     if (!$('.container-thumbs').is(":visible")) {
@@ -38,12 +39,52 @@ const createThumb = (pages) => {
     }
 }
 
-
+//SEARCH OPTION
 const createSearch = () => {
     hideOption('.container-search', '.container-thumbs', '.container-language')
-
 }
 
+//Functionality to search content in the magazine
+var buttonSearch = document.getElementById('button-search'),
+    wordSearch = document.getElementById('word-search')
+
+//Event over button to search the words
+buttonSearch.addEventListener('click', () => {
+    var inputValue = wordSearch.value
+
+    if (inputValue.length > 0) {
+        $('.result-search').css({ display: 'block' });
+
+        if ($(".content-results").length > 0) {
+            $(".result-search").empty()
+            addContent(inputValue);
+        } else {
+            addContent(inputValue);
+        }
+    }
+})
+
+//Shows search results
+function addContent(inputValue) {
+    for (let page = 1; page <= $('.magazine').turn('pages'); page++) {
+        $.getJSON('./assets/pages/' + page + '-page.json').
+        done(function(data) {
+            $.each(data, function(key, region) {
+
+                var dataContent = region.data.content;
+                var dataInput = inputValue.toLowerCase()
+
+                if (region.tag != 'modal' && region.data.content != undefined) {
+                    if (dataContent.toLowerCase().includes(dataInput)) {
+                        $('.result-search').append($('<div/>', { class: 'content-results', 'onclick': 'goPage(' + page + ')' }).append($('<p/>', { class: 'page-search' }).html('Pag ' + page + '.'), $('<p/>', { class: 'content-search' }).html(region.data.content)))
+                    }
+                }
+            });
+        });
+    }
+}
+
+//LANGUAGE OPTION
 const changeLanguage = () => {
     hideOption('.container-language', '.container-thumbs', '.container-search')
 }
@@ -65,5 +106,7 @@ document.addEventListener('click', function(event) {
         $('.container-language').removeClass("visible");
         $('.container-search').removeClass("visible");
         $('.container-thumbs').remove()
+        wordSearch.value = ""
+        $(".result-search").css({ display: 'none' });
     }
 });

@@ -1,4 +1,4 @@
-/*Estilos globales*/
+/*General Styles*/
 
 h1,
 h2 {
@@ -18,7 +18,7 @@ p {
 }
 
 
-/*Pagina 2*/
+/*Page 2*/
 
 .p2 .to-page:hover {
     opacity: 0.5;
@@ -34,7 +34,7 @@ p {
 }
 
 
-/*Pagina 4*/
+/*Page 4*/
 
 .text-resaltado {
     color: rgba(60, 60, 60, 0.784);
