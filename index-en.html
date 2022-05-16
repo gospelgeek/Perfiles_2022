@@ -1,14 +1,14 @@
 <!doctype html>
 
-<html lang="es">
+<html lang="en">
 
 <head>
-    <title>Perfiles 2022</title>
+    <title>Profiles 2022</title>
     <meta name="viewport" content="width = device-width, minimum-scale=1, maximum-scale=1, user-scalable = no">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://ipuc.org.co/mujer/perfiles/">
-    <meta property="og:image" content="./assets/pages-es/1.jpg">
+    <meta property="og:image" content="./assets/pages-en/1.jpg">
     <meta name="og:title" content="Perfiles 2022 | Edición número 16 | Formato interactivo">
     <meta name="og:description" content="El magazín de la mujer cristiana celebra sus 16 años">
     <link rel="icon" type="image/png" href="/assets/pics/icons/book.png">
@@ -72,16 +72,16 @@
     <!--Search Section-->
     <div id="search" class="container-search options">
         <div class="input-search options">
-            <input id="word-search" class="options" type="text" placeholder="Ingrese su búsqueda aquí...">
-            <button id="button-search" class="options" onclick="searchButton('es')"> <img src="/assets/pics/icons/search.png" class="options" alt=""></i></button>
+            <input id="word-search" class="options" type="text" placeholder="Enter your search here...">
+            <button id="button-search" class="options" onclick="searchButton('en')"> <img src="/assets/pics/icons/search.png" class="options" alt=""></i></button>
         </div>
         <div class="result-search options"></div>
     </div>
 
     <!--Language Section-->
     <div id="language" class="container-language options">
-        <button id='spain' class='spain-language options' onclick="location.href = 'index.html'"><img src="./assets/pics/icons/spain.png" alt="" class="options"><p>Español</p></button>
-        <button id='english' class='english-language options' onclick="location.href = 'index-en.html'"><img src="./assets/pics/icons/united-states.png" alt="" class="options"><p>Inglés</p></button>
+        <button id='spain' class='spain-language options' onclick="location.href = 'index.html'"><img src="./assets/pics/icons/spain.png" alt="" class="options"><p>Spanish</p></button>
+        <button id='english' class='english-language options' onclick="location.href = 'index-en.html'"><img src="./assets/pics/icons/united-states.png" alt="" class="options"><p>English</p></button>
     </div>
 
     <script src="/assets/js/loader.js"></script>
@@ -146,7 +146,7 @@
 
                         // Update the current URI
 
-                        Hash.go('pagina/' + page).update();
+                        Hash.go('page/' + page).update();
 
                         // Show and hide navigation buttons
 
@@ -171,7 +171,7 @@
                         // Add pages that aren't in the magazine
 
                         for (var i = 0; i < pages.length; i++)
-                            addPage(pages[i], $(this), 'es');
+                            addPage(pages[i], $(this), 'en');
 
                     }
                 }
@@ -206,7 +206,7 @@
 
             // URIs - Format #/page/1 
 
-            Hash.on('^pagina\/([0-9]*)$', {
+            Hash.on('^page\/([0-9]*)$', {
                 yep: function(path, parts) {
                     var page = parts[1];
 
