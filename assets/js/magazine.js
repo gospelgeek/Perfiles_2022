@@ -1,6 +1,4 @@
-function addPage(page, book) {
-
-    var id, pages = book.turn('pages');
+function addPage(page, book, lang) {
 
     // Create a new element for this page
     var element = $('<div />', {});
@@ -13,12 +11,12 @@ function addPage(page, book) {
         element.html('<div class="gradient"></div><div class="loader"></div>');
 
         // Load the page
-        loadPage(page, element);
+        loadPage(page, element, lang);
     }
 
 }
 
-function loadPage(page, pageElement) {
+function loadPage(page, pageElement, lang) {
 
     // Create an image element
 
@@ -43,19 +41,16 @@ function loadPage(page, pageElement) {
     });
 
     // Load the page
+    img.attr('src', './assets/pages-' + lang + '/' + page + '.jpg');
 
-    img.attr('src', './assets/pages/' + page + '.jpg');
-
-    loadRegions(page, pageElement);
+    loadRegions(page, pageElement, lang);
 
 }
 
 // Load regions
 
-function loadRegions(page, element) {
-
-
-    $.getJSON('./assets/pages/' + page + '-page.json').
+function loadRegions(page, element, lang) {
+    $.getJSON('./assets/pages-' + lang + '/' + page + '-page.json').
     done(function(data) {
         $.each(data, function(key, region) {
             addRegion(region, element);
@@ -137,7 +132,7 @@ function loadLargePage(page, pageElement) {
 
     // Loadnew page
 
-    img.attr('src', './assets/pages/' + page + '-large.jpg');
+    img.attr('src', './assets/pages-es/' + page + '-large.jpg');
 }
 
 // Load small page
@@ -151,7 +146,7 @@ function loadSmallPage(page, pageElement) {
     img.unbind('load');
     // Loadnew page
 
-    img.attr('src', './assets/pages/' + page + '.jpg');
+    img.attr('src', './assets/pages-es/' + page + '.jpg');
 }
 
 // http://code.google.com/p/chromium/issues/detail?id=128488

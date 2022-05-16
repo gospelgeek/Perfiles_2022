@@ -1,0 +1,69 @@
+[{
+        "x": "0%",
+        "y": "20%",
+        "width": "46%",
+        "tag": "img",
+        "class": "photo",
+        "data": {
+            "src": "./assets/pics/edith.png"
+        }
+    },
+    {
+        "x": "36%",
+        "y": "32%",
+        "width": "59%",
+        "tag": "img",
+        "class": "img-tittle",
+        "data": {
+            "src": "./assets/pics/titulocarta.png"
+        }
+    },
+    {
+        "x": "48%",
+        "y": "40%",
+        "viewX": 1800,
+        "viewY": 1000,
+        "width": "46%",
+        "height": "100%",
+        "fontSize": "5.2em",
+        "tag": "p",
+        "class": "text-resaltado",
+        "data": {
+            "content": "Today we give thanks to God, who is our source of inspiration and knowledge; he is the one who walks with us at all times, including difficult moments, and allows new resources to come into our hands in the midst of adverse situations so that his Word may run and be glorified."
+        }
+    },
+    {
+        "x": "76%",
+        "y": "61%",
+        "viewX": 100,
+        "viewY": 30,
+        "width": "29%",
+        "height": "4%",
+        "fontSize": "0.6em",
+        "tag": "modal",
+        "id": "modal-p4",
+        "class": "button-read",
+        "text": "Reed More",
+        "icon": "./assets/pics/icons/leer.png",
+        "data": {
+            "title": "President's letter",
+            "content": "Today we give thanks to God, who is our source of inspiration and knowledge; he is the one who walks with us at all times, including difficult moments, and allows new resources to come into our hands in the midst of adverse situations so that his Word may run and be glorified."
+        }
+    },
+    {
+        "x": "76%",
+        "y": "66%",
+        "viewX": 100,
+        "viewY": 30,
+        "width": "29%",
+        "height": "4%",
+        "fontSize": "0.6em",
+        "tag": "print",
+        "class": "button-print",
+        "text": "Print",
+        "icon": "./assets/pics/icons/imprimir.png",
+        "data": {
+            "url": "https://drive.google.com/file/d/1SQga6RgmNDd0a35XPHDeOAy0U0cIo60W/preview"
+        }
+    }
+]

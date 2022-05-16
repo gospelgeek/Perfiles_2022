@@ -12,7 +12,8 @@
     display: flex;
     justify-content: center;
     z-index: 100;
-    width: 100%;
+    left: 50%;
+    transform: translate(-50%, 0);
     top: 0;
 }
 
@@ -407,4 +408,13 @@
 .result-search .content-results p {
     color: #ffffff;
     text-align: left;
+}
+
+.span {
+    color: rgb(234, 160, 42);
+    font-weight: bold;
+}
+
+.not-found {
+    color: #ffffff;
 }
