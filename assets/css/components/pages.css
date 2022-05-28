@@ -55,6 +55,8 @@ p {
 
 .p4 .button-magazine img {
     width: 25% !important;
+    border-radius: 100%;
+    box-shadow: 3px 3px 8px grey;
 }
 
 @media only screen and (max-width: 468px) {
@@ -68,5 +70,82 @@ p {
     .p4 .photo {
         top: 27% !important;
         width: 39% !important;
+    }
+    .p4 .button-read {
+        top: 68% !important;
+        left: 70% !important;
+    }
+    .p4 .button-print {
+        top: 76% !important;
+        left: 70% !important;
+    }
+    .p4 .button-magazine img {
+        width: 30% !important;
+    }
+    .p4 .button-magazine {
+        font-size: 0.6em;
+    }
+}
+
+.p4 #button-fb,
+.p4 #button-wpp,
+.p4 #button-twi {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 30px;
+    border-radius: 50%;
+    box-shadow: 3px 3px 8px grey;
+}
+
+.p4 #button-fb img,
+.p4 #button-wpp img,
+.p4 #button-twi img {
+    width: 78% !important;
+}
+
+.p4 #button-fb {
+    background-color: #3B579D;
+}
+
+.p4 #button-fb:hover {
+    background-color: #3965D2;
+    transform: scale(1.1);
+}
+
+.p4 #button-wpp {
+    background-color: #2BB20A;
+}
+
+.p4 #button-wpp:hover {
+    background-color: #6EE45A;
+    transform: scale(1.1);
+}
+
+.p4 #button-twi {
+    background-color: #00ACED;
+}
+
+.p4 #button-twi:hover {
+    background-color: #3BC9FF;
+    transform: scale(1.1);
+}
+
+@media only screen and (max-width: 468px) {
+    .p4 #button-fb,
+    .p4 #button-wpp,
+    .p4 #button-twi {
+        width: 126%;
+        height: 38px;
+    }
+    .p4 .button-share-fb {
+        left: 9% !important;
+    }
+    .p4 .button-share-wpp {
+        left: 23% !important;
+    }
+    .p4 .button-share-twi {
+        left: 37% !important;
     }
 }

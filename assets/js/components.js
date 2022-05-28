@@ -28,6 +28,10 @@ const addComponents = (region) => {
             element = addSVG('<a href="' + region.data.url + '" class="button-magazine" target=1 xmlns="http://www.w3.org/1999/xhtml">' + region.text + '<img src="' + region.icon + '"><a/>', region)
             break;
 
+        case 'share':
+            element = '<a href="' + region.data.url + "" + doClick(region.data.page) + '" target="blank" class="button-magazine" id="' + region.id + '" xmlns="http://www.w3.org/1999/xhtml"><div id="' + region.id + '"><img src="' + region.icon + '"></div></a>'
+            break;
+
         default:
             break;
     }
