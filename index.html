@@ -28,7 +28,7 @@
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://ipuc.org.co/mujer/perfiles/">
-    <meta property="og:image" content="./assets/pages-es/1.jpg">
+    <meta property="og:image" content="./assets/pages-es/preview.jpg">
     <meta name="og:title" content="Perfiles 2022 | Edición número 16 | Formato interactivo">
     <meta name="og:description" content="El magazín de la mujer cristiana celebra sus 16 años">
     <link rel="icon" type="image/png" href="/assets/pics/icons/book.png">
@@ -230,6 +230,9 @@
             });
 
             // URIs - Format #/page/1 
+            //  window.location.hash.replace('#', '%23')
+            //console.log(window.location.hash.replace('#', '%23'));
+            //  console.log(window.location.hash);
 
             Hash.on('^pagina\/([0-9]*)$', {
                 yep: function(path, parts) {
@@ -293,7 +296,7 @@
             test: Modernizr.csstransforms,
             yep: ['./assets/lib/turn.js'],
             nope: ['./assets/lib/turn.html4.min.js'],
-            both: ['./assets/css/magazine.css', './assets/css/components/navBar.css', './assets/css/components/loader.css', './assets/lib/zoom.min.js', './assets/js/magazine.js', './assets/js/components.js', './assets/js/navBar.js', './assets/css/components/pages.css', './assets/js/loader.js'],
+            both: ['./assets/css/magazine.css', './assets/css/components/navBar.css', './assets/css/components/loader.css', './assets/lib/zoom.min.js', './assets/js/magazine.js', './assets/js/components.js', './assets/js/navBar.js', './assets/js/shareButton.js', './assets/css/components/pages.css', './assets/js/loader.js'],
             complete: loadApp
         });
     </script>

@@ -66,6 +66,9 @@
 }
 
 @media only screen and (max-width: 468px) {
+    .navigation li a img {
+        width: unset;
+    }
     .navigation {
         top: 4%;
     }
