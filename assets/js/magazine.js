@@ -20,7 +20,7 @@ function loadPage(page, pageElement, lang) {
 
     // Create an image element
 
-    var img = $('<img />');
+    var img = $('<img />', { class: 'backPage' + page });
 
     img.mousedown(function(e) {
         e.preventDefault();
@@ -41,7 +41,7 @@ function loadPage(page, pageElement, lang) {
     });
 
     // Load the page
-    img.attr('src', './assets/pages-' + lang + '/' + page + '.jpg');
+    img.attr('src', './assets/pages-img/' + page + '.jpg');
 
     loadRegions(page, pageElement, lang);
 
@@ -115,39 +115,6 @@ function processRegion(region, regionType) {
 
 }
 
-// Load large page
-
-function loadLargePage(page, pageElement) {
-
-    var img = $('<img />');
-
-    img.load(function() {
-
-        var prevImg = pageElement.find('img');
-        $(this).css({ width: '100%', height: '100%' });
-        $(this).appendTo(pageElement);
-        prevImg.remove();
-
-    });
-
-    // Loadnew page
-
-    img.attr('src', './assets/pages-es/' + page + '-large.jpg');
-}
-
-// Load small page
-
-function loadSmallPage(page, pageElement) {
-
-    var img = pageElement.find('img');
-
-    img.css({ width: '100%', height: '100%' });
-
-    img.unbind('load');
-    // Loadnew page
-
-    img.attr('src', './assets/pages-es/' + page + '.jpg');
-}
 
 // http://code.google.com/p/chromium/issues/detail?id=128488
 

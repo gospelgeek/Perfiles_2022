@@ -18,19 +18,44 @@ p {
 }
 
 
+/*Page 1*/
+
+
 /*Page 2*/
 
-.p2 .to-page:hover {
+.p2 .backPage2 {
+    width: 200% !important;
+}
+
+.p2 .to-page:hover,
+.p3 .to-page:hover {
     opacity: 0.5;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
     filter: alpha(opacity=50);
 }
 
-.p2 .to-page p {
+.p2 .to-page p,
+.p2 .section,
+.p3 .to-page p,
+.p3 .section {
     margin: 0;
     padding-left: 7%;
     text-align: left;
     cursor: pointer;
+}
+
+.p2 .section,
+.p3 .section {
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+/*Page 3*/
+
+.p3 .backPage3 {
+    width: 200% !important;
+    float: right;
 }
 
 
@@ -54,7 +79,7 @@ p {
 }
 
 .p4 .button-magazine img {
-    width: 25% !important;
+    width: 22% !important;
     border-radius: 100%;
     box-shadow: 3px 3px 8px grey;
 }
