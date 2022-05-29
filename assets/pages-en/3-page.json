@@ -1,1 +1,153 @@
-[]
+[{
+    "x": "0%",
+    "y": "10%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "100%",
+    "height": "4%",
+    "fontSize": "3.2em",
+    "tag": "p",
+    "class": "to-page",
+    "data": {
+        "page": 15,
+        "content": "Taking care of my emotional health"
+    }
+}, {
+    "x": "0%",
+    "y": "18%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "100%",
+    "height": "4%",
+    "fontSize": "3.2em",
+    "tag": "p",
+    "class": "section",
+    "data": {
+        "content": "Divine Resources for Managing Emotions"
+    }
+}, {
+    "x": "0%",
+    "y": "22%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "100%",
+    "height": "4%",
+    "fontSize": "3.2em",
+    "tag": "p",
+    "class": "to-page",
+    "data": {
+        "page": 16,
+        "content": "If I don't have love, I am nothing"
+    }
+}, {
+    "x": "0%",
+    "y": "26%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "100%",
+    "height": "4%",
+    "fontSize": "3.2em",
+    "tag": "p",
+    "class": "to-page",
+    "data": {
+        "page": 17,
+        "content": "In you O God I have trusted"
+    }
+}, {
+    "x": "0%",
+    "y": "30%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "100%",
+    "height": "4%",
+    "fontSize": "3.2em",
+    "tag": "p",
+    "class": "to-page",
+    "data": {
+        "page": 18,
+        "content": "Forgiveness leads to inner healing"
+    }
+}, {
+    "x": "0%",
+    "y": "34%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "100%",
+    "height": "4%",
+    "fontSize": "3.2em",
+    "tag": "p",
+    "class": "to-page",
+    "data": {
+        "page": 19,
+        "content": "The infallible remedy prayer"
+    }
+}, {
+    "x": "0%",
+    "y": "38%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "100%",
+    "height": "4%",
+    "fontSize": "3.2em",
+    "tag": "p",
+    "class": "to-page",
+    "data": {
+        "page": 20,
+        "content": "Doers of your word"
+    }
+}, {
+    "x": "0%",
+    "y": "46%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "100%",
+    "height": "4%",
+    "fontSize": "3.2em",
+    "tag": "p",
+    "class": "section",
+    "data": {
+        "content": "Something more about emotions"
+    }
+}, {
+    "x": "0%",
+    "y": "50%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "100%",
+    "height": "4%",
+    "fontSize": "3.2em",
+    "tag": "p",
+    "class": "to-page",
+    "data": {
+        "page": 21,
+        "content": "Emotional intelligence in women"
+    }
+}, {
+    "x": "0%",
+    "y": "54%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "100%",
+    "height": "4%",
+    "fontSize": "3.2em",
+    "tag": "p",
+    "class": "to-page",
+    "data": {
+        "page": 22,
+        "content": "The anguish of grief"
+    }
+}, {
+    "x": "0%",
+    "y": "58%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "100%",
+    "height": "4%",
+    "fontSize": "3.2em",
+    "tag": "p",
+    "class": "to-page",
+    "data": {
+        "page": 23,
+        "content": "Emotions and my spiritual life"
+    }
+}]

@@ -20,10 +20,9 @@
         "height": "4%",
         "fontSize": "3.2em",
         "tag": "p",
-        "class": "to-page",
+        "class": "section",
         "data": {
-            "page": 4,
-            "content": "Editorial e información legal"
+            "content": "Soy emocional"
         }
     },
     {
@@ -37,8 +36,8 @@
         "tag": "p",
         "class": "to-page",
         "data": {
-            "page": 5,
-            "content": "Una fe cimentada en tu palabra"
+            "page": 4,
+            "content": "La mujer un ser emocional"
         }
     },
     {
@@ -52,8 +51,140 @@
         "tag": "p",
         "class": "to-page",
         "data": {
+            "page": 5,
+            "content": "Qué son las emociones y por qué están allí"
+        }
+    },
+    {
+        "x": "0%",
+        "y": "22%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "100%",
+        "height": "4%",
+        "fontSize": "3.2em",
+        "tag": "p",
+        "class": "to-page",
+        "data": {
             "page": 6,
-            "content": "Mujer vive tu fe en Cristo"
+            "content": "Airaos, pero no pequéis"
+        }
+    },
+    {
+        "x": "0%",
+        "y": "26%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "100%",
+        "height": "4%",
+        "fontSize": "3.2em",
+        "tag": "p",
+        "class": "to-page",
+        "data": {
+            "page": 7,
+            "content": "Tú diste alegría a mi corazón"
+        }
+    },
+    {
+        "x": "0%",
+        "y": "30%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "100%",
+        "height": "4%",
+        "fontSize": "3.2em",
+        "tag": "p",
+        "class": "to-page",
+        "data": {
+            "page": 8,
+            "content": "No se turbe vuestro corazón, ni tengáis miedo"
+        }
+    },
+    {
+        "x": "0%",
+        "y": "34%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "100%",
+        "height": "4%",
+        "fontSize": "3.2em",
+        "tag": "p",
+        "class": "to-page",
+        "data": {
+            "page": 9,
+            "content": "¿Por qué te abates oh alma mía?"
+        }
+    },
+    {
+        "x": "0%",
+        "y": "38%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "100%",
+        "height": "4%",
+        "fontSize": "3.2em",
+        "tag": "p",
+        "class": "to-page",
+        "data": {
+            "page": 10,
+            "content": "Aborrezco la obra de los que se desvían"
+        }
+    },
+    {
+        "x": "0%",
+        "y": "42%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "100%",
+        "height": "4%",
+        "fontSize": "3.2em",
+        "tag": "p",
+        "class": "to-page",
+        "data": {
+            "page": 11,
+            "content": "¡Te alabo porque soy una creación admirable!"
+        }
+    }, {
+        "x": "0%",
+        "y": "46%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "100%",
+        "height": "4%",
+        "fontSize": "3.2em",
+        "tag": "p",
+        "class": "to-page",
+        "data": {
+            "page": 12,
+            "content": "¿Ansiosa?  Él cuida de ti"
+        }
+    }, {
+        "x": "0%",
+        "y": "50%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "100%",
+        "height": "4%",
+        "fontSize": "3.2em",
+        "tag": "p",
+        "class": "to-page",
+        "data": {
+            "page": 13,
+            "content": "El remedio para el aburrimiento"
+        }
+    }, {
+        "x": "0%",
+        "y": "54%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "100%",
+        "height": "4%",
+        "fontSize": "3.2em",
+        "tag": "p",
+        "class": "to-page",
+        "data": {
+            "page": 14,
+            "content": "Quita pues de tu corazón el enojo (Amargura)"
         }
     }
 
