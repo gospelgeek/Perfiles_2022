@@ -216,6 +216,7 @@
 
                         // left arrow
                         $('.magazine').turn('previous');
+                        hideAudio()
                         e.preventDefault();
 
                         break;
@@ -223,6 +224,7 @@
 
                         //right arrow
                         $('.magazine').turn('next');
+                        hideAudio()
                         e.preventDefault();
 
                         break;
@@ -272,6 +274,7 @@
             $('.next-button').click(function() {
 
                 $('.magazine').turn('next');
+                hideAudio()
 
             });
 
@@ -280,6 +283,7 @@
             $('.previous-button').click(function() {
 
                 $('.magazine').turn('previous');
+                hideAudio()
 
             });
 
@@ -296,7 +300,7 @@
             test: Modernizr.csstransforms,
             yep: ['./assets/lib/turn.js'],
             nope: ['./assets/lib/turn.html4.min.js'],
-            both: ['./assets/css/magazine.css', './assets/css/components/navBar.css', './assets/css/components/loader.css', './assets/lib/zoom.min.js', './assets/js/magazine.js', './assets/js/components.js', './assets/js/navBar.js', './assets/js/shareButton.js', './assets/css/components/pages.css', './assets/js/loader.js'],
+            both: ['./assets/css/magazine.css', './assets/css/components/navBar.css', './assets/css/components/loader.css', './assets/lib/zoom.min.js', './assets/js/magazine.js', './assets/js/components.js', './assets/js/navBar.js', './assets/js/eventsButtons.js', './assets/css/components/pages.css', './assets/js/loader.js'],
             complete: loadApp
         });
     </script>

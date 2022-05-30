@@ -53,16 +53,16 @@ function loadRegions(page, element, lang) {
     $.getJSON('./assets/pages-' + lang + '/' + page + '-page.json').
     done(function(data) {
         $.each(data, function(key, region) {
-            addRegion(region, element);
+            addRegion(region, element, lang);
         });
     });
 }
 
 // Add region
 
-function addRegion(region, pageElement) {
+function addRegion(region, pageElement, lang) {
 
-    var reg = $('<div />', { 'class': 'region ' + region['class'] }).append(addComponents(region))
+    var reg = $('<div />', { 'class': 'region ' + region['class'] }).append(addComponents(region, lang))
 
     reg.css({
         top: region.y,
