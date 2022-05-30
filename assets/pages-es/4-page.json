@@ -51,8 +51,24 @@
         }
     },
     {
-        "x": "76%",
+        "x": "66%",
         "y": "66%",
+        "viewX": 100,
+        "viewY": 30,
+        "width": "29%",
+        "height": "4%",
+        "fontSize": "0.6em",
+        "tag": "audio",
+        "id": "audio4",
+        "text": "Escuchar Audio",
+        "icon": "./assets/pics/icons/escuchar.png",
+        "data": {
+            "src": "./assets/audios/audio3.mp3"
+        }
+    },
+    {
+        "x": "76%",
+        "y": "71%",
         "viewX": 100,
         "viewY": 30,
         "width": "29%",

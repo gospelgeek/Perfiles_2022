@@ -1,4 +1,4 @@
-const addComponents = (region) => {
+const addComponents = (region, lang) => {
 
     var element;
 
@@ -24,12 +24,18 @@ const addComponents = (region) => {
 
             break;
 
+        case 'audio':
+            element = $('<div/>', { class: 'content-audio' }).append(
+                addSVG('<a class="button-magazine button-audio" id="button-' + region.id + '" xmlns="http://www.w3.org/1999/xhtml" onclick="showAudio(' + region.id + ')">' + region.text + '<img src="' + region.icon + '"><a/>', region),
+                '<audio id="' + region.id + '" class="audioPage" controls = true src="' + region.data.src + '"></audio>')
+            break;
+
         case 'print':
             element = addSVG('<a href="' + region.data.url + '" class="button-magazine" target=1 xmlns="http://www.w3.org/1999/xhtml">' + region.text + '<img src="' + region.icon + '"><a/>', region)
             break;
 
         case 'share':
-            element = '<a href="' + region.data.url + "" + doClick(region.data.page) + '" target="blank" class="button-magazine" id="' + region.id + '" xmlns="http://www.w3.org/1999/xhtml"><div id="' + region.id + '"><img src="' + region.icon + '"></div></a>'
+            element = '<a href="' + region.data.url + "" + doClick(region.data.page, lang) + '" target="blank" class="button-magazine" id="' + region.id + '" xmlns="http://www.w3.org/1999/xhtml"><div id="' + region.id + '"><img src="' + region.icon + '"></div></a>'
             break;
 
         default:
