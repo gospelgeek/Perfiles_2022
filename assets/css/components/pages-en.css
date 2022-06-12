@@ -1,0 +1,28 @@
+/*Styles to page in English*/
+
+
+/*Page 4*/
+
+.p4 .button-read {
+    left: 73% !important;
+}
+
+.p4 .btn-audio {
+    left: 71% !important;
+}
+
+.p4 .button-print {
+    left: 81% !important;
+}
+
+@media only screen and (max-width: 468px) {
+    .p4 .button-read {
+        left: 66% !important;
+    }
+    .p4 .btn-audio {
+        left: 63% !important;
+    }
+    .p4 .button-print {
+        left: 75% !important;
+    }
+}

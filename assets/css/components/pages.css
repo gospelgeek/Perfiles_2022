@@ -17,12 +17,37 @@ p {
     z-index: 100 !important;
 }
 
-.audioPage {
-    display: none;
+.number-page {
+    position: absolute;
+    font-size: .8em;
+    bottom: 45px;
+    z-index: 10;
+    cursor: pointer;
+    border-radius: 5px;
 }
 
-.content-audio {
-    display: flex;
+.even .number-page {
+    left: 55px;
+    transform: scale(1);
+    animation: pulse 2s 3;
+}
+
+.odd .number-page {
+    right: 55px;
+    transform: scale(1);
+    animation: pulse-2 2s 4;
+}
+
+@media only screen and (max-width: 468px) {
+    .number-page {
+        bottom: 9px;
+    }
+    .even .number-page {
+        left: 9px;
+    }
+    .odd .number-page {
+        right: 9px;
+    }
 }
 
 
@@ -92,6 +117,8 @@ p {
     width: 22% !important;
     border-radius: 100%;
     box-shadow: 3px 3px 8px grey;
+    transform: scale(1);
+    animation: pulse 2s 3;
 }
 
 @media only screen and (max-width: 468px) {
@@ -110,8 +137,12 @@ p {
         top: 68% !important;
         left: 70% !important;
     }
+    .p4 .btn-audio {
+        top: 77% !important;
+        left: 64% !important;
+    }
     .p4 .button-print {
-        top: 76% !important;
+        top: 85% !important;
         left: 70% !important;
     }
     .p4 .button-magazine img {
@@ -120,6 +151,10 @@ p {
     .p4 .button-magazine {
         font-size: 0.6em;
     }
+}
+
+.audioPage {
+    display: none;
 }
 
 .p4 #button-fb,
@@ -132,12 +167,15 @@ p {
     height: 30px;
     border-radius: 50%;
     box-shadow: 3px 3px 8px grey;
+    transform: scale(1);
+    animation: pulse 2s 3;
 }
 
 .p4 #button-fb img,
 .p4 #button-wpp img,
 .p4 #button-twi img {
     width: 78% !important;
+    box-shadow: none;
 }
 
 .p4 #button-fb {
@@ -165,6 +203,12 @@ p {
 .p4 #button-twi:hover {
     background-color: #3BC9FF;
     transform: scale(1.1);
+}
+
+.p4 .button-share-fb,
+.p4 .button-share-wpp,
+.p4 .button-share-twi {
+    bottom: 45px !important;
 }
 
 @media only screen and (max-width: 468px) {

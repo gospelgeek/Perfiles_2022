@@ -1,6 +1,7 @@
 function addPage(page, book, lang) {
 
-    // Create a new element for this page
+    var pages = book.turn('pages')
+        // Create a new element for this page
     var element = $('<div />', {});
 
     // Add the page to the flipbook
@@ -8,7 +9,12 @@ function addPage(page, book, lang) {
 
         // Add the initial HTML
         // It will contain a loader indicator and a gradient
-        element.html('<div class="gradient"></div><div class="loader"></div>');
+
+        if (page !== 1 && page !== pages) {
+            element.html('<div class="gradient"></div><div class="loader"></div><div class="number-page" onclick=goPage(2)>' + page + ' | Edición 16 - 2022</div>');
+        } else {
+            element.html('<div class="gradient"></div><div class="loader"></div>');
+        }
 
         // Load the page
         loadPage(page, element, lang);
@@ -53,14 +59,14 @@ function loadRegions(page, element, lang) {
     $.getJSON('./assets/pages-' + lang + '/' + page + '-page.json').
     done(function(data) {
         $.each(data, function(key, region) {
-            addRegion(region, element, lang);
+            addRegion(region, element, lang, page);
         });
     });
 }
 
 // Add region
 
-function addRegion(region, pageElement, lang) {
+function addRegion(region, pageElement, lang, page) {
 
     var reg = $('<div />', { 'class': 'region ' + region['class'] }).append(addComponents(region, lang))
 
@@ -70,9 +76,7 @@ function addRegion(region, pageElement, lang) {
         width: region.width
     }).attr('region-data', $.param(region.data || ''));
 
-
     reg.appendTo(pageElement);
-
 }
 
 // Process click on a region
@@ -182,8 +186,8 @@ function resizeViewport() {
             $('.magazine').css({ left: -bound.width / 2.5 });
         } else {
             $('.magazine').turn('display', 'double');
-            $('.magazine').turn('size', bound.width, height);
-
+            $('.magazine').turn('size', width * 0.72, height);
+            $('.magazine').css({ left: -width / 2.77 });
         }
 
     }
