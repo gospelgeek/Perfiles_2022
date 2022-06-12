@@ -60,6 +60,7 @@
         "fontSize": "0.6em",
         "tag": "audio",
         "id": "audio4",
+        "class": "btn-audio",
         "text": "Escuchar Audio",
         "icon": "./assets/pics/icons/escuchar.png",
         "data": {
@@ -84,7 +85,6 @@
     },
     {
         "x": "68%",
-        "y": "80%",
         "viewX": 100,
         "viewY": 30,
         "height": "4%",
@@ -101,7 +101,6 @@
     },
     {
         "x": "76%",
-        "y": "80%",
         "viewX": 100,
         "viewY": 30,
         "height": "4%",
@@ -118,7 +117,6 @@
     },
     {
         "x": "84%",
-        "y": "80%",
         "viewX": 100,
         "viewY": 30,
         "height": "4%",

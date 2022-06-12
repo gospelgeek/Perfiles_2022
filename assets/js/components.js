@@ -20,18 +20,18 @@ const addComponents = (region, lang) => {
                 $('<div/>', { id: region.id, class: 'modal' }).append(
                     $('<div/>', { class: 'header-modal' }).append($('<h1/>', {}).html(region.data.title)),
                     $('<div/>', { class: 'body-modal' }).append($('<p/>', { class: region.class }).html(region.data.content))),
-                addSVG('<a href="#' + region.id + '" rel="modal:open" class="button-magazine" xmlns="http://www.w3.org/1999/xhtml">' + region.text + '<img src="' + region.icon + '"><a/>', region))
+                addSVG('<a href="#' + region.id + '" rel="modal:open" class="button-magazine" xmlns="http://www.w3.org/1999/xhtml"><p>' + region.text + '</p><img src="' + region.icon + '"><a/>', region))
 
             break;
 
         case 'audio':
             element = $('<div/>', { class: 'content-audio' }).append(
-                addSVG('<a class="button-magazine button-audio" id="button-' + region.id + '" xmlns="http://www.w3.org/1999/xhtml" onclick="showAudio(' + region.id + ')">' + region.text + '<img src="' + region.icon + '"><a/>', region),
+                addSVG('<a class="button-magazine button-audio" id="button-' + region.id + '" xmlns="http://www.w3.org/1999/xhtml" onclick="showAudio(' + region.id + ')"><p>' + region.text + '</p><img src="' + region.icon + '"><a/>', region),
                 '<audio id="' + region.id + '" class="audioPage" controls = true src="' + region.data.src + '"></audio>')
             break;
 
         case 'print':
-            element = addSVG('<a href="' + region.data.url + '" class="button-magazine" target=1 xmlns="http://www.w3.org/1999/xhtml">' + region.text + '<img src="' + region.icon + '"><a/>', region)
+            element = addSVG('<a href="' + region.data.url + '" class="button-magazine" target=1 xmlns="http://www.w3.org/1999/xhtml"><p>' + region.text + '</p><img src="' + region.icon + '"><a/>', region)
             break;
 
         case 'share':
