@@ -11,7 +11,11 @@ function addPage(page, book, lang) {
         // It will contain a loader indicator and a gradient
 
         if (page !== 1 && page !== pages) {
-            element.html('<div class="gradient"></div><div class="loader"></div><div class="number-page" onclick=goPage(2)>' + page + ' | Edición 16 - 2022</div>');
+            if (lang == 'es') {
+                element.html('<div class="gradient"></div><div class="loader"></div><div class="number-page" onclick=goPage(2)>' + page + ' | Edición 16 - 2022</div>');
+            } else {
+                element.html('<div class="gradient"></div><div class="loader"></div><div class="number-page" onclick=goPage(2)>' + page + ' | Edition 16 - 2022</div>');
+            }
         } else {
             element.html('<div class="gradient"></div><div class="loader"></div>');
         }
