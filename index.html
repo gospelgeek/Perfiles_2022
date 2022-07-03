@@ -75,23 +75,28 @@
 
     <!--Navigation bar-->
     <div class="navigation options">
-        <ul class="options">
-            <li class="thumb options">
-                <a class="options" onclick="createThumb(`${ $('.magazine').turn('pages')}`)">
-                    <img src="/assets/pics/icons/grid.png" class="options" alt=""> </a>
-                </a>
-            </li>
-            <li class="search options">
-                <a class="options" onclick="createSearch()">
-                    <img src="/assets/pics/icons/search.png" class="options" alt=""> </a>
-                </a>
-            </li>
-            <li class="language options">
-                <a class="options" onclick="changeLanguage()">
-                    <img src="/assets/pics/icons/globe.png" class="options" alt=""> </a>
-                </a>
-            </li>
-        </ul>
+        <div class="menu">
+            <ul class="options">
+                <li class="thumb options">
+                    <a class="options" onclick="createThumb(`${ $('.magazine').turn('pages')}`)">
+                        <img src="/assets/pics/icons/grid.png" class="options" alt=""> </a>
+                    </a>
+                </li>
+                <li class="search options">
+                    <a class="options" onclick="createSearch()">
+                        <img src="/assets/pics/icons/search.png" class="options" alt=""> </a>
+                    </a>
+                </li>
+                <li class="language options">
+                    <a class="options" onclick="changeLanguage()">
+                        <img src="/assets/pics/icons/globe.png" class="options" alt=""> </a>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="show-menu">
+            <img src="/assets/pics/icons/down.png" class="options" alt=""> </a>
+        </div>
     </div>
 
     <!--Search Section-->
