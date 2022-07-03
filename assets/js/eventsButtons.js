@@ -11,6 +11,8 @@ const doClick = (page, lang) => {
     return url
 }
 
+
+//Functions to show audio
 const showAudio = (audio) => {
     $('#button-' + audio.id).parent().parent().css({ display: 'none' })
     $('#button-' + audio.id).css({ display: 'none' })
@@ -24,3 +26,17 @@ const hideAudio = () => {
     $('.audioPage').css({ display: 'none' })
     $('.audioPage ')[0].pause();
 }
+
+
+var btnNav = document.querySelector('.show-menu'),
+    menu = document.querySelector('.menu');
+
+btnNav.addEventListener('click', () => {
+    btnNav.classList.toggle('active-menu');
+    menu.classList.toggle('active-menu');
+    $('.container-language').removeClass("visible");
+    $('.container-search').removeClass("visible");
+    $('.container-thumbs').remove()
+});
+
+//Function to show menu
