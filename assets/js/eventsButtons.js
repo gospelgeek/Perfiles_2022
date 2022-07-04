@@ -27,6 +27,7 @@ const hideAudio = () => {
     $('.audioPage ')[0].pause();
 }
 
+//Function to show menu
 
 var btnNav = document.querySelector('.show-menu'),
     menu = document.querySelector('.menu');
@@ -38,5 +39,3 @@ btnNav.addEventListener('click', () => {
     $('.container-search').removeClass("visible");
     $('.container-thumbs').remove()
 });
-
-//Function to show menu

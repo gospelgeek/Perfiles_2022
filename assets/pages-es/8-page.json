@@ -1,0 +1,27 @@
+[{
+    "x": "0%",
+    "y": "6%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "100%",
+    "height": "4%",
+    "fontSize": "3.2em",
+    "tag": "h1",
+    "class": "title",
+    "data": {
+        "content": "Qué son las emociones y por qué están allí"
+    }
+}, {
+    "x": "7%",
+    "y": "16%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "83%",
+    "height": "4%",
+    "fontSize": "3.7em",
+    "tag": "p",
+    "class": "text-biblical",
+    "data": {
+        "content": "“Y el mismo Dios de paz os santifique por completo; y todo vuestro ser, y espíritu, y alma y cuerpo sea guardado irreprensible para la venida de nuestro Señor Jesucristo” (1 Tesalonicenses 5:23)"
+    }
+}]

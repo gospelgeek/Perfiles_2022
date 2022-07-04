@@ -1,0 +1,27 @@
+[{
+    "x": "0%",
+    "y": "6%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "100%",
+    "height": "4%",
+    "fontSize": "3.2em",
+    "tag": "h1",
+    "class": "title",
+    "data": {
+        "content": "Hacedoras de tu palabra"
+    }
+}, {
+    "x": "8%",
+    "y": "16%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "83%",
+    "height": "4%",
+    "fontSize": "3.7em",
+    "tag": "p",
+    "class": "text-biblical",
+    "data": {
+        "content": "“Pero sed hacedores de la palabra, y no tan solamente oidores, engañándoos a vosotros mismos. Porque si alguno es oidor de la palabra, pero no hacedor de ella, éste es semejante al hombre que considera en un espejo su rostro natural. Porque él se considera a sí mismo, y se va, luego olvida cómo era. Mas el que mira atentamente a la perfecta ley, la de la libertad, y persevera en ella, no siendo oidor olvidadizo, sino hacedor de la obra, éste será bienaventurado en lo que hace”. Santiago 1: 22-25 RV.1960"
+    }
+}]

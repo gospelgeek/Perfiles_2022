@@ -8,7 +8,7 @@ h2 {
 }
 
 p {
-    line-height: 1.3;
+    line-height: 1.4;
     margin: 0;
     text-align: justify;
 }
@@ -16,6 +16,25 @@ p {
 .blocker {
     z-index: 100 !important;
 }
+
+span {
+    font-weight: bold;
+}
+
+
+/*Magazine text*/
+
+.text-biblical {
+    font-family: 'Belgrano', serif;
+}
+
+.text-introductory,
+.button-magazine {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+/*Magzine pagination*/
 
 .number-page {
     position: absolute;
@@ -51,7 +70,82 @@ p {
 }
 
 
-/*Page 1*/
+/*Section title*/
+
+.section-magazine,
+.section {
+    font-weight: bold;
+    font-style: italic;
+    cursor: context-menu;
+}
+
+.section-magazine p {
+    text-align: right;
+    padding-right: 7%;
+}
+
+
+/*Buttons read, listen and print*/
+
+.button-magazine {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #000000;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.button-magazine img {
+    width: 7% !important;
+    border-radius: 100%;
+    box-shadow: 3px 3px 8px grey;
+    transform: scale(1);
+    animation: pulse 2s 3;
+}
+
+
+/*Button audio*/
+
+.audioPage {
+    display: none;
+}
+
+audio {
+    display: flex;
+    position: absolute;
+    width: 68%;
+    height: 26px;
+    margin-top: 1%;
+    right: 60%;
+}
+
+
+/*Modal*/
+
+.modal {
+    max-width: unset !important;
+    width: 50% !important;
+    height: 100%;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.header-modal h1 {
+    font-size: 1.1em;
+}
+
+.body-modal p {
+    font-size: .9em;
+    overflow-y: auto;
+    line-height: 1.6;
+}
+
+.modal a.close-modal {
+    top: 2.5px !important;
+    right: 8.5px !important;
+    background-image: url(/assets/pics/icons/close.png) !important;
+}
 
 
 /*Page 2*/
@@ -68,20 +162,11 @@ p {
 }
 
 .p2 .to-page p,
-.p2 .section,
 .p3 .to-page p,
-.p3 .section {
+.section {
     margin: 0;
     padding-left: 7%;
-    text-align: left;
     cursor: pointer;
-}
-
-.p2 .section,
-.p3 .section {
-    font-weight: bold;
-    font-style: italic;
-    cursor: context-menu;
 }
 
 
@@ -94,76 +179,6 @@ p {
 
 
 /*Page 4*/
-
-.text-resaltado {
-    color: rgba(60, 60, 60, 0.784);
-}
-
-.p4 .button-magazine {
-    display: flex;
-    align-items: center;
-    font-size: .5em;
-    text-decoration: none;
-    color: rgba(60, 60, 60, 0.842);
-    text-transform: uppercase;
-    cursor: pointer;
-}
-
-.p4 .button-magazine p {
-    text-align: end;
-}
-
-.p4 .button-magazine img {
-    width: 22% !important;
-    border-radius: 100%;
-    box-shadow: 3px 3px 8px grey;
-    transform: scale(1);
-    animation: pulse 2s 3;
-}
-
-@media only screen and (max-width: 468px) {
-    .p4 .text-resaltado {
-        width: 51% !important;
-        left: 39% !important;
-    }
-    .p4 .text-resaltado p {
-        font-size: 6em !important;
-    }
-    .p4 .photo {
-        top: 27% !important;
-        width: 39% !important;
-    }
-    .p4 .button-read {
-        top: 68% !important;
-        left: 70% !important;
-    }
-    .p4 .btn-audio {
-        top: 77% !important;
-        left: 64% !important;
-    }
-    .p4 .button-print {
-        top: 85% !important;
-        left: 70% !important;
-    }
-    .p4 .button-magazine img {
-        width: 30% !important;
-    }
-    .p4 .button-magazine {
-        font-size: 0.6em;
-    }
-}
-
-.audioPage {
-    display: none;
-}
-
-.p4 audio {
-    position: absolute;
-    right: 0;
-    width: 165%;
-    height: 26px;
-    margin-top: 3%;
-}
 
 .p4 #button-fb,
 .p4 #button-wpp,
@@ -236,3 +251,6 @@ p {
         left: 37% !important;
     }
 }
+
+
+/*Page 9*/
