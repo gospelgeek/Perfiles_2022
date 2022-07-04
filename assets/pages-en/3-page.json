@@ -1,6 +1,19 @@
 [{
-    "x": "0%",
+    "x": "0",
     "y": "10%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "100%",
+    "height": "4%",
+    "fontSize": "3.5em",
+    "tag": "p",
+    "class": "section",
+    "data": {
+        "content": "Several"
+    }
+}, {
+    "x": "0%",
+    "y": "14%",
     "viewX": 1800,
     "viewY": 50,
     "width": "100%",
@@ -9,12 +22,12 @@
     "tag": "p",
     "class": "to-page",
     "data": {
-        "page": 15,
-        "content": "Taking care of my emotional health"
+        "page": 26,
+        "content": "Intermediate 1"
     }
 }, {
     "x": "0%",
-    "y": "18%",
+    "y": "20%",
     "viewX": 1800,
     "viewY": 50,
     "width": "100%",
@@ -27,7 +40,7 @@
     }
 }, {
     "x": "0%",
-    "y": "22%",
+    "y": "24%",
     "viewX": 1800,
     "viewY": 50,
     "width": "100%",
@@ -36,12 +49,12 @@
     "tag": "p",
     "class": "to-page",
     "data": {
-        "page": 16,
+        "page": 28,
         "content": "If I don't have love, I am nothing"
     }
 }, {
     "x": "0%",
-    "y": "26%",
+    "y": "28%",
     "viewX": 1800,
     "viewY": 50,
     "width": "100%",
@@ -50,12 +63,12 @@
     "tag": "p",
     "class": "to-page",
     "data": {
-        "page": 17,
-        "content": "In you O God I have trusted"
+        "page": 30,
+        "content": "In you O Lord I have trusted"
     }
 }, {
     "x": "0%",
-    "y": "30%",
+    "y": "32%",
     "viewX": 1800,
     "viewY": 50,
     "width": "100%",
@@ -64,12 +77,12 @@
     "tag": "p",
     "class": "to-page",
     "data": {
-        "page": 18,
+        "page": 32,
         "content": "Forgiveness leads to inner healing"
     }
 }, {
     "x": "0%",
-    "y": "34%",
+    "y": "36%",
     "viewX": 1800,
     "viewY": 50,
     "width": "100%",
@@ -78,12 +91,12 @@
     "tag": "p",
     "class": "to-page",
     "data": {
-        "page": 19,
+        "page": 34,
         "content": "The infallible remedy prayer"
     }
 }, {
     "x": "0%",
-    "y": "38%",
+    "y": "40%",
     "viewX": 1800,
     "viewY": 50,
     "width": "100%",
@@ -92,21 +105,21 @@
     "tag": "p",
     "class": "to-page",
     "data": {
-        "page": 20,
+        "page": 36,
         "content": "Doers of your word"
     }
 }, {
-    "x": "0%",
+    "x": "0",
     "y": "46%",
     "viewX": 1800,
     "viewY": 50,
     "width": "100%",
     "height": "4%",
-    "fontSize": "3.2em",
+    "fontSize": "3.5em",
     "tag": "p",
     "class": "section",
     "data": {
-        "content": "Something more about emotions"
+        "content": "Several"
     }
 }, {
     "x": "0%",
@@ -119,12 +132,39 @@
     "tag": "p",
     "class": "to-page",
     "data": {
-        "page": 21,
+        "page": 38,
+        "content": "Intermediate 2"
+    }
+}, {
+    "x": "0%",
+    "y": "56%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "100%",
+    "height": "4%",
+    "fontSize": "3.2em",
+    "tag": "p",
+    "class": "section",
+    "data": {
+        "content": "Something more about emotions"
+    }
+}, {
+    "x": "0%",
+    "y": "60%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "100%",
+    "height": "4%",
+    "fontSize": "3.2em",
+    "tag": "p",
+    "class": "to-page",
+    "data": {
+        "page": 40,
         "content": "Emotional intelligence in women"
     }
 }, {
     "x": "0%",
-    "y": "54%",
+    "y": "64%",
     "viewX": 1800,
     "viewY": 50,
     "width": "100%",
@@ -133,12 +173,12 @@
     "tag": "p",
     "class": "to-page",
     "data": {
-        "page": 22,
+        "page": 42,
         "content": "The anguish of grief"
     }
 }, {
     "x": "0%",
-    "y": "58%",
+    "y": "68%",
     "viewX": 1800,
     "viewY": 50,
     "width": "100%",
@@ -147,7 +187,34 @@
     "tag": "p",
     "class": "to-page",
     "data": {
-        "page": 23,
+        "page": 44,
         "content": "Emotions and my spiritual life"
+    }
+}, {
+    "x": "0",
+    "y": "74%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "100%",
+    "height": "4%",
+    "fontSize": "3.5em",
+    "tag": "p",
+    "class": "section",
+    "data": {
+        "content": "Informative"
+    }
+}, {
+    "x": "0%",
+    "y": "78%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "100%",
+    "height": "4%",
+    "fontSize": "3.2em",
+    "tag": "p",
+    "class": "to-page",
+    "data": {
+        "page": 46,
+        "content": "Informative, Social and Management"
     }
 }]

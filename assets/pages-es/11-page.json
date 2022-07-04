@@ -1,0 +1,27 @@
+[{
+    "x": "0%",
+    "y": "2%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "100%",
+    "height": "4%",
+    "fontSize": "3.2em",
+    "tag": "p",
+    "class": "section-magazine",
+    "data": {
+        "content": "Soy emocional"
+    }
+}, {
+    "x": "8%",
+    "y": "16%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "83%",
+    "height": "4%",
+    "fontSize": "3.7em",
+    "tag": "p",
+    "class": "text-introductory",
+    "data": {
+        "content": "Debemos recordar que como seres humanos tenemos unas emociones básicas dadas por Dios para nuestra subsistencia y adaptación al entorno, y entre esas emociones está la ira; y saber que así como es normal sentir alegría y satisfacción cuando algo sale bien, o tristeza cuando sufrimos una pérdida, también es natural sentir ira cuando algo sale o anda mal, cuando las cosas no se ajustan a lo que pensábamos o deseábamos;  por lo tanto, independientemente que seamos cristianas o no, somos seres humanos y como tal sentimos y experimentamos todas las emociones."
+    }
+}]

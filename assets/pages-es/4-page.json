@@ -1,86 +1,15 @@
 [{
-        "x": "0%",
-        "y": "20%",
-        "width": "46%",
-        "tag": "img",
-        "class": "photo",
-        "data": {
-            "src": "./assets/pics/edith.png"
-        }
-    },
-    {
-        "x": "36%",
-        "y": "32%",
-        "width": "59%",
-        "tag": "img",
-        "class": "img-tittle",
-        "data": {
-            "src": "./assets/pics/titulocarta.png"
-        }
-    },
-    {
-        "x": "48%",
-        "y": "40%",
+        "x": "0",
+        "y": "6%",
         "viewX": 1800,
-        "viewY": 1000,
-        "width": "46%",
-        "height": "100%",
-        "fontSize": "5.2em",
-        "tag": "p",
-        "class": "text-resaltado",
-        "data": {
-            "content": "Hoy damos gracias a Dios, quien es nuestra fuente de inspiración y conocimiento; es quien camina con nosotros en todo tiempo, incluyendo los momentos difíciles, y permite que en medio de situaciones adversas, lleguen a nuestra mano nuevos recursos para que su Palabra corra y sea glorificada."
-        }
-    },
-    {
-        "x": "76%",
-        "y": "61%",
-        "viewX": 100,
-        "viewY": 30,
-        "width": "29%",
+        "viewY": 50,
+        "width": "100%",
         "height": "4%",
-        "fontSize": "0.6em",
-        "tag": "modal",
-        "id": "modal-p4",
-        "class": "button-read",
-        "text": "Leer más",
-        "icon": "./assets/pics/icons/leer.png",
+        "fontSize": "3.5em",
+        "tag": "h1",
+        "class": "title",
         "data": {
-            "title": "Carta de la presidenta",
-            "content": "Hoy damos gracias a Dios, quien es nuestra fuente de inspiración y conocimiento; es quien camina con nosotros en todo tiempo, incluyendo los momentos difíciles, y permite que en medio de situaciones adversas, lleguen a nuestra mano nuevos recursos para que su Palabra corra y sea glorificada."
-        }
-    },
-    {
-        "x": "66%",
-        "y": "66%",
-        "viewX": 100,
-        "viewY": 30,
-        "width": "29%",
-        "height": "4%",
-        "fontSize": "0.6em",
-        "tag": "audio",
-        "id": "audio4",
-        "class": "btn-audio",
-        "text": "Escuchar Audio",
-        "icon": "./assets/pics/icons/escuchar.png",
-        "data": {
-            "src": "./assets/audios/audio3.mp3"
-        }
-    },
-    {
-        "x": "76%",
-        "y": "71%",
-        "viewX": 100,
-        "viewY": 30,
-        "width": "29%",
-        "height": "4%",
-        "fontSize": "0.6em",
-        "tag": "print",
-        "class": "button-print",
-        "text": "Imprimir",
-        "icon": "./assets/pics/icons/imprimir.png",
-        "data": {
-            "url": "https://drive.google.com/file/d/1SQga6RgmNDd0a35XPHDeOAy0U0cIo60W/preview"
+            "content": "Editorial"
         }
     },
     {
