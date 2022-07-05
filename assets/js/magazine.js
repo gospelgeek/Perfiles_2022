@@ -6,7 +6,7 @@ function addPage(page, book, lang) {
 
     // Add the page to the flipbook
     if (book.turn('addPage', element, page)) {
-
+        console.log(page);
         // Add the initial HTML
         // It will contain a loader indicator and a gradient
 
