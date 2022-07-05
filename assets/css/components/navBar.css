@@ -94,8 +94,8 @@
     .navigation li a img {
         width: unset;
     }
-    .navigation {
-        top: 4%;
+    .navigation .show-menu {
+        padding: 6px 0;
     }
 }
 
