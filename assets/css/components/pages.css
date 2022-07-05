@@ -231,24 +231,26 @@ audio {
 .p4 .button-share-fb,
 .p4 .button-share-wpp,
 .p4 .button-share-twi {
-    bottom: 45px !important;
+    bottom: 45px;
 }
 
 @media only screen and (max-width: 468px) {
-    .p4 #button-fb,
-    .p4 #button-wpp,
-    .p4 #button-twi {
+    #button-fb,
+    #button-wpp,
+    #button-twi {
         width: 100%;
         height: 30px;
     }
-    .p4 .button-share-fb {
-        left: 9% !important;
+    .button-share-fb,
+    .button-share-wpp,
+    .button-share-twi {
+        bottom: 28px !important;
     }
-    .p4 .button-share-wpp {
-        left: 23% !important;
+    .button-share-fb {
+        left: 64% !important;
     }
-    .p4 .button-share-twi {
-        left: 37% !important;
+    .button-share-wpp {
+        left: 74% !important;
     }
 }
 
