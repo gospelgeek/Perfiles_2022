@@ -1,11 +1,11 @@
 [{
     "x": "0%",
-    "y": "2%",
+    "y": "-1%",
     "viewX": 1800,
     "viewY": 50,
-    "width": "100%",
+    "width": "94%",
     "height": "4%",
-    "fontSize": "3.2em",
+    "fontSize": "2.8em",
     "tag": "p",
     "class": "section-magazine",
     "data": {

@@ -1,33 +1,59 @@
 [{
-        "x": "0%",
+        "x": "43%",
         "y": "2%",
         "viewX": 1800,
         "viewY": 50,
-        "width": "100%",
+        "width": "20%",
         "height": "4%",
-        "fontSize": "3.2em",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "",
+        "data": {
+            "src": "./assets/pics/icons/logo_perfiles.png"
+        }
+    }, {
+        "x": "0%",
+        "y": "-1%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "94%",
+        "height": "4%",
+        "fontSize": "2.8em",
         "tag": "p",
         "class": "section-magazine",
         "data": {
             "content": "Recursos divinos"
         }
     }, {
-        "x": "8%",
+        "x": "41%",
         "y": "16%",
         "viewX": 1800,
         "viewY": 50,
-        "width": "83%",
+        "width": "9%",
         "height": "4%",
-        "fontSize": "3.7em",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "",
+        "data": {
+            "src": "./assets/pics/icons/Flechatexto.png"
+        }
+    }, {
+        "x": "51%",
+        "y": "14%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "40%",
+        "height": "4%",
+        "fontSize": "7em",
         "tag": "p",
         "class": "text-introductory",
         "data": {
-            "content": "La palabra de Dios, es viva y eficaz y ella transforma nuestro pensamiento y nuestra forma de actuar; pero para que esta palabra produzca un cambio en nuestra vida, primeramente es necesario que la creamos y que la pongamos por obra, es decir que la obedezcamos."
+            "content": "Si andamos según la carne, ignorando lo que la Palabra del señor nos enseña, estaremos permitiendo que pensamientos negativos y algunas emociones se enseñoree de nosotros;."
         }
     },
     {
         "x": "70%",
-        "y": "40%",
+        "y": "48%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
@@ -45,7 +71,7 @@
     },
     {
         "x": "58%",
-        "y": "45%",
+        "y": "53%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
@@ -62,7 +88,7 @@
     },
     {
         "x": "70%",
-        "y": "50%",
+        "y": "58%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
