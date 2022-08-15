@@ -61,6 +61,7 @@ body {
 }
 
 .magazine .even .gradient {
+    z-index: 1;
     position: absolute;
     top: 0;
     left: 0;
@@ -75,6 +76,7 @@ body {
 }
 
 .magazine .odd .gradient {
+    z-index: 1;
     position: absolute;
     top: 0;
     left: 0;
@@ -94,7 +96,7 @@ body {
 }
 
 .magazine-viewport .loader {
-    background-image: url(../pics/loader.gif);
+    background-image: url(../pics/icons/loader.gif);
     width: 22px;
     height: 22px;
     position: absolute;
@@ -161,14 +163,14 @@ body {
 }
 
 .magazine-viewport .previous-button {
-    background-image: url(../pics/left-arrow.png);
+    background-image: url(../pics/icons/left-arrow.png);
     background-position: 32% center;
     background-size: 40% 20%;
     background-repeat: no-repeat;
 }
 
 .magazine-viewport .next-button {
-    background-image: url(../pics/right-arrow.png);
+    background-image: url(../pics/icons/right-arrow.png);
     background-position: 60% center;
     background-size: 40% 20%;
     background-repeat: no-repeat;

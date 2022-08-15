@@ -2,11 +2,10 @@ function addPage(page, book, lang) {
 
     var pages = book.turn('pages')
         // Create a new element for this page
-    var element = $('<div />', {});
+    var element = $('<div />', { class: 'puebaaaa' });
 
     // Add the page to the flipbook
     if (book.turn('addPage', element, page)) {
-        console.log(page);
         // Add the initial HTML
         // It will contain a loader indicator and a gradient
 
@@ -50,12 +49,31 @@ function loadPage(page, pageElement, lang) {
         pageElement.find('.loader').remove();
     });
 
+
     // Load the page
-    img.attr('src', './assets/pages-img/' + page + '.jpg');
+    checkImage('../assets/pics/backgrounds/' + page + '.jpg', img, pageElement, page)
 
     loadRegions(page, pageElement, lang);
 
 }
+
+function checkImage(url, img, element, page) {
+    var request = new XMLHttpRequest();
+    request.open("GET", url, true);
+    request.send();
+    request.onload = function() {
+        status = request.status;
+        if (request.status == 200) //if(statusText == OK)
+        {
+            img.attr('src', url);
+        } else {
+            var video = $('<div/>', { 'class': 'videoPages' }).append($('<video/>', { playsinline: true, autoplay: true, src: '../assets/pics/videos/' + page + '.mp4', loop: true, 'class': 'backVideo' + page }));
+            video.appendTo(element)
+        }
+    }
+}
+
+
 
 // Load regions
 

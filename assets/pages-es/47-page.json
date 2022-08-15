@@ -1,33 +1,33 @@
 [{
-        "x": "0%",
-        "y": "2%",
+        "x": "2%",
+        "y": "6%",
         "viewX": 1800,
         "viewY": 50,
-        "width": "100%",
+        "width": "9%",
         "height": "4%",
-        "fontSize": "3.2em",
-        "tag": "p",
-        "class": "section-magazine",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "",
         "data": {
-            "content": "Algo más"
+            "src": "./assets/pics/icons/Flechatexto.png"
         }
     }, {
-        "x": "8%",
-        "y": "16%",
+        "x": "12%",
+        "y": "-2%",
         "viewX": 1800,
         "viewY": 50,
-        "width": "83%",
+        "width": "50%",
         "height": "4%",
-        "fontSize": "3.7em",
+        "fontSize": "6em",
         "tag": "p",
         "class": "text-introductory",
         "data": {
-            "content": "Los seres humanos desarrollamos apegos, que se traducen en lazos de amor y pertenencia mutua con seres vivos y cosas. Cuando por algún motivo estos seres vivos o estas cosas ya no existen para nosotros, entramos en una angustia por la falta de estas; falta que nosotros llamamos <span>“duelo”</span>."
+            "content": "La palabra de Dios tiene varios relatos de personajes biblícos que afrontaron el duele en diversos momentos de su vida; tenemos a Marta y María, Rut y David, la viuda de Naín, Job y María, entre otros. Estas historias nos permiten entender lo natural y común que es el duelo entre los seres humanos, como también la importancia y el cuidado del Señor a los dolientes que están atravesándolo"
         }
     },
     {
-        "x": "70%",
-        "y": "40%",
+        "x": "75%",
+        "y": "30%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
@@ -44,8 +44,8 @@
         }
     },
     {
-        "x": "58%",
-        "y": "45%",
+        "x": "63%",
+        "y": "35%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
@@ -61,8 +61,8 @@
         }
     },
     {
-        "x": "70%",
-        "y": "50%",
+        "x": "76%",
+        "y": "40%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
