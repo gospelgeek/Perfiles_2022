@@ -88,5 +88,22 @@
         "data": {
             "url": "https://drive.google.com/file/d/1SQga6RgmNDd0a35XPHDeOAy0U0cIo60W/preview"
         }
+    },
+    {
+        "x": "66%",
+        "y": "58%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "10%",
+        "fontSize": "3.3em",
+        "tag": "modal",
+        "id": "modalReflexion-p33",
+        "class": "button-read",
+        "text": "Reflexionar",
+        "icon": "./assets/pics/icons/leer.png",
+        "data": {
+            "title": "<br><br><br>"
+        }
     }
 ]
