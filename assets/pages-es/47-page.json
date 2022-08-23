@@ -27,7 +27,7 @@
     },
     {
         "x": "75%",
-        "y": "30%",
+        "y": "26%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
@@ -45,7 +45,7 @@
     },
     {
         "x": "63%",
-        "y": "35%",
+        "y": "31%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
@@ -62,7 +62,7 @@
     },
     {
         "x": "76%",
-        "y": "40%",
+        "y": "36%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
@@ -74,6 +74,23 @@
         "icon": "./assets/pics/icons/imprimir.png",
         "data": {
             "url": "https://drive.google.com/file/d/1SQga6RgmNDd0a35XPHDeOAy0U0cIo60W/preview"
+        }
+    },
+    {
+        "x": "72%",
+        "y": "41%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "10%",
+        "fontSize": "3.3em",
+        "tag": "modal",
+        "id": "modalReflexion-p47",
+        "class": "button-read",
+        "text": "Reflexionar",
+        "icon": "./assets/pics/icons/leer.png",
+        "data": {
+            "title": "<br><br><br>"
         }
     }
 ]
