@@ -210,7 +210,7 @@
         "tag": "p",
         "class": "to-page",
         "data": {
-            "page": 23,
+            "page": 24,
             "content": "Una vida fructífera"
         }
     }, {
@@ -224,7 +224,7 @@
         "tag": "p",
         "class": "to-page",
         "data": {
-            "page": 24,
+            "page": 26,
             "content": "Quita pues de tu corazón el enojo"
         }
     }, {
@@ -238,7 +238,7 @@
         "tag": "p",
         "class": "to-page",
         "data": {
-            "page": 25,
+            "page": 28,
             "content": "Cuidando mi salud emocional"
         }
     }
