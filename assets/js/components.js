@@ -24,6 +24,7 @@ const addComponents = (region, lang) => {
 
             break;
 
+
         case 'audio':
             element = $('<div/>', { class: 'content-audio' }).append(
                 addSVG('<a class="button-magazine button-audio" id="button-' + region.id + '" xmlns="http://www.w3.org/1999/xhtml" onclick="showAudio(' + region.id + ')"><p style="font-size:' + region.fontSize + '">' + region.text + '</p><img src="' + region.icon + '"><a/>', region),

@@ -12,6 +12,12 @@
 
        }
 
+       if (page % 2 == 0) {
+           element.addClass('even')
+       } else {
+           element.addClass('odd')
+       }
+
        // Add the page to the flipbook
        if (book.turn('addPage', element, page)) {
            // Add the initial HTML
