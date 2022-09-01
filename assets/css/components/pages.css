@@ -26,6 +26,26 @@ span {
 }
 
 
+/*Tooltip*/
+
+.contentAuthor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contentAuthor p {
+    width: 42%;
+    float: right;
+}
+
+.photoAuthor {
+    border-radius: 100%;
+    width: 38px !important;
+    height: 38px;
+}
+
+
 /*Magazine text*/
 
 .text-biblical {
@@ -119,6 +139,10 @@ span {
     animation: pulse 2s 3;
 }
 
+.button-read img {
+    animation: pulse 2s 3;
+}
+
 .button-magazine p {
     margin-right: 2%;
 }
@@ -157,6 +181,10 @@ audio {
     }
 }
 
+.inputStorage {
+    width: 98%;
+}
+
 .header-modal h1 {
     font-size: 1.1em;
 }
@@ -168,9 +196,15 @@ audio {
 }
 
 .modal a.close-modal {
-    top: 2.5px !important;
-    right: 8.5px !important;
-    background-image: url(/assets/pics/icons/close.png) !important;
+    background-color: red;
+    width: 25px !important;
+    height: 25px !important;
+    position: fixed !important;
+    border-radius: 100%;
+    box-shadow: 3px 3px 8px grey;
+    top: 24px !important;
+    right: 27%!important;
+    background-image: url(/assets/pics/icons/x.png) !important;
 }
 
 
@@ -329,6 +363,23 @@ audio {
     .p9 .button-share-wpp {
         bottom: 64% !important;
         left: 88% !important;
+    }
+    .p10 .button-share-fb,
+    .p10 .button-share-twi,
+    .p10 .button-share-wpp,
+    .p36 .button-share-fb,
+    .p36 .button-share-twi,
+    .p36 .button-share-wpp {
+        bottom: 21px !important;
+    }
+    .p10 .button-share-wpp {
+        left: 80% !important;
+    }
+    .p36 .button-share-twi {
+        left: 72% !important;
+    }
+    .p36 .button-share-wpp {
+        left: 80% !important;
     }
 }
 

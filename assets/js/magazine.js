@@ -1,283 +1,301 @@
-function addPage(page, book, lang) {
+   //Función detectar el tamaño del dispostivo en que se abra la revista
+   function checkMobile() { return /iPhone|iPad|iPod|Android/i.test(navigator.userAgent); }
 
-    var pages = book.turn('pages')
-        // Create a new element for this page
-    var element = $('<div />', { class: 'puebaaaa' });
+   function addPage(page, book, lang) {
 
-    // Add the page to the flipbook
-    if (book.turn('addPage', element, page)) {
-        // Add the initial HTML
-        // It will contain a loader indicator and a gradient
+       var pages = book.turn('pages')
+           // Create a new element for this page
+       if (checkMobile()) {
+           var element = $('<div />', { class: 'hard' });
+       } else {
+           var element = $('<div />', {});
 
-        if (page !== 1 && page !== pages) {
-            if (lang == 'es') {
-                element.html('<div class="gradient"></div><div class="number-page" onclick=goPage(2)>' + page + ' | Edición 16 - 2022</div>');
-            } else {
-                element.html('<div class="gradient"></div><div class="number-page" onclick=goPage(2)>' + page + ' | Edition 16 - 2022</div>');
-            }
-        } else {
-            element.html('<div class="gradient"></div>');
-        }
+       }
 
-        // Load the page
-        loadPage(page, element, lang);
-    }
+       if (page % 2 == 0) {
+           element.addClass('even')
+       } else {
+           element.addClass('odd')
+       }
 
-}
+       // Add the page to the flipbook
+       if (book.turn('addPage', element, page)) {
+           // Add the initial HTML
+           // It will contain a loader indicator and a gradient
 
-function loadPage(page, pageElement, lang) {
+           if (page !== 1 && page !== pages) {
+               if (lang == 'es') {
+                   element.html('<div class="gradient"></div><div class="number-page" onclick=goPage(2)>' + page + ' | Edición 16 - 2022</div>');
+               } else {
+                   element.html('<div class="gradient"></div><div class="number-page" onclick=goPage(2)>' + page + ' | Edition 16 - 2022</div>');
+               }
+           } else {
+               element.html('<div class="gradient"></div>');
+           }
 
-    // Create an image element
+           // Load the page
+           loadPage(page, element, lang);
+       }
 
-    var img = $('<img />', { class: 'backPage' + page });
+   }
 
-    img.mousedown(function(e) {
-        e.preventDefault();
-    });
+   function loadPage(page, pageElement, lang) {
 
-    img.load(function() {
+       // Create an image element
 
-        // Set the size
-        $(this).css({ width: '100%', height: '100%' });
+       var img = $('<img />', { class: 'backPage' + page });
 
-        // Add the image to the page after loaded
+       img.mousedown(function(e) {
+           e.preventDefault();
+       });
 
-        $(this).appendTo(pageElement);
+       img.load(function() {
 
-        // Remove the loader indicator
+           // Set the size
+           $(this).css({ width: '100%', height: '100%' });
 
-        pageElement.find('.loader').remove();
-    });
+           // Add the image to the page after loaded
 
+           $(this).appendTo(pageElement);
 
-    // Load the page
-    checkImage('../assets/pics/backgrounds/' + page + '.jpg', img, pageElement, page)
+           // Remove the loader indicator
 
-    loadRegions(page, pageElement, lang);
+           pageElement.find('.loader').remove();
+       });
 
-}
 
-function checkImage(url, img, element, page) {
-    var request = new XMLHttpRequest();
-    request.open("GET", url, true);
-    request.send();
-    request.onload = function() {
-        status = request.status;
-        if (request.status == 200) //if(statusText == OK)
-        {
-            img.attr('src', url);
-        } else {
-            var video = $('<div/>', { 'class': 'videoPages' }).append($('<video/>', { playsinline: true, autoplay: true, src: '../assets/pics/videos/' + page + '.mp4', loop: true, 'class': 'backVideo' + page }));
-            video.appendTo(element)
-        }
-    }
-}
+       // Load the page
+       checkImage('../assets/pics/backgrounds/' + page + '.jpg', img, pageElement, page)
 
+       loadRegions(page, pageElement, lang);
 
+   }
 
-// Load regions
+   function checkImage(url, img, element, page) {
+       var request = new XMLHttpRequest();
+       request.open("GET", url, true);
+       request.send();
+       request.onload = function() {
+           status = request.status;
+           if (request.status == 200) //if(statusText == OK)
+           {
+               img.attr('src', url);
+           } else {
+               var video = $('<div/>', { 'class': 'videoPages' }).append($('<video/>', { playsinline: true, autoplay: true, src: '../assets/pics/videos/' + page + '.mp4', loop: true, 'class': 'backVideo' + page }));
+               video.appendTo(element)
+           }
+       }
+   }
 
-function loadRegions(page, element, lang) {
-    $.getJSON('./assets/pages-' + lang + '/' + page + '-page.json').
-    done(function(data) {
-        $.each(data, function(key, region) {
-            addRegion(region, element, lang, page);
-        });
-    });
-}
 
-// Add region
 
-function addRegion(region, pageElement, lang, page) {
+   // Load regions
 
-    var reg = $('<div />', { 'class': 'region ' + region['class'] }).append(addComponents(region, lang))
+   function loadRegions(page, element, lang) {
+       $.getJSON('./assets/pages-' + lang + '/' + page + '-page.json').
+       done(function(data) {
+           $.each(data, function(key, region) {
+               addRegion(region, element, lang, page);
+           });
+       });
+   }
 
-    reg.css({
-        top: region.y,
-        left: region.x,
-        width: region.width
-    }).attr('region-data', $.param(region.data || ''));
+   // Add region
 
-    reg.appendTo(pageElement);
-}
+   function addRegion(region, pageElement, lang, page) {
 
-// Process click on a region
+       var reg = $('<div />', { 'class': 'region ' + region['class'] }).append(addComponents(region, lang))
 
-function regionClick(event) {
+       reg.css({
+           top: region.y,
+           left: region.x,
+           width: region.width
+       }).attr('region-data', $.param(region.data || ''));
 
-    var region = $(event.target).closest('div');
+       reg.appendTo(pageElement);
+   }
 
-    if (region.hasClass('region')) {
+   // Process click on a region
 
-        $('.magazine-viewport').data().regionClicked = true;
+   function regionClick(event) {
 
-        setTimeout(function() {
-            $('.magazine-viewport').data().regionClicked = false;
-        }, 100);
+       var region = $(event.target).closest('div');
 
-        var regionType = $.trim(region.attr('class').replace('region', ''));
+       if (region.hasClass('region')) {
 
-        return processRegion(region, regionType);
+           $('.magazine-viewport').data().regionClicked = true;
 
-    }
+           setTimeout(function() {
+               $('.magazine-viewport').data().regionClicked = false;
+           }, 100);
 
-}
+           var regionType = $.trim(region.attr('class').replace('region', ''));
 
-// Process the data of every region
+           return processRegion(region, regionType);
 
-function processRegion(region, regionType) {
+       }
 
-    data = decodeParams(region.attr('region-data'));
+   }
 
-    switch (regionType) {
-        case 'link':
-            window.open(data.url);
-            break;
+   // Process the data of every region
 
-        case 'to-page':
-            $('.magazine').turn('page', data.page);
-            break;
-    }
+   function processRegion(region, regionType) {
 
-}
+       data = decodeParams(region.attr('region-data'));
 
+       switch (regionType) {
+           case 'link':
+               window.open(data.url);
+               break;
 
-// http://code.google.com/p/chromium/issues/detail?id=128488
+           case 'to-page':
+               $('.magazine').turn('page', data.page);
+               break;
+       }
 
-function isChrome() {
+   }
 
-    return navigator.userAgent.indexOf('Chrome') != -1;
 
-}
+   // http://code.google.com/p/chromium/issues/detail?id=128488
 
-function disableControls(page) {
-    if (page == 1)
-        $('.previous-button').hide();
-    else
-        $('.previous-button').show();
+   function isChrome() {
 
-    if (page == $('.magazine').turn('pages'))
-        $('.next-button').hide();
-    else
-        $('.next-button').show();
-}
+       return navigator.userAgent.indexOf('Chrome') != -1;
 
-// Set the width and height for the viewport
+   }
 
+   function disableControls(page) {
+       if (page == 1)
+           $('.previous-button').hide();
+       else
+           $('.previous-button').show();
 
-function resizeViewport() {
+       if (page == $('.magazine').turn('pages'))
+           $('.next-button').hide();
+       else
+           $('.next-button').show();
+   }
 
-    var width = $(window).width(),
-        height = $(window).height(),
-        options = $('.magazine').turn('options');
+   // Set the width and height for the viewport
 
-    $('.magazine').removeClass('animated');
 
-    $('.magazine-viewport').css({
-        width: width,
-        height: height
-    })
+   function resizeViewport() {
 
-    if ($('.magazine').turn('zoom') == 1) {
-        var bound = calculateBound({
-            width: options.width,
-            height: options.height,
-            boundWidth: Math.min(options.width, width),
-            boundHeight: Math.min(options.height, height)
-        });
+       var width = $(window).width(),
+           height = $(window).height(),
+           options = $('.magazine').turn('options');
 
-        if (bound.width % 2 !== 0)
-            bound.width -= 1;
+       $('.magazine').removeClass('animated');
 
-        $('.magazine').css({ left: -bound.width / 2 });
+       $('.magazine-viewport').css({
+           width: width,
+           height: height
+       })
 
-        if (bound.width != $('.magazine').width() || bound.height != $('.magazine').height()) {
+       if ($('.magazine').turn('zoom') == 1) {
+           var bound = calculateBound({
+               width: options.width,
+               height: options.height,
+               boundWidth: Math.min(options.width, width),
+               boundHeight: Math.min(options.height, height)
+           });
 
-            if ($('.magazine').turn('page') == 1)
-                $('.magazine').turn('peel', 'br');
-        }
+           if (bound.width % 2 !== 0)
+               bound.width -= 1;
 
-        if (window.matchMedia("(max-width: 468px)").matches) {
-            $('.magazine').turn('display', 'single');
-            $('.magazine').turn('size', bound.width, height * 0.6);
-            $('.magazine').css({ left: -bound.width / 2 });
+           $('.magazine').css({ left: -bound.width / 2 });
 
-        } else if (window.matchMedia("(max-width: 720px)").matches) {
-            $('.magazine').turn('display', 'single');
-            $('.magazine').turn('size', bound.width * 0.8, height);
-            $('.magazine').css({ left: -bound.width / 2.5 });
-        } else {
-            $('.magazine').turn('display', 'double');
-            $('.magazine').turn('size', width * 0.72, height);
-            $('.magazine').css({ left: -width / 2.77 });
-        }
+           if (bound.width != $('.magazine').width() || bound.height != $('.magazine').height()) {
 
-    }
+               if ($('.magazine').turn('page') == 1)
+                   $('.magazine').turn('peel', 'br');
+           }
 
-}
+           if (window.matchMedia("(max-width: 468px)").matches) {
+               $('.magazine').turn('display', 'single');
+               $('.magazine').turn('size', bound.width, height * 0.6);
+               $('.magazine').css({ left: -bound.width / 2 });
 
-//Go to the page
-function goPage(page) {
-    $('.magazine').turn('page', page);
-    $('.container-thumbs').remove()
-}
+           } else if (window.matchMedia("(max-width: 720px)").matches) {
+               $('.magazine').turn('display', 'single');
+               $('.magazine').turn('size', bound.width * 0.8, height);
+               $('.magazine').css({ left: -bound.width / 2.5 });
+           } else {
+               $('.magazine').turn('display', 'double');
+               $('.magazine').turn('size', width * 0.72, height);
+               $('.magazine').css({ left: -width / 2.77 });
+           }
 
+       }
 
-// Number of views in a flipbook
+       $('.magazine').turn('peel', false);
 
-function numberOfViews(book) {
-    return book.turn('pages') / 2 + 1;
-}
 
-// Current view in a flipbook
 
-function getViewNumber(book, page) {
-    return parseInt((page || book.turn('page')) / 2 + 1, 10);
-}
+   }
 
-function moveBar(yes) {
-    if (Modernizr && Modernizr.csstransforms) {
-        $('#slider .ui-slider-handle').css({ zIndex: yes ? -1 : 10000 });
-    }
-}
+   //Go to the page
+   function goPage(page) {
+       $('.magazine').turn('page', page);
+       $('.container-thumbs').remove()
+   }
 
-// decode URL Parameters
 
-function decodeParams(data) {
+   // Number of views in a flipbook
 
-    var parts = data.split('&'),
-        d, obj = {};
+   function numberOfViews(book) {
+       return book.turn('pages') / 2 + 1;
+   }
 
-    for (var i = 0; i < parts.length; i++) {
-        d = parts[i].split('=');
-        obj[decodeURIComponent(d[0])] = decodeURIComponent(d[1]);
-    }
+   // Current view in a flipbook
 
-    return obj;
-}
+   function getViewNumber(book, page) {
+       return parseInt((page || book.turn('page')) / 2 + 1, 10);
+   }
 
-// Calculate the width and height of a square within another square
+   function moveBar(yes) {
+       if (Modernizr && Modernizr.csstransforms) {
+           $('#slider .ui-slider-handle').css({ zIndex: yes ? -1 : 10000 });
+       }
+   }
 
-function calculateBound(d) {
+   // decode URL Parameters
 
-    var bound = { width: d.width, height: d.height };
+   function decodeParams(data) {
 
-    if (bound.width > d.boundWidth || bound.height > d.boundHeight) {
+       var parts = data.split('&'),
+           d, obj = {};
 
-        var rel = bound.width / bound.height;
+       for (var i = 0; i < parts.length; i++) {
+           d = parts[i].split('=');
+           obj[decodeURIComponent(d[0])] = decodeURIComponent(d[1]);
+       }
 
-        if (d.boundWidth / rel > d.boundHeight && d.boundHeight * rel <= d.boundWidth) {
+       return obj;
+   }
 
-            bound.width = Math.round(d.boundHeight * rel);
-            bound.height = d.boundHeight;
+   // Calculate the width and height of a square within another square
 
-        } else {
+   function calculateBound(d) {
 
-            bound.width = d.boundWidth;
-            bound.height = Math.round(d.boundWidth / rel);
+       var bound = { width: d.width, height: d.height };
 
-        }
-    }
+       if (bound.width > d.boundWidth || bound.height > d.boundHeight) {
 
-    return bound;
-}
+           var rel = bound.width / bound.height;
+
+           if (d.boundWidth / rel > d.boundHeight && d.boundHeight * rel <= d.boundWidth) {
+
+               bound.width = Math.round(d.boundHeight * rel);
+               bound.height = d.boundHeight;
+
+           } else {
+
+               bound.width = d.boundWidth;
+               bound.height = Math.round(d.boundWidth / rel);
+
+           }
+       }
+
+       return bound;
+   }
