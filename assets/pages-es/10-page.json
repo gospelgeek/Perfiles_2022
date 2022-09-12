@@ -20,7 +20,7 @@
         "height": "4%",
         "fontSize": "2.8em",
         "tag": "img",
-        "class": "",
+        "class": "face-icon",
         "data": {
             "src": "./assets/pics/graphics/Caraira.png"
         }
@@ -33,7 +33,7 @@
         "height": "4%",
         "fontSize": "2.8em",
         "tag": "img",
-        "class": "",
+        "class": "face-icon",
         "data": {
             "src": "./assets/pics/graphics/Caraalegre.png"
         }
@@ -52,7 +52,7 @@
         }
     }, {
         "x": "8%",
-        "y": "28%",
+        "y": "33%",
         "viewX": 1800,
         "viewY": 50,
         "width": "83%",
@@ -65,7 +65,7 @@
         }
     }, {
         "x": "8%",
-        "y": "34%",
+        "y": "39%",
         "viewX": 1800,
         "viewY": 50,
         "width": "83%",
@@ -126,6 +126,23 @@
         "data": {
             "page": 10,
             "url": "http://twitter.com/intent/tweet?text=Perfiles&url="
+        }
+    }, {
+        "x": "10%",
+        "y": "27%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "77%",
+        "height": "4%",
+        "fontSize": "3.2em",
+        "tag": "tooltip",
+        "class": "tooltip-author",
+        "id": "author10",
+        "data": {
+            "author": "Yamileth Motta Guzmán",
+            "position": "Psicóloga en formación",
+            "year": "2022",
+            "src": "./assets/pics/photos/yamilethmotta.jpeg"
         }
     }
 ]

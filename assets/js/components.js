@@ -24,7 +24,6 @@ const addComponents = (region, lang) => {
 
             break;
 
-
         case 'audio':
             element = $('<div/>', { class: 'content-audio' }).append(
                 addSVG('<a class="button-magazine button-audio" id="button-' + region.id + '" xmlns="http://www.w3.org/1999/xhtml" onclick="showAudio(' + region.id + ')"><p style="font-size:' + region.fontSize + '">' + region.text + '</p><img src="' + region.icon + '"><a/>', region),
@@ -37,6 +36,12 @@ const addComponents = (region, lang) => {
 
         case 'share':
             element = '<a href="' + region.data.url + "" + doClick(region.data.page, lang) + '" target="blank" class="button-magazine" id="' + region.id + '" xmlns="http://www.w3.org/1999/xhtml"><div id="' + region.id + '"><img src="' + region.icon + '"></div></a>'
+            break;
+
+        case 'tooltip':
+            element = $('<a/>', {}).append(
+                addSVG('<p class="main-text" style="font-size:' + region.fontSize + '" xmlns="http://www.w3.org/1999/xhtml"><em>' + region.data.author + '</em><img class="main-img" src=' + region.data.src + '></p>', region),
+                addSVG('<div class="content-tooltip"><span id=' + region.id + ' class="span-content"><div class="content-img"><img src=' + region.data.src + ' class="img-content"></div><p style="font-size:' + region.fontSize + '" class="text-content">' + region.data.author + '<br>' + region.data.position + '<br>' + region.data.year + '</p></span></div>', region))
             break;
 
         default:

@@ -1,27 +1,167 @@
 [{
-    "x": "46%",
-    "y": "2%",
-    "viewX": 1800,
-    "viewY": 50,
-    "width": "20%",
-    "height": "4%",
-    "fontSize": "2.8em",
-    "tag": "img",
-    "class": "",
-    "data": {
-        "src": "./assets/pics/icons/logo_perfiles.png"
+
+        "x": "48%",
+        "y": "1%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "20%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "",
+        "data": {
+            "src": "./assets/pics/icons/logo_perfiles.png"
+        }
+    }, {
+        "x": "0%",
+        "y": "-1%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "94%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "p",
+        "class": "section-magazine",
+        "data": {
+            "content": "Soy emocional"
+        }
+    }, {
+        "x": "13%",
+        "y": "10%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "83%",
+        "height": "4%",
+        "fontSize": "3.7em",
+        "tag": "p",
+        "class": "text-biblical",
+        "data": {
+            "content": "<i>“Deja la ira, y desecha el enojo; No te excites en manera alguna a hacer lo malo”</i>"
+        }
+    }, {
+        "x": "13%",
+        "y": "16%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "83%",
+        "height": "4%",
+        "fontSize": "3.7em",
+        "tag": "p",
+        "class": "verse",
+        "data": {
+            "content": "<i>(Salmos 37:8).</i>"
+        }
+    }, {
+        "x": "21%",
+        "y": "24%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "80%",
+        "height": "4%",
+        "fontSize": "3.6em",
+        "tag": "p",
+        "class": "text-introductory",
+        "data": {
+            "content": "Todas hemos experimentado el enojo, lo hemos sentido en diferentes momentos de la vida diaria, este como todas las emociones también es pasajero; es decir, de corta duración. Cuando sentimos el enojo vamos a tener la oportunidad de tomar una decisión frente al acontecimiento o situación que lo ocasionó, lo ideal es que podamos tener la capacidad de gestionarlo de manera sabia e inteligente, como lo recomienda la Palabra del Señor: “La blanda respuestas quita la ira…” (Proverbios 15:1-5)."
+        }
+    }, {
+        "x": "83%",
+        "y": "54%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "8%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "arrow-text",
+        "data": {
+            "src": "./assets/pics/icons/Flechatexto.png"
+        }
+    },
+    {
+        "x": "71%",
+        "y": "65%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "10%",
+        "fontSize": "3.3em",
+        "tag": "modal",
+        "id": "modal-p27",
+        "class": "button-read",
+        "text": "Leer más",
+        "icon": "./assets/pics/icons/leer.png",
+        "data": {
+            "title": "<br><br>TEN CUIDADO CON EL ENOJO <br><br>",
+            "content": "<i>“Deja la ira, y desecha el enojo; No te excites en manera alguna a hacer lo malo”</i>(Salmos 37:8).<br><br>El manejo adecuado de las emociones se relaciona con el buen vivir, la inteligencia emocional y el dominio propio, lo cual a su vez permitirá relaciones interpersonales saludables, ellas pueden ser o sentirse con una intensidad leve y moderada. Las emociones son indispensables para la supervivencia, ya que por ellas nos vamos adecuando a las situaciones cambiantes del medio en que interactuamos y vivimos.<br><br><span>El enojo</span></br>Todas hemos experimentado el enojo, lo hemos sentido en diferentes momentos de la vida diaria, este como todas las emociones también es pasajero; es decir, de corta duración. Cuando sentimos el enojo vamos a tener la oportunidad de tomar una decisión frente al acontecimiento o situación que lo ocasionó, lo ideal es que podamos tener la capacidad de gestionarlo de manera sabia e inteligente, como lo recomienda la Palabra del Señor: “La blanda respuestas quita la ira…” (Proverbios 15:1-5).<br><br>Para gestionar el enojo será importante conocer la causa del mismo, poder identificarlo me dará mejores herramientas para poder actuar correctamente frente a él. El enojo es una emoción humana totalmente normal, y en el transcurso de la vida, será inevitable tener que sentirlo. Es normal que algunas situaciones nos incomoden, nos disgusten o nos hagan sentir en desacuerdo; pero visto desde la perspectiva bíblica, este no debe estar dominando nuestro corazón. Eclesiastés 11:10. Somos nosotras las que debemos tomar acción sobre nuestras emociones, para tener una vida más placentera y adecuada ante la sociedad, nuestra familia, la iglesia y con nosotras mismas.El enojo lo sentimos por agentes externos o internos:<br><br><img width='100%' src='./assets/pics/graphics/tablaEnojo.png'><br><br><span>Cómo reaccionar adecuadamente frente a:<br><br>1. Los agentes externos del enojo.</span><br>No todos reaccionamos de la misma manera frente a un conflicto. No todos pensamos ni sentimos de la misma manera el enojo, y aunque la primera sensación frente a él, generalmente es tratar de reaccionar de manera hostil o de manera irritable (quizás gritar, maltratar verbalmente, ultrajar, ofender, ignorar, huir), podemos antes de reaccionar frente a la emoción del enojo, ocasionado por agentes externos de manera negativa, tomar unos minutos de reflexión y hacer una pausa antes de actuar, meditar, respirar, relajarnos y orar; para así darnos la oportunidad de actuar adecuadamente. Con lo anterior no estamos evadiendo; por el contrario, vamos a dar una respuesta a lo que está ocurriendo, pero de la manera más saludable para todos, que será aquella, que nos permitirá llegar a negociaciones claras y justas con los demás y con nosotras mismas.<br><br><span>2. Los agentes internos del enojo.</span><br>Algo muy importante con relación a los agentes internos, son los cambios hormonales en nosotras, que pueden influir en nuestro organismo en diferentes aspectos, entre ellos el estado de ánimo; haciéndonos sentir diversidad de emociones que muchas veces no podemos explicar, enojo, tristeza, ganas de llorar, el asco, por eso es importante saber que estos cambios se dan frecuentemente en la pubertad, antes de nuestro periodo menstrual y en la menopausia. Hay que procurar conocernos e identificar cuando nuestro cuerpo está en cada etapa; de esta manera será mucho más fácil entender y manejar nuestras emociones.<br><br>¿Conoces la historia bíblica de Ana y Penina?<br><br>La encontramos en el libro 1 Samuel capítulo 1.<br><br><i>“Pero a Ana daba una parte escogida; porque amaba a Ana, aunque Jehová no le había concedido tener hijos. Y su rival la irritaba, enojándola y entristeciéndola, porque Jehová no le había concedido tener hijos. Así hacía cada año; cuando subía a la casa de Jehová, la irritaba así; por lo cual Ana lloraba, y no comía. Y Elcana su marido le dijo: Ana, ¿por qué lloras? ¿Por qué no comes? ¿Y por qué está afligido tu corazón? ¿No te soy yo mejor que diez hijos?”</i><br><br><span>Penina:</span><br>La Palabra del Señor nos recomienda de muchas maneras limpiar nuestro corazón del enojo, ya que de no hacerlo podemos destruir nuestra convivencia, e incluso la relación con Dios y con nosotras mismas; esto fue lo que le ocurrió a Penina, ella tenía razones de mucho peso para estar enojada; su esposo amaba más a su rival y era notorio; la Biblia registra que Elcana consentía a Ana de manera especial y  le daba una parte importante para sus ofrendas, aunque no tuviera hijos, esta era su principal causa del enojo; entonces, decidió la venganza a través de la humillación y de la burla; le recordaba a Ana su esterilidad y la afrentaba de muchas maneras para hacerla sufrir, como ella también sufría. Cada uno da de lo que tiene en su corazón. “El hombre bueno, del buen tesoro de su corazón saca lo bueno; y el hombre malo, del mal tesoro de su corazón saca lo malo…” (Lucas 6: 45). Es por ello que estas mujeres vivieron momentos muy amargos de su vida, y su núcleo familiar debió haberse visto también afectado.<br><br>Esta es la muestra de cómo el enojo sin autocontrol, puede causar situaciones desastrosas en una relación, sea familiar o en cualquier otra área, incluso consigo misma. Esta mujer carecía de amor propio, amor a su prójimo y a su familia misma; para ella primaba su egocentrismo, esto no le permitió ver la obra de Dios en sus hijos, como ocurrió con Ana. La reacción de Penina frente a estos agentes externos que causaron el enojo fue inadecuada, pudo haberle dado gracias a Dios porque le había dado hijos, vida, salud y estabilidad; incluso, pudo haber tenido una actitud más considerada con Ana, que sufría por su estado de esterilidad, que en aquella época y en su cultura, era una afrenta, era visto como un castigo de parte de Dios.<br><br><span>Ana:</span><br>Ana una excelente mujer que a pesar de los “efectos normales” de sus emociones, fue una mujer amada por su esposo, con necesidades como cualquiera de nosotras, ella vivió las consecuencias de ser estéril, este fue el motivo de su enojo: No tener hijos, el enojo de Ana dio lugar a conocer y vivir otras experiencias con Dios, le dio el manejo indicado, llevando su vida y corazón al altar de su Señor. 1 de Samuel 1: 9-18.<br><br>Tenía un motivo para estar enojada, pero el hecho de conocer a su Señor cambió su tristeza en gozo, al tomar la decisión de hablar con Dios sobre su condición, pudo ubicarla en el objetivo del Señor. Hay siempre otra salida frente a la adversidad, el camino correcto, y para llegar a él, siempre será necesario oír su voz en el secreto y disponernos a obedecer lo que Él nos pueda pedir o indicar. Cuando Ana propuso en su corazón creer y humillarse, Dios se hizo oír, ella cambió el rumbo de su vida y pasó de estar en el anonimato a ser ahora la madre de Samuel, un hijo con un propósito, el cual recibió desde el vientre; herencia de una madre conforme al corazón de Dios, la cual le enseñó que el Señor le necesitaba en su templo como ofrenda especial, y al nacer este muchacho fue una bendición para su pueblo y su historia trasciende hasta hoy.<br><br><span>Manejo adecuado del enojo</span><br><br>a. Construye una relación verdadera y sincera con Dios.<br>b. Piensa antes de actuar.<br>c. Practica terapias de respiración y relajación.<br>d. En el altar del Señor, purifica tu corazón de toda experiencia negativa.<br>e. Perdona y perdónate.<br>f. Concédete nuevas oportunidades.<br>g. Haz ejercicio<br>h. Permite que la Palabra de Dios te forme en una mujer conforme a la voluntad del Señor.<br>i. Haz relaciones saludables, con personas sanas que te den buenos consejos.<br>j. Reconoce tus emociones y ponlas en la presencia del Señor.<br>k. Resuelve tareas pendientes.<br>l. Evita procrastinar, esto causa enojo y frustraciones.<br>m. Aprende a ganar y perder, haciendo un análisis sano de cualquiera de las dos posiciones y aceptando con humildad las consecuencias, sabiendo que la vida trae momentos de ganancias y pérdidas, pero a los que amamos a Dios todas las cosas nos ayudan a bien.<br><br>Cuando tenemos la capacidad de identificar las emociones que sentimos y las aceptamos como parte de nuestra vida, sin juzgarnos por lo que estamos sintiendo, estamos aplicando la inteligencia emocional.<br><br>Reconocer la causa de mi enojo, expresarlo y resolverlo con la persona indicada y en el momento indicado, es una muestra de autocontrol y gestión emocional.<br><br>“Por lo demás, hermanos, todo lo que es verdadero, todo lo honesto, todo lo justo, todo lo puro, todo lo amable, todo lo que es de buen nombre; si hay virtud alguna, si algo digno de alabanza, en esto pensad” (Filipenses 4:8).<br><br>La Biblia nos advierte la importancia de poder ejercer dominio propio cuando llega el enojo, Salmos 37:8, ya que de no ser así, este como tal nos llevará a perder el control, ocasionando amargura en nuestro corazón, afectando relaciones interpersonales y calidad de vida.<br><br><span>hna Yaneth Arrechea Vargas</span><br><span>Licenciada en ciencias sociales, filosofia y ciencias religiosas</span><br><br>"
+        }
+    },
+    {
+        "x": "60%",
+        "y": "70%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "4%",
+        "fontSize": "3.3em",
+        "tag": "audio",
+        "id": "audio27",
+        "class": "btn-audio",
+        "text": "Escuchar Audio",
+        "icon": "./assets/pics/icons/escuchar.png",
+        "data": {
+            "src": ""
+        }
+    },
+    {
+        "x": "71%",
+        "y": "75%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "4%",
+        "fontSize": "3.3em",
+        "tag": "print",
+        "class": "button-print",
+        "text": "Imprimir",
+        "icon": "./assets/pics/icons/imprimir.png",
+        "data": {
+            "url": "https://drive.google.com/file/d/1SQga6RgmNDd0a35XPHDeOAy0U0cIo60W/preview"
+        }
+    },
+    {
+        "x": "65%",
+        "y": "80%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "10%",
+        "fontSize": "3.3em",
+        "tag": "modal",
+        "id": "modalReflexion-p27",
+        "class": "button-reflexion",
+        "text": "Reflexionar",
+        "icon": "./assets/pics/icons/reflexionar.png",
+        "data": {
+            "title": "<br><span>Reflexionemos juntas</span><br><br>",
+            "content": "A continuación, encontrarás las características de una mujer dominada por el enojo, y otra que tiene un manejo de sus emociones. Elige las actitudes que te identifican y trabaja en fortalecer las positivas; las negativas trabájalas también, reemplazándolas poco a poco por mejores actitudes."
+        }
+    }, {
+        "x": "17%",
+        "y": "18%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "77%",
+        "height": "4%",
+        "fontSize": "3.2em",
+        "tag": "tooltip",
+        "class": "tooltip-author",
+        "id": "author8",
+        "data": {
+            "author": "Yaneth Arrechea Vargas",
+            "position": "Licenciada en ciencias sociales, filosofia y ciencias religiosas",
+            "year": "2022",
+            "src": "./assets/pics/photos/yanetharrechea.jpeg"
+        }
     }
-}, {
-    "x": "0%",
-    "y": "-1%",
-    "viewX": 1800,
-    "viewY": 50,
-    "width": "94%",
-    "height": "4%",
-    "fontSize": "2.8em",
-    "tag": "p",
-    "class": "section-magazine",
-    "data": {
-        "content": "Soy emocional"
-    }
-}]
+]
