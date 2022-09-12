@@ -28,21 +28,71 @@ span {
 
 /*Tooltip*/
 
-.contentAuthor {
+.tooltip-author {
+    cursor: pointer;
+}
+
+.main-text {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+
+.main-text em {
+    margin-right: 1%;
+    color: #000000;
+}
+
+.main-img {
+    width: 160px !important;
+    height: 180px !important;
+    border-radius: 100%;
+    box-shadow: 8px 10px 30px grey;
+}
+
+.content-tooltip {
+    background-color: #ffffff;
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 67%;
+    margin: 7% auto;
+    border-radius: 3%;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s;
 }
 
-.contentAuthor p {
-    width: 42%;
-    float: right;
+.tooltip-author:hover .content-tooltip {
+    visibility: visible;
+    opacity: 1;
 }
 
-.photoAuthor {
-    border-radius: 100%;
-    width: 38px !important;
-    height: 38px;
+.span-content {
+    margin: 3%;
+    width: 100%;
+}
+
+.content-tooltip::before {
+    content: "";
+    position: absolute;
+    transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    top: -119%;
+    left: 45%;
+    margin-left: -5px;
+    border-width: 94px;
+    border-style: solid;
+    border-color: #fff transparent transparent transparent;
+}
+
+.text-content {
+    color: #000000;
+    text-align: center;
+    font-weight: bold;
 }
 
 
@@ -63,7 +113,7 @@ span {
 .number-page {
     position: absolute;
     font-size: .8em;
-    bottom: 45px;
+    bottom: 25px;
     z-index: 10;
     cursor: pointer;
     border-radius: 5px;
@@ -107,10 +157,10 @@ span {
     width: 25%;
     float: right;
     background-color: #ffa800;
-    padding: 5% 3% 2% 0%;
+    padding: 3% 0% 2% 0%;
     border-radius: 0 0 89px 89px;
     font-weight: bold;
-    text-align: right;
+    text-align: center;
     font-style: normal;
     text-transform: uppercase;
 }
@@ -159,8 +209,12 @@ audio {
     position: absolute;
     width: 68%;
     height: 26px;
-    margin-top: 1%;
     right: 60%;
+}
+
+.p22 audio {
+    right: 33%;
+    margin-top: 0%;
 }
 
 
@@ -205,6 +259,15 @@ audio {
     top: 24px !important;
     right: 27%!important;
     background-image: url(/assets/pics/icons/x.png) !important;
+}
+
+@media only screen and (max-width: 468px) {
+    .modal a.close-modal {
+        width: 30px !important;
+        height: 30px !important;
+        top: 105px !important;
+        right: 8%!important;
+    }
 }
 
 
@@ -297,6 +360,9 @@ audio {
 
 .p8 .title,
 .p10 .title,
+.p12 .title,
+.p22 .title,
+.p28 .title,
 .p40 .title,
 .p46 .title {
     visibility: hidden;
@@ -316,29 +382,55 @@ audio {
 
 .p8 .backPage8,
 .p10 .backPage10,
+.p28 .backPage28,
 .p36 .backPage36,
 .p38 .backPage38 {
     width: 200% !important;
     float: left;
 }
 
+.p8 .content-tooltip,
+.p10 .content-tooltip,
+.p12 .content-tooltip,
+.p22 .content-tooltip,
+.p27 .content-tooltip,
+.p28 .content-tooltip,
+.p38 .content-tooltip,
+.p40 .content-tooltip,
+.p46 .content-tooltip {
+    margin: 7% 35%;
+}
+
+.p8 .content-tooltip::before,
+.p10 .content-tooltip::before,
+.p12 .content-tooltip::before,
+.p22 .content-tooltip::before,
+.p27 .content-tooltip::before,
+.p28 .content-tooltip::before,
+.p38 .content-tooltip::before,
+.p40 .content-tooltip::before,
+.p46 .content-tooltip::before {
+    left: 75%;
+}
+
 
 /*Page 9*/
 
 .p9 .button-share-fb {
-    bottom: 84%;
+    bottom: 82%;
 }
 
 .p9 .button-share-twi {
-    bottom: 78%;
+    bottom: 76%;
 }
 
 .p9 .button-share-wpp {
-    bottom: 72%;
+    bottom: 70%;
 }
 
 .p9 .backPage9,
 .p11 .backPage11,
+.p29 .backPage29,
 .p37 .backPage37,
 .p39 .backPage39 {
     width: 200% !important;
@@ -381,6 +473,54 @@ audio {
     .p36 .button-share-wpp {
         left: 80% !important;
     }
+    .p12 .button-share-fb {
+        bottom: 28% !important;
+        left: 5% !important;
+    }
+    .p12 .button-share-twi {
+        bottom: 22% !important;
+        left: 5% !important;
+    }
+    .p12 .button-share-wpp {
+        bottom: 16% !important;
+        left: 5% !important;
+    }
+    .p23 .button-share-fb {
+        bottom: 80% !important;
+        left: 88% !important;
+    }
+    .p23 .button-share-twi {
+        bottom: 72% !important;
+        left: 88% !important;
+    }
+    .p23 .button-share-wpp {
+        bottom: 64% !important;
+        left: 88% !important;
+    }
+    .p26 .button-share-fb {
+        bottom: 28% !important;
+        left: 5% !important;
+    }
+    .p26 .button-share-twi {
+        bottom: 22% !important;
+        left: 5% !important;
+    }
+    .p26 .button-share-wpp {
+        bottom: 16% !important;
+        left: 5% !important;
+    }
+    .p29 .button-share-fb {
+        bottom: 80% !important;
+        left: 88% !important;
+    }
+    .p29 .button-share-twi {
+        bottom: 72% !important;
+        left: 88% !important;
+    }
+    .p29 .button-share-wpp {
+        bottom: 64% !important;
+        left: 88% !important;
+    }
 }
 
 .circle {
@@ -391,6 +531,7 @@ audio {
 /*Page 10*/
 
 .p10 .text-biblical p,
+.p27 .text-biblical p,
 .p38 .text-biblical p,
 .p40 .text-biblical p,
 .p46 .text-biblical p {
@@ -398,6 +539,7 @@ audio {
 }
 
 .p10 .verse p,
+.p27 .verse p,
 .p38 .verse p,
 .p40 .verse p,
 .p46 .verse p {
@@ -413,9 +555,211 @@ audio {
 }
 
 
+/*Page 12*/
+
+.p12 .backPage12 {
+    width: 133% !important;
+    float: left;
+}
+
+.p12 .text-biblical p {
+    color: #ffffff;
+    text-align: center;
+}
+
+.p12 .button-share-fb {
+    bottom: 26%;
+}
+
+.p12 .button-share-twi {
+    bottom: 20%;
+}
+
+.p12 .button-share-wpp {
+    bottom: 14%;
+}
+
+@media only screen and (max-width: 468px) {
+    .p12 .text-biblical p {
+        font-size: 6em !important;
+    }
+    .p12 .text-biblical {
+        left: 0 !important;
+        top: 85% !important;
+    }
+}
+
+
+/*Page 13*/
+
+.p13 .backPage13 {
+    position: absolute;
+    width: 133% !important;
+    right: 67% !important;
+}
+
+.p13 .text-biblical p {
+    position: absolute;
+    color: #ffffff;
+    left: -100%;
+    z-index: -1;
+}
+
+.p13 .text-introductory p {
+    text-align: justify;
+}
+
+.p13 .section-magazine p,
+.p23 .section-magazine p,
+.p27 .section-magazine p,
+.p27 .section-magazine p {
+    background-color: #c5889e;
+    color: #ffffff;
+}
+
+
+/*Page 22*/
+
+.p22 .button-magazine p {
+    order: 2;
+    color: #ffffff;
+    margin-left: 2%;
+}
+
+.p22 .text-introductory p {
+    background-color: #ffffffb9;
+    padding: 7% 5% 11% 7%;
+    border-radius: 0 0 0 20%;
+}
+
+
+/*Page 26*/
+
+.p26 .backPage26 {
+    width: 115% !important;
+    position: absolute;
+    right: -10% !important;
+}
+
+.p26 .button-share-fb {
+    bottom: 26%;
+}
+
+.p26 .button-share-twi {
+    bottom: 20%;
+}
+
+.p26 .button-share-wpp {
+    bottom: 14%;
+}
+
+
+/*Page 27*/
+
+.p27 .text-biblical p {
+    color: #da3a63;
+}
+
+.p27 .verse p {
+    color: #da3a63;
+}
+
+.p27 .text-introductory p {
+    background-color: #c72c53;
+    padding: 4% 12% 9% 8%;
+    border-radius: 0 0 0 20%;
+    color: #ffffff;
+}
+
+.p27 .arrow-text img {
+    transform: rotate(90deg);
+}
+
+@media only screen and (max-width: 468px) {
+    .p27 .arrow-text {
+        top: 57% !important;
+    }
+    .p27 .button-reflexion {
+        top: 83% !important;
+    }
+    .p27 .button-print {
+        top: 78% !important;
+    }
+    .p27 .btn-audio {
+        top: 73% !important;
+    }
+    .p27 .button-read {
+        top: 68% !important;
+    }
+}
+
+
+/*Page 28*/
+
+.p28 .arrow-text img {
+    transform: rotate(180deg);
+}
+
+.p28 .button-magazine p {
+    order: 2;
+    margin-left: 2%;
+}
+
+@media only screen and (max-width: 468px) {
+    .p28 .button-reflexion {
+        top: 85% !important;
+    }
+    .p28 .button-print {
+        top: 80% !important;
+    }
+    .p28 .btn-audio {
+        top: 76% !important;
+    }
+    .p28 .button-read {
+        top: 71% !important;
+    }
+    .p28 .text-introductory {
+        top: 39% !important;
+    }
+    .p28 .text-biblical {
+        top: 33% !important;
+    }
+    .p28 .verse {
+        top: 36% !important;
+    }
+}
+
+
+/*Page 29*/
+
+.p29 .button-share-fb {
+    bottom: 28%;
+}
+
+.p29 .button-share-twi {
+    bottom: 22%;
+}
+
+.p29 .button-share-wpp {
+    bottom: 16%;
+}
+
+
 /*Page 31*/
 
 .p5 .section-magazine p,
+.p7 .section-magazine p,
+.p9 .section-magazine p,
+.p11 .section-magazine p,
+.p13 .section-magazine p,
+.p15 .section-magazine p,
+.p17 .section-magazine p,
+.p19 .section-magazine p,
+.p21 .section-magazine p,
+.p23 .section-magazine p,
+.p25 .section-magazine p,
+.p27 .section-magazine p,
+.p29 .section-magazine p,
 .p31 .section-magazine p,
 .p43 .section-magazine p,
 .p45 .section-magazine p,
@@ -424,7 +768,7 @@ audio {
 .p51 .section-magazine p,
 .p53 .section-magazine p {
     text-align: center;
-    padding: 5% 0% 2% 0%;
+    padding: 4% 0% 2% 0%;
 }
 
 .p33 .section-magazine p,
@@ -432,7 +776,7 @@ audio {
 .p37 .section-magazine p,
 .p39 .section-magazine p,
 .p41 .section-magazine p {
-    width: 29%;
+    width: 24%;
 }
 
 
@@ -461,6 +805,11 @@ audio {
 
 /*page 38*/
 
+.p39 .section-magazine p {
+    background-color: #432922;
+    color: #d6c8b8;
+}
+
 .p38 .text-biblical p {
     color: #ffffff;
 }
@@ -474,6 +823,13 @@ audio {
 }
 
 .p38 .button-magazine p {
+    color: #ffffff;
+}
+
+.p22 .main-text em,
+.p38 .main-text em,
+.p40 .main-text em,
+.p46 .main-text em {
     color: #ffffff;
 }
 
@@ -493,6 +849,7 @@ audio {
     overflow-x: hidden !important;
 }
 
+.p22 video,
 .p40 video,
 .p46 video {
     position: absolute;
@@ -503,6 +860,7 @@ audio {
     overflow-x: hidden;
 }
 
+.p23 video,
 .p41 video,
 .p47 video {
     position: absolute;

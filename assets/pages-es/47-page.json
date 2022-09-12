@@ -32,7 +32,7 @@
         "viewY": 100,
         "width": "83%",
         "height": "10%",
-        "fontSize": "3.7em",
+        "fontSize": "3.3em",
         "tag": "modal",
         "id": "modal-p47",
         "class": "button-read",
@@ -44,13 +44,13 @@
         }
     },
     {
-        "x": "63%",
+        "x": "64%",
         "y": "31%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
         "height": "4%",
-        "fontSize": "3.7em",
+        "fontSize": "3.3em",
         "tag": "audio",
         "id": "audio47",
         "class": "btn-audio",
@@ -61,13 +61,13 @@
         }
     },
     {
-        "x": "76%",
+        "x": "75.5%",
         "y": "36%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
         "height": "4%",
-        "fontSize": "3.7em",
+        "fontSize": "3.3em",
         "tag": "print",
         "class": "button-print",
         "text": "Imprimir",
@@ -77,7 +77,7 @@
         }
     },
     {
-        "x": "72%",
+        "x": "70%",
         "y": "41%",
         "viewX": 1800,
         "viewY": 100,

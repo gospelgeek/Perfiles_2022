@@ -167,13 +167,17 @@
    function disableControls(page) {
        if (page == 1)
            $('.previous-button').hide();
-       else
+       else {
            $('.previous-button').show();
+           setValueInputs()
+       }
 
        if (page == $('.magazine').turn('pages'))
            $('.next-button').hide();
-       else
+       else {
            $('.next-button').show();
+           setValueInputs()
+       }
    }
 
    // Set the width and height for the viewport

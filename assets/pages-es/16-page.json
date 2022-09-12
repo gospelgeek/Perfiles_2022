@@ -92,5 +92,22 @@
         "data": {
             "title": "<br><br><br>"
         }
+    }, {
+        "x": "10%",
+        "y": "9%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "77%",
+        "height": "4%",
+        "fontSize": "3.2em",
+        "tag": "tooltip",
+        "class": "tooltip-author",
+        "id": "author8",
+        "data": {
+            "author": "Zulma Eneida Mosquera Murillo",
+            "position": "Psicóloga, Dto 20",
+            "year": "2022",
+            "src": "./assets/pics/photos/zulmamosquera.jpeg"
+        }
     }
 ]

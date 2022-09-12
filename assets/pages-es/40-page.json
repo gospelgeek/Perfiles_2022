@@ -26,7 +26,7 @@
     }
 }, {
     "x": "8%",
-    "y": "23%",
+    "y": "30%",
     "viewX": 1800,
     "viewY": 50,
     "width": "83%",
@@ -39,7 +39,7 @@
     }
 }, {
     "x": "8%",
-    "y": "29%",
+    "y": "37%",
     "viewX": 1800,
     "viewY": 50,
     "width": "83%",
@@ -49,5 +49,22 @@
     "class": "verse",
     "data": {
         "content": "<i>Santiago 1: 22-25 RV.1960</i>"
+    }
+}, {
+    "x": "10%",
+    "y": "23%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "77%",
+    "height": "4%",
+    "fontSize": "3.2em",
+    "tag": "tooltip",
+    "class": "tooltip-author",
+    "id": "author38",
+    "data": {
+        "author": "Julieth Hormiga de Sierra",
+        "position": "Directora de finanzas",
+        "year": "2021 - 2022",
+        "src": ""
     }
 }]

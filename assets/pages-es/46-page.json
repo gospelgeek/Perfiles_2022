@@ -1,6 +1,6 @@
 [{
-    "x": "8%",
-    "y": "2%",
+    "x": "10%",
+    "y": "1%",
     "viewX": 1800,
     "viewY": 50,
     "width": "20%",
@@ -52,7 +52,7 @@
     }
 }, {
     "x": "8%",
-    "y": "33%",
+    "y": "37%",
     "viewX": 1800,
     "viewY": 50,
     "width": "83%",
@@ -65,7 +65,7 @@
     }
 }, {
     "x": "8%",
-    "y": "40%",
+    "y": "43%",
     "viewX": 1800,
     "viewY": 50,
     "width": "83%",
@@ -75,5 +75,22 @@
     "class": "verse",
     "data": {
         "content": "<i>Santiago 1: 22-25 RV.1960</i>"
+    }
+}, {
+    "x": "10%",
+    "y": "30%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "77%",
+    "height": "4%",
+    "fontSize": "3.2em",
+    "tag": "tooltip",
+    "class": "tooltip-author",
+    "id": "author8",
+    "data": {
+        "author": "María de la Estrellas Rojas",
+        "position": "Psicóloga en enfasis clínico",
+        "year": "2022",
+        "src": "./assets/pics/photos/mariarojas.jpg"
     }
 }]
