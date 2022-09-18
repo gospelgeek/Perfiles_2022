@@ -92,7 +92,7 @@
         }
     },
     {
-        "x": "65%",
+        "x": "63.5%",
         "y": "76%",
         "viewX": 1800,
         "viewY": 100,
@@ -110,7 +110,7 @@
         }
     },
     {
-        "x": "54%",
+        "x": "53%",
         "y": "81%",
         "viewX": 1800,
         "viewY": 100,
@@ -127,7 +127,7 @@
         }
     },
     {
-        "x": "65%",
+        "x": "64%",
         "y": "86%",
         "viewX": 1800,
         "viewY": 100,
@@ -143,7 +143,7 @@
         }
     },
     {
-        "x": "59%",
+        "x": "58.3%",
         "y": "91%",
         "viewX": 1800,
         "viewY": 100,
@@ -157,7 +157,7 @@
         "icon": "./assets/pics/icons/reflexionar.png",
         "data": {
             "title": "<br><span>Momento para reflexionar…</span><br><br>",
-            "content": "Escribir es un ejercicio que facilita la reflexión y los nuevos aprendizajes. Dedica un espacio y tiempo para desarrollar la siguiente reflexión en un lugar tranquilo. Toma una hoja, cuaderno o agenda y un lápiz, y manos a la obra.<br><br><span>1.</span> De las seis emociones básicas (Alegría, tristeza, miedo, ira, aversión y sorpresa), ¿cuáles conoces más y cuáles te son menos conocidas? Consulta la definición y función de cada una y elige con cuáles te identificas más y cuales necesitas conocer más en ti. Es una oportunidad para aprender a conocer tus emociones.<br><br><input type='checkbox' id='cbox1' value='Alegria' onchange='getValueInputs(8)'> Alegría</label><br><label><input type='checkbox' id='cbox2' value='Tristeza' onchange='getValueInputs(8)'> Tristeza</label><br><label><input type='checkbox' id='cbox3' value='Miedo' onchange='getValueInputs(8)'> Miedo</label><br><label><input type='checkbox' id='cbox4' value='Ira' onchange='getValueInputs(8)'> Ira</label><br><label><input type='checkbox' id='cbox5' value='Aversion' onchange='getValueInputs(8)'> Aversión</label><br><label><input type='checkbox' id='cbox6' value='Sorpresa' onchange='getValueInputs(8)'> Sorpresa</label><br><br><span>2</span>. Menciona los sentimientos positivos que te identifican y que te gustaría seguir potenciando en tu vida. Ejemplo:<li>Soy una mujer agradecida, compasiva, humilde…</li><br><textarea rows='5' cols='50' id='input2' class='inputStorage' onchange='getValueInputs(8)'></textarea><br><br><span>3.</span> Menciona los sentimientos positivos que consideras necesitas y te gustaría aprender. Ejemplo:<li>Necesito aprender a ser más paciente, me gustaría ser más amable.</li><br><textarea rows='5' cols='50'id='input3' class='inputStorage' onchange='getValueInputs(8)'></textarea><br><br><span>4.</span> Identifica los sentimientos negativos que necesitas trabajar en ti y plantea cómo puedes hacerlo. Ejemplo:<li>Guardo rencor cuando alguien me hiere, necesito aprender a perdonar.</li><li>Me enojo con facilidad y por mucho tiempo, necesito aprender a manejar el enojo, a expresarlo y resolverlo a tiempo.</li><br><textarea rows='5' cols='50' id='input4' class='inputStorage' onchange='getValueInputs(8)'></textarea><br><br><span>5.</span> Realiza un acróstico con las letras de tu nombre a partir de las virtudes que te identifican. Descubre en cada virtud la emoción y sentimientos que  te caracterizan. Ejemplo:<br><br><span class='acrostico'>E</span>sforzada. Siento satisfacción al hacer las cosas bien, no me gustan las cosas a medias…<br><span class='acrostico'>S</span>incera. No me gusta la hipocresía, valoro la verdad, me gusta ser confiable…<br><span class='acrostico'>T</span>rabajadora. Me hace feliz lo que hago, me siento bendecida por las capacidades y oportunidad que Dios me da para hacer las cosas…<br><span class='acrostico'>E</span>mpática. Amo a cada persona por lo que es, me sorprende que cada persona es diferente…<br><span class='acrostico'>R</span>isueña. Me alegra las alegrías de otros, me aburre la seriedad en todo, me encanta ver sonreír a otros…<br><br><textarea rows='5' cols='50' id='input5' class='inputStorage' onchange='getValueInputs(8)'></textarea><br><br><span>6.</span> Lee los textos bíblicos citados en el artículo, y escribe lo que Dios te ha acerca de tus emociones.<br><br><textarea rows='5' cols='50' id='input6' class='inputStorage' onchange='getValueInputs(8)'></textarea><br><br><span>7.</span> Lee y comparte este ejercicio de reflexión con alguien significativo para ti, y pídele que te cuente qué le pareció esta reflexión acerca de ti.<br><br><textarea rows='5' cols='50' id='input7' class='inputStorage' onchange='getValueInputs(8)'></textarea><br><br>"
+            "content": "Escribir es un ejercicio que facilita la reflexión y los nuevos aprendizajes. Dedica un espacio y tiempo para desarrollar la siguiente reflexión en un lugar tranquilo. Toma una hoja, cuaderno o agenda y un lápiz, y manos a la obra.<br><br><span>1.</span> De las seis emociones básicas (Alegría, tristeza, miedo, ira, aversión y sorpresa), ¿cuáles conoces más y cuáles te son menos conocidas? Consulta la definición y función de cada una y elige con cuáles te identificas más y cuales necesitas conocer más en ti. Es una oportunidad para aprender a conocer tus emociones.<br><br><label><input type='checkbox' id='cbox1' value='Alegria' onchange='getValueInputs(8)'> Alegría</label><br><label><input type='checkbox' id='cbox2' value='Tristeza' onchange='getValueInputs(8)'> Tristeza</label><br><label><input type='checkbox' id='cbox3' value='Miedo' onchange='getValueInputs(8)'> Miedo</label><br><label><input type='checkbox' id='cbox4' value='Ira' onchange='getValueInputs(8)'> Ira</label><br><label><input type='checkbox' id='cbox5' value='Aversion' onchange='getValueInputs(8)'> Aversión</label><br><label><input type='checkbox' id='cbox6' value='Sorpresa' onchange='getValueInputs(8)'> Sorpresa</label><br><br><span>2</span>. Menciona los sentimientos positivos que te identifican y que te gustaría seguir potenciando en tu vida. Ejemplo:<li>Soy una mujer agradecida, compasiva, humilde…</li><br><textarea rows='5' cols='50' id='input2' class='inputStorage' onchange='getValueInputs(8)'></textarea><br><br><span>3.</span> Menciona los sentimientos positivos que consideras necesitas y te gustaría aprender. Ejemplo:<li>Necesito aprender a ser más paciente, me gustaría ser más amable.</li><br><textarea rows='5' cols='50'id='input3' class='inputStorage' onchange='getValueInputs(8)'></textarea><br><br><span>4.</span> Identifica los sentimientos negativos que necesitas trabajar en ti y plantea cómo puedes hacerlo. Ejemplo:<li>Guardo rencor cuando alguien me hiere, necesito aprender a perdonar.</li><li>Me enojo con facilidad y por mucho tiempo, necesito aprender a manejar el enojo, a expresarlo y resolverlo a tiempo.</li><br><textarea rows='5' cols='50' id='input4' class='inputStorage' onchange='getValueInputs(8)'></textarea><br><br><span>5.</span> Realiza un acróstico con las letras de tu nombre a partir de las virtudes que te identifican. Descubre en cada virtud la emoción y sentimientos que  te caracterizan. Ejemplo:<br><br><span class='acrostico'>E</span>sforzada. Siento satisfacción al hacer las cosas bien, no me gustan las cosas a medias…<br><span class='acrostico'>S</span>incera. No me gusta la hipocresía, valoro la verdad, me gusta ser confiable…<br><span class='acrostico'>T</span>rabajadora. Me hace feliz lo que hago, me siento bendecida por las capacidades y oportunidad que Dios me da para hacer las cosas…<br><span class='acrostico'>E</span>mpática. Amo a cada persona por lo que es, me sorprende que cada persona es diferente…<br><span class='acrostico'>R</span>isueña. Me alegra las alegrías de otros, me aburre la seriedad en todo, me encanta ver sonreír a otros…<br><br><textarea rows='5' cols='50' id='input5' class='inputStorage' onchange='getValueInputs(8)'></textarea><br><br><span>6.</span> Lee los textos bíblicos citados en el artículo, y escribe lo que Dios te ha acerca de tus emociones.<br><br><textarea rows='5' cols='50' id='input6' class='inputStorage' onchange='getValueInputs(8)'></textarea><br><br><span>7.</span> Lee y comparte este ejercicio de reflexión con alguien significativo para ti, y pídele que te cuente qué le pareció esta reflexión acerca de ti.<br><br><textarea rows='5' cols='50' id='input7' class='inputStorage' onchange='getValueInputs(8)'></textarea><br><br>"
         }
     }, {
         "x": "10%",

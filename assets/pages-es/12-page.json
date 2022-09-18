@@ -1,6 +1,6 @@
 [{
         "x": "29%",
-        "y": "23%",
+        "y": "20%",
         "viewX": 1800,
         "viewY": 50,
         "width": "77%",
@@ -39,7 +39,7 @@
         }
     }, {
         "x": "17%",
-        "y": "41%",
+        "y": "39%",
         "viewX": 1800,
         "viewY": 50,
         "width": "77%",
@@ -47,7 +47,7 @@
         "fontSize": "3.2em",
         "tag": "tooltip",
         "class": "tooltip-author",
-        "id": "author8",
+        "id": "author12",
         "data": {
             "author": "Lilian Victoria Rey Rincón",
             "position": "Psicóloga, Dto 30",
@@ -56,11 +56,11 @@
         }
     },
     {
-        "x": "0%",
+        "x": "2%",
         "viewX": 100,
         "viewY": 30,
         "height": "4%",
-        "width": "10%",
+        "width": "11%",
         "fontSize": "0.6em",
         "tag": "share",
         "id": "button-fb",
@@ -73,10 +73,10 @@
         }
     },
     {
-        "x": "0%",
+        "x": "2%",
         "viewX": 100,
         "viewY": 30,
-        "width": "10%",
+        "width": "11%",
         "height": "4%",
         "fontSize": "0.6em",
         "tag": "share",
@@ -90,10 +90,10 @@
         }
     },
     {
-        "x": "0%",
+        "x": "2%",
         "viewX": 100,
         "viewY": 30,
-        "width": "10%",
+        "width": "11%",
         "height": "4%",
         "fontSize": "0.6em",
         "tag": "share",

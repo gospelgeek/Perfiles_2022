@@ -52,7 +52,7 @@
         }
     }, {
         "x": "8%",
-        "y": "33%",
+        "y": "35%",
         "viewX": 1800,
         "viewY": 50,
         "width": "83%",
@@ -65,7 +65,7 @@
         }
     }, {
         "x": "8%",
-        "y": "39%",
+        "y": "41%",
         "viewX": 1800,
         "viewY": 50,
         "width": "83%",
@@ -81,7 +81,7 @@
         "x": "64%",
         "viewX": 100,
         "viewY": 30,
-        "width": "10%",
+        "width": "11%",
         "height": "4%",
         "fontSize": "0.6em",
         "tag": "share",
@@ -98,7 +98,7 @@
         "x": "80%",
         "viewX": 100,
         "viewY": 30,
-        "width": "10%",
+        "width": "11%",
         "height": "4%",
         "fontSize": "0.6em",
         "tag": "share",
@@ -115,7 +115,7 @@
         "x": "72%",
         "viewX": 100,
         "viewY": 30,
-        "width": "10%",
+        "width": "11%",
         "height": "4%",
         "fontSize": "0.6em",
         "tag": "share",
@@ -128,8 +128,8 @@
             "url": "http://twitter.com/intent/tweet?text=Perfiles&url="
         }
     }, {
-        "x": "10%",
-        "y": "27%",
+        "x": "12%",
+        "y": "28%",
         "viewX": 1800,
         "viewY": 50,
         "width": "77%",

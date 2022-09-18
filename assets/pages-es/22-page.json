@@ -45,7 +45,7 @@
         "viewY": 100,
         "width": "83%",
         "height": "10%",
-        "fontSize": "3.7em",
+        "fontSize": "3.3em",
         "tag": "modal",
         "id": "modal-p22",
         "class": "button-read",
@@ -63,7 +63,7 @@
         "viewY": 100,
         "width": "83%",
         "height": "4%",
-        "fontSize": "3.7em",
+        "fontSize": "3.3em",
         "tag": "audio",
         "id": "audio22",
         "class": "btn-audio",
@@ -80,7 +80,7 @@
         "viewY": 100,
         "width": "83%",
         "height": "4%",
-        "fontSize": "3.7em",
+        "fontSize": "3.3em",
         "tag": "print",
         "class": "button-print",
         "text": "Imprimir",
@@ -104,7 +104,7 @@
         "icon": "./assets/pics/icons/reflexionar.png",
         "data": {
             "title": "<br>ACTIVIDAD<br><br>",
-            "content": "¿Te gustaría aprender a transformar tu pensamiento para dejar atrás todo afán y ansiedad?, entonces, “manos a la obra” con este reto:<br><br>1. Identifica qué tipo de pensamientos te acompañan a lo largo del día, haz una lista de ellos, escribiendo los que consideres son negativos o te generan una gran tensión o preocupación con respecto a tu presente y tu futuro. <br><br>2. Lleva este registro como mínimo 4 días de la semana, los que tú elijas.<br><br>3. Para ayudarle a tu memoria en el desarrollo de esta actividad, elabora un cartel o haz una nota que puedas pegar en algún lugar visible de tu casa (ej.: ¿En qué estoy pensando?)<br><br>4. Una vez hayas terminado tu registro, identifica cuáles de esos pensamientos correspondieron a tu presente y cuáles a tu futuro. Puedes usar un color para los del “hoy” y otro para los del “mañana”.<br><br>5. Cuenta los pensamientos del presente, y aparte, cuenta los del futuro. De esta manera te darás cuenta qué tipo de preocupación es más predominante en ti.<br><br>6. Busca versículos bíblicos que te inviten a superar las preocupaciones y la ansiedad; anótalos. Cuando escribes, tu memoria puede mejorar para recordarlos después. Identifica cuáles te hablan del presente y cuáles del futuro. En este punto, puedes invitar a tu familia para que cada uno, realice esta búsqueda y luego puedan, alrededor de un cafecito delicioso o un espacio de encuentro, leer y compartir lo aprendido.<br><br>7. En una hoja o cartulina de medio pliego, escribe un título a tu costado izquierdo que diga: “Mi mente” y al costado derecho: “La mente de Cristo”. Luego en el primer título, registra nuevamente todos los pensamientos que tuviste del “hoy” y luego los del “mañana”. Y al frente de cada uno, vas a escribir el versículo que corresponda a la promesa del Señor que te ayudará a superar y transformar tu pensamiento.<br><br>Y ahora, dile adiós a las preocupaciones excesivas y a la ansiedad; medita en las promesas del Señor, ora, agradece y confía con toda certeza, en la forma perfecta en la cual Él obra para tu bien y el de los tuyos.<br><br><em>¡Su palabra te cambiará la forma de pensar, sentir y vivir!</em><br><br><span>DIANA CRISTANCHO</span>"
+            "content": "¿Te gustaría aprender a transformar tu pensamiento para dejar atrás todo afán y ansiedad?, entonces, “manos a la obra” con este reto:<br><br>1. Identifica qué tipo de pensamientos te acompañan a lo largo del día, haz una lista de ellos, escribiendo los que consideres son negativos o te generan una gran tensión o preocupación con respecto a tu presente y tu futuro. <br><br>2. Lleva este registro como mínimo 4 días de la semana, los que tú elijas.<br><br><span>Día 1:</span><br><textarea rows='5' cols='50' id='input' class='inputStorage' onchange='getValueInputs(22)'></textarea><br><br><span>Día 2:</span><br><textarea rows='5' cols='50' id='input' class='inputStorage' onchange='getValueInputs(22)'></textarea><br><br><span>Día 3:</span><br><textarea rows='5' cols='50' id='input' class='inputStorage' onchange='getValueInputs(22)'></textarea><br><br><span>Día 4:</span><br><textarea rows='5' cols='50' id='input' class='inputStorage' onchange='getValueInputs(22)'></textarea><br><br>3. Para ayudarle a tu memoria en el desarrollo de esta actividad, elabora un cartel o haz una nota que puedas pegar en algún lugar visible de tu casa (ej.: ¿En qué estoy pensando?)<br><br>4. Una vez hayas terminado tu registro, identifica cuáles de esos pensamientos correspondieron a tu presente y cuáles a tu futuro. Puedes usar un color para los del “hoy” y otro para los del “mañana”.<br><br>5. Cuenta los pensamientos del presente, y aparte, cuenta los del futuro. De esta manera te darás cuenta qué tipo de preocupación es más predominante en ti.<br><br><li>Número de pensamientos sobre el presente: <input type='number' id='' min='1' max='3'></li><br><li>Número de pensamientos sobre el futuro: <input type='number' id='' min='1' max='3'></li><br>6. Busca versículos bíblicos que te inviten a superar las preocupaciones y la ansiedad; anótalos. Cuando escribes, tu memoria puede mejorar para recordarlos después. Identifica cuáles te hablan del presente y cuáles del futuro. En este punto, puedes invitar a tu familia para que cada uno, realice esta búsqueda y luego puedan, alrededor de un cafecito delicioso o un espacio de encuentro, leer y compartir lo aprendido.<br><br>7. En una hoja o cartulina de medio pliego, escribe un título a tu costado izquierdo que diga: “Mi mente” y al costado derecho: “La mente de Cristo”. Luego en el primer título, registra nuevamente todos los pensamientos que tuviste del “hoy” y luego los del “mañana”. Y al frente de cada uno, vas a escribir el versículo que corresponda a la promesa del Señor que te ayudará a superar y transformar tu pensamiento.<br><br>Y ahora, dile adiós a las preocupaciones excesivas y a la ansiedad; medita en las promesas del Señor, ora, agradece y confía con toda certeza, en la forma perfecta en la cual Él obra para tu bien y el de los tuyos.<br><br><em>¡Su palabra te cambiará la forma de pensar, sentir y vivir!</em><br><br><span>DIANA CRISTANCHO</span>"
         }
     }, {
         "x": "18%",
@@ -116,12 +116,12 @@
         "fontSize": "3.2em",
         "tag": "tooltip",
         "class": "tooltip-author",
-        "id": "author10",
+        "id": "author22",
         "data": {
             "author": "Diana Cristancho Cortes",
             "position": "Psicología, esp. en Gestión Humana y Desarrollo Organizacional.",
             "year": "2022",
-            "src": "./assets/pics/photos/"
+            "src": "./assets/pics/photos/dianacristancho.jpeg"
         }
     }
 ]

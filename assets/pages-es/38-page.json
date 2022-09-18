@@ -1,5 +1,18 @@
 [{
         "x": "0%",
+        "y": "1%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "80%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "",
+        "data": {
+            "src": "./assets/pics/titles/38.png"
+        }
+    }, {
+        "x": "0%",
         "y": "6%",
         "viewX": 1800,
         "viewY": 50,
@@ -65,7 +78,7 @@
         }
     },
     {
-        "x": "64%",
+        "x": "65.5%",
         "y": "75%",
         "viewX": 1800,
         "viewY": 100,
@@ -83,7 +96,7 @@
         }
     },
     {
-        "x": "53%",
+        "x": "55%",
         "y": "80%",
         "viewX": 1800,
         "viewY": 100,
@@ -100,7 +113,7 @@
         }
     },
     {
-        "x": "64%",
+        "x": "65.6%",
         "y": "85%",
         "viewX": 1800,
         "viewY": 100,
@@ -116,7 +129,7 @@
         }
     },
     {
-        "x": "58.5%",
+        "x": "60%",
         "y": "90%",
         "viewX": 1800,
         "viewY": 100,
@@ -127,10 +140,10 @@
         "id": "modalReflexion-p38",
         "class": "button-read",
         "text": "Reflexionar",
-        "icon": "./assets/pics/icons/leer.png",
+        "icon": "./assets/pics/icons/reflexionar.png",
         "data": {
             "title": "<br>Actividad<br><br>",
-            "content": "La oración es un acto de fe, que activa las promesas dadas por Dios, cuando nuestra confianza es puesta en Él.<br><br>De acuerdo con la anterior declaración, ¿en qué promesas bíblicas te apoyarías para contrarrestar las siguientes emociones?<br><br>Encuentra y relaciona la emoción con su respectiva promesa."
+            "content": "La oración es un acto de fe, que activa las promesas dadas por Dios, cuando nuestra confianza es puesta en Él.<br><br>De acuerdo con la anterior declaración, ¿en qué promesas bíblicas te apoyarías para contrarrestar las siguientes emociones?<br><br>Encuentra y relaciona la emoción con su respectiva promesa.<br><br><span>Amargura:</span>   <select name='select'><option value='value1'>AYUDA (Salmos 40:7) </option><option value='value2'>COMPAÑÍA (Salmos 145:18) </option><option value='value3'>CONFIANZA (Sal. 56:4; Is. 41: 10,13)</option><option value='value4'>GOZO (Salmos 31:7)</option><option value='value5'>DESCANSO (Salmos 16:9,11)</option><option value='value6'>ALEGRIA (Salmos 30:11,12)</option><option value='value7'>CONSUELO (Salmos 34:18)</option><option value='value8'>ESPERANZA (Salmos 39:7; 62:5)</option></select><br><br><span>Tristeza:</span>   <select name='select'><option value='value1'>AYUDA (Salmos 40:7) </option><option value='value2'>COMPAÑÍA (Salmos 145:18) </option><option value='value3'>CONFIANZA (Sal. 56:4; Is. 41: 10,13)</option><option value='value4'>GOZO (Salmos 31:7)</option><option value='value5'>DESCANSO (Salmos 16:9,11)</option><option value='value6'>ALEGRIA (Salmos 30:11,12)</option><option value='value7'>CONSUELO (Salmos 34:18)</option><option value='value8'>ESPERANZA (Salmos 39:7; 62:5)</option></select><br><br><span>Dolor:</span>   <select name='select'><option value='value1'>AYUDA (Salmos 40:7) </option><option value='value2'>COMPAÑÍA (Salmos 145:18) </option><option value='value3'>CONFIANZA (Sal. 56:4; Is. 41: 10,13)</option><option value='value4'>GOZO (Salmos 31:7)</option><option value='value5'>DESCANSO (Salmos 16:9,11)</option><option value='value6'>ALEGRIA (Salmos 30:11,12)</option><option value='value7'>CONSUELO (Salmos 34:18)</option><option value='value8'>ESPERANZA (Salmos 39:7; 62:5)</option></select><br><br><span>Soledad:</span>   <select name='select'><option value='value1'>AYUDA (Salmos 40:7) </option><option value='value2'>COMPAÑÍA (Salmos 145:18) </option><option value='value3'>CONFIANZA (Sal. 56:4; Is. 41: 10,13)</option><option value='value4'>GOZO (Salmos 31:7)</option><option value='value5'>DESCANSO (Salmos 16:9,11)</option><option value='value6'>ALEGRIA (Salmos 30:11,12)</option><option value='value7'>CONSUELO (Salmos 34:18)</option><option value='value8'>ESPERANZA (Salmos 39:7; 62:5)</option></select><br><br><span>Abatimiento:</span>   <select name='select'><option value='value1'>AYUDA (Salmos 40:7) </option><option value='value2'>COMPAÑÍA (Salmos 145:18) </option><option value='value3'>CONFIANZA (Sal. 56:4; Is. 41: 10,13)</option><option value='value4'>GOZO (Salmos 31:7)</option><option value='value5'>DESCANSO (Salmos 16:9,11)</option><option value='value6'>ALEGRIA (Salmos 30:11,12)</option><option value='value7'>CONSUELO (Salmos 34:18)</option><option value='value8'>ESPERANZA (Salmos 39:7; 62:5)</option></select><br><br><span>Desesperanza:</span>   <select name='select'><option value='value1'>AYUDA (Salmos 40:7) </option><option value='value2'>COMPAÑÍA (Salmos 145:18) </option><option value='value3'>CONFIANZA (Sal. 56:4; Is. 41: 10,13)</option><option value='value4'>GOZO (Salmos 31:7)</option><option value='value5'>DESCANSO (Salmos 16:9,11)</option><option value='value6'>ALEGRIA (Salmos 30:11,12)</option><option value='value7'>CONSUELO (Salmos 34:18)</option><option value='value8'>ESPERANZA (Salmos 39:7; 62:5)</option></select><br><br><span>Miedo:</span>   <select name='select'><option value='value1'>AYUDA (Salmos 40:7) </option><option value='value2'>COMPAÑÍA (Salmos 145:18) </option><option value='value3'>CONFIANZA (Sal. 56:4; Is. 41: 10,13)</option><option value='value4'>GOZO (Salmos 31:7)</option><option value='value5'>DESCANSO (Salmos 16:9,11)</option><option value='value6'>ALEGRIA (Salmos 30:11,12)</option><option value='value7'>CONSUELO (Salmos 34:18)</option><option value='value8'>ESPERANZA (Salmos 39:7; 62:5)</option></select><br><br><span>Enojo:</span>   <select name='select'><option value='value1'>AYUDA (Salmos 40:7) </option><option value='value2'>COMPAÑÍA (Salmos 145:18) </option><option value='value3'>CONFIANZA (Sal. 56:4; Is. 41: 10,13)</option><option value='value4'>GOZO (Salmos 31:7)</option><option value='value5'>DESCANSO (Salmos 16:9,11)</option><option value='value6'>ALEGRIA (Salmos 30:11,12)</option><option value='value7'>CONSUELO (Salmos 34:18)</option><option value='value8'>ESPERANZA (Salmos 39:7; 62:5)</option></select><br><br>"
         }
     }, {
         "x": "10%",

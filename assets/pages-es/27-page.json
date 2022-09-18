@@ -66,7 +66,7 @@
         }
     }, {
         "x": "83%",
-        "y": "54%",
+        "y": "55%",
         "viewX": 1800,
         "viewY": 50,
         "width": "8%",
@@ -97,7 +97,7 @@
         }
     },
     {
-        "x": "60%",
+        "x": "60.5%",
         "y": "70%",
         "viewX": 1800,
         "viewY": 100,
@@ -114,7 +114,7 @@
         }
     },
     {
-        "x": "71%",
+        "x": "71.5%",
         "y": "75%",
         "viewX": 1800,
         "viewY": 100,
@@ -130,7 +130,7 @@
         }
     },
     {
-        "x": "65%",
+        "x": "65.5%",
         "y": "80%",
         "viewX": 1800,
         "viewY": 100,
@@ -144,7 +144,7 @@
         "icon": "./assets/pics/icons/reflexionar.png",
         "data": {
             "title": "<br><span>Reflexionemos juntas</span><br><br>",
-            "content": "A continuación, encontrarás las características de una mujer dominada por el enojo, y otra que tiene un manejo de sus emociones. Elige las actitudes que te identifican y trabaja en fortalecer las positivas; las negativas trabájalas también, reemplazándolas poco a poco por mejores actitudes."
+            "content": "A continuación, encontrarás las características de una mujer dominada por el enojo, y otra que tiene un manejo de sus emociones. Elige las actitudes que te identifican y trabaja en fortalecer las positivas; las negativas trabájalas también, reemplazándolas poco a poco por mejores actitudes.<br><br><div class='table-p27'><div class='table-p27-1'><span>Mujer sin Dominio Propio</span><br><div><input type='checkbox' name='' id=''><label for=''>Irreflexiva e impulsiva</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Se deja engañar fácilmente por sus pensamientos.</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Se preocupa demasiado por lo que dicen los demás </label></div><br><div><input type='checkbox' name='' id=''><label for=''> Carece de discernimiento; no es precavida permite cualquier influencia.</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Busca escapar de la presión y los problemas</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Alimenta la carne, su carne controla el espíritu.</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Se enfoca en el aquí y el ahora, piensa poco o nada en la eternidad.Es una víctima de su circunstancia y pasado. </label></div><br><div><input type='checkbox' name='' id=''><label for=''> Vive centrada en sí misma “¿Cómo me afecta esto a mí?”</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Es mentalmente inestable.</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Tiene buenas intenciones, pero no cumple lo que promete.</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Es manipuladora, hace justicia por su propia mano.</label></div></div><div class='spacer'></div><div class='table-p27-2'><span>Mujer con Dominio Propio</span><br><div><input type='checkbox' name='' id=''><label for=''>Ejerce control y dominio propio</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Trae todo pensamiento cautivo a la obediencia de Cristo.</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Teme al Señor, vive para su aprobación.</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Es precavida y discierne lo que lee, mira y escucha.</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Está dispuesta a soportar dificultades por causa de una recompensa superior.</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Alimenta el espíritu, controla la carne; está alerta espiritual, mental y moralmente.</label></div><br><div><input type='checkbox' name='' id=''><label for=''>ITiene una perspectiva eterna, ve el aquí y ahora a la luz de la eternidad.</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Vive centrada en otros “¿cómo afecta mi conducta a los demás?”</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Es sana, estable, tiene sus pensamientos fijos en el Señor.</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Cumple sus compromisos; desarrolla disciplinas piadosas.</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Vive confiada en el Señor y espera en Él para actuar, le deja a Él el juicio.</label><br><br></div></div>"
         }
     }, {
         "x": "17%",
@@ -156,7 +156,7 @@
         "fontSize": "3.2em",
         "tag": "tooltip",
         "class": "tooltip-author",
-        "id": "author8",
+        "id": "author27",
         "data": {
             "author": "Yaneth Arrechea Vargas",
             "position": "Licenciada en ciencias sociales, filosofia y ciencias religiosas",

@@ -104,7 +104,8 @@
         "text": "Reflexionar",
         "icon": "./assets/pics/icons/leer.png",
         "data": {
-            "title": "<br><br><br>"
+            "title": "<br>Actividad práctica y reflexiva<br><br>",
+            "content": "Teniendo en cuenta que, la emoción de aversión o asco es importante para la supervivencia y la seguridad, y que su función principal es protegernos de situaciones desagradables, y potencialmente peligrosas para nuestra vida espiritual; relaciona en la ficha, al frente de los cuatro pecados enumerados, ¿cómo sentir el rechazo sobre éste, te ayuda o te previene de un riesgo?<br><br>Sentir aversión al pecado de… <span>la fornicación</span><br><br>Me ayuda a protegerme de…<br><textarea rows='5' cols='50' id='input' class='inputStorage' onchange='getValueInputs(19)'></textarea><br><br>Sentir aversión al pecado de… <span>Envidia </span><br><br>Me ayuda a protegerme de…<br><textarea rows='5' cols='50' id='input' class='inputStorage' onchange='getValueInputs(19)'></textarea><br><br>Sentir aversión al pecado de… <span>Soberbia </span><br><br>Me ayuda a protegerme de…<br><textarea rows='5' cols='50' id='input' class='inputStorage' onchange='getValueInputs(19)'></textarea><br><br>Sentir aversión al pecado de… <span>Codicia </span><br><br>Me ayuda a protegerme de…<br><textarea rows='5' cols='50' id='input' class='inputStorage' onchange='getValueInputs(19)'></textarea><br><br>"
         }
     }
 ]

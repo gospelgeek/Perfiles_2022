@@ -26,10 +26,11 @@
         }
     },
     {
-        "x": "89%",
+        "x": "87%",
         "viewX": 100,
         "viewY": 30,
         "height": "4%",
+        "width": "11%",
         "fontSize": "0.6em",
         "tag": "share",
         "id": "button-fb",
@@ -42,10 +43,11 @@
         }
     },
     {
-        "x": "89%",
+        "x": "87%",
         "viewX": 100,
         "viewY": 30,
         "height": "4%",
+        "width": "11%",
         "fontSize": "0.6em",
         "tag": "share",
         "id": "button-wpp",
@@ -58,10 +60,11 @@
         }
     },
     {
-        "x": "89%",
+        "x": "87%",
         "viewX": 100,
         "viewY": 30,
         "height": "4%",
+        "width": "11%",
         "fontSize": "0.6em",
         "tag": "share",
         "id": "button-twi",

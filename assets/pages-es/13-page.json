@@ -52,13 +52,13 @@
         }
     },
     {
-        "x": "73%",
+        "x": "75%",
         "y": "40%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
         "height": "10%",
-        "fontSize": "3.7em",
+        "fontSize": "3.3em",
         "tag": "modal",
         "id": "modal-p13",
         "class": "button-read",
@@ -70,13 +70,13 @@
         }
     },
     {
-        "x": "61%",
+        "x": "64.3%",
         "y": "45%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
         "height": "4%",
-        "fontSize": "3.7em",
+        "fontSize": "3.3em",
         "tag": "audio",
         "id": "audio13",
         "class": "btn-audio",
@@ -87,13 +87,13 @@
         }
     },
     {
-        "x": "73.5%",
+        "x": "75.4%",
         "y": "50%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
         "height": "4%",
-        "fontSize": "3.7em",
+        "fontSize": "3.3em",
         "tag": "print",
         "class": "button-print",
         "text": "Imprimir",
@@ -103,7 +103,7 @@
         }
     },
     {
-        "x": "69%",
+        "x": "69.5%",
         "y": "55%",
         "viewX": 1800,
         "viewY": 100,
@@ -117,11 +117,11 @@
         "icon": "./assets/pics/icons/reflexionar.png",
         "data": {
             "title": "<br>Test de la alegría<br><br>",
-            "content": "Responda las siguientes preguntas marcando con una x, siendo 1 totalmente en desacuerdo y 5 totalmente de acuerdo. Al finalizar suma las respuestas.<br><br>1. Me quejo pocas veces de lo que ocurre en mi vida.<br><br><button>1</button><button>2</button><button>3</button><button>4</button><button>5</button><br><br>2. En general, estoy satisfecha con todo lo que me rodea.<br><br><button>1</button><button>2</button><button>3</button><button>4</button><button>5</button><br><br>3. Estoy rodeada de personas que me apoyan en todo lo que necesito.<br><br><button>1</button><button>2</button><button>3</button><button>4</button><button>5</button><br><br>4. Me gustaría tener muchas cosas que al día de hoy no poseo, como dinero, un trabajo mejor, pareja...<br><br><button>1</button><button>2</button><button>3</button><button>4</button><button>5</button><br><br>5. Si pudiera volver a nacer, elegiría esta vida otra vez.<br><br><button>1</button><button>2</button><button>3</button><button>4</button><button>5</button><br><br>6. Me encanta disfrutar de los pequeños placeres que me da la vida.<br><br><button>1</button><button>2</button><button>3</button><button>4</button><button>5</button><br><br>7. Tengo algunos conflictos sin resolver con personas cercanas a mí.<br><br><button>1</button><button>2</button><button>3</button><button>4</button><button>5</button><br><br>8. Por norma general, suelo sonreír todo el tiempo sin forzarlo.<br><br><button>1</button><button>2</button><button>3</button><button>4</button><button>5</button><br><br>9. A veces, me gustaría cambiar mi vida por la de otra persona más afortunada.<br><br><button>1</button><button>2</button><button>3</button><button>4</button><button>5</button><br><br>10. Considero que estoy en un ambiente muy tranquilo y sin conflictos en mi vida.<br><br><button>1</button><button>2</button><button>3</button><button>4</button><button>5</button><br><br><span>Nota:</span> Los resultados obtenidos en esta prueba son sólo orientativos.<br><br><span>Calcule tus respuestas</span><br><br><li>Si has puntuado ALTO en esta escala, ¡Te felicito! Las puntuaciones altas en esta escala se relacionan con personas que hacen suya la alegría de los demás. Una actitud positiva es muy importante para fortalecer nuestra salud mental, puntuar alto significa que eres una persona feliz y que sueles tener facilidad para experimentar este tipo de emociones de manera regular. Aun así, recuerda que para mantener este estado debes fortalecer cada día tu vida espiritual.</li><br><li>Una puntuación MEDIA implica una capacidad moderada para experimentar alegría y sensaciones placenteras. A pesar de que no parece que presentes ningún tipo de trastorno o síntomas propios de la depresión, es importante que intentes trabajar en tus habilidades personales para poder llegar a ser una persona completamente feliz. ¿Qué cambios necesitas en tu vida para ser feliz?</li><br><li>Una puntuación BAJA está relacionada con un bajo nivel de felicidad. Esta puntuación puede ser un indicador de que algo no va bien en tu vida. Por ello, es importante encontrar aquello que te esté generando malestar.  Intenta acercarte más a Dios, recuerda que Él es la fuente del gozo y la felicidad. Si sientes que necesitas ayuda profesional no dudes en buscarla.</li><br><br><span>Bibliografía</span><br><br>Santa Biblia Reina Valera (1960)<br>Santa Biblia Nueva Versión Internacional<br>2019. Psicología ON LINE. TEST: cómo saber si soy feliz. Recuperado de: <a href='https://www.psicologia-online.com/test-como-saber-si-soy-feliz-4332.html'>https://www.psicologia-online.com/test-como-saber-si-soy-feliz-4332.html</a><br><br>"
+            "content": "Responda las siguientes preguntas marcando con una x, siendo 1 totalmente en desacuerdo y 5 totalmente de acuerdo. Al finalizar suma las respuestas.<br><br>1. Me quejo pocas veces de lo que ocurre en mi vida.<br><br><button>1</button><button>2</button><button>3</button><button>4</button><button>5</button><br><br>2. En general, estoy satisfecha con todo lo que me rodea.<br><br><button>1</button><button>2</button><button>3</button><button>4</button><button>5</button><br><br>3. Estoy rodeada de personas que me apoyan en todo lo que necesito.<br><br><button>1</button><button>2</button><button>3</button><button>4</button><button>5</button><br><br>4. Me gustaría tener muchas cosas que al día de hoy no poseo, como dinero, un trabajo mejor, pareja...<br><br><button>1</button><button>2</button><button>3</button><button>4</button><button>5</button><br><br>5. Si pudiera volver a nacer, elegiría esta vida otra vez.<br><br><button>1</button><button>2</button><button>3</button><button>4</button><button>5</button><br><br>6. Me encanta disfrutar de los pequeños placeres que me da la vida.<br><br><button>1</button><button>2</button><button>3</button><button>4</button><button>5</button><br><br>7. Tengo algunos conflictos sin resolver con personas cercanas a mí.<br><br><button>1</button><button>2</button><button>3</button><button>4</button><button>5</button><br><br>8. Por norma general, suelo sonreír todo el tiempo sin forzarlo.<br><br><button>1</button><button>2</button><button>3</button><button>4</button><button>5</button><br><br>9. A veces, me gustaría cambiar mi vida por la de otra persona más afortunada.<br><br><button>1</button><button>2</button><button>3</button><button>4</button><button>5</button><br><br>10. Considero que estoy en un ambiente muy tranquilo y sin conflictos en mi vida.<br><br><button>1</button><button>2</button><button>3</button><button>4</button><button>5</button><br><br><span>Nota:</span> Los resultados obtenidos en esta prueba son sólo orientativos.<br><br>"
         }
     }, {
-        "x": "32%",
-        "y": "63%",
+        "x": "34%",
+        "y": "60%",
         "viewX": 1800,
         "viewY": 50,
         "width": "60%",
@@ -134,7 +134,7 @@
         }
     }, {
         "x": "43%",
-        "y": "70%",
+        "y": "66%",
         "viewX": 1800,
         "viewY": 50,
         "width": "50%",

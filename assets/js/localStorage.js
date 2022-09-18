@@ -17,18 +17,19 @@ function getValueInputs(pag) {
                 input6: $('#input6').val(),
                 input7: $('#input7').val()
             }
+            console.log($('#input6').val());
             localStorage.setItem('data8', JSON.stringify(page_8))
             break;
 
         case 10:
             let page_10 = {
                 page: pag,
-                input1: $('#input1').val(),
-                input2: $('#input2').val(),
-                input3: $('#input3').val(),
-                input4: $('#input4').val(),
-                input5: $('#input6').val(),
-                input6: $('#input6').val()
+                input1: $('#input8').val(),
+                input2: $('#input9').val(),
+                input3: $('#input10').val(),
+                input4: $('#input11').val(),
+                input5: $('#input12').val(),
+                input6: $('#input13').val()
             }
             localStorage.setItem('data10', JSON.stringify(page_10))
             break;
@@ -36,15 +37,14 @@ function getValueInputs(pag) {
         case 14:
             let page_14 = {
                 page: pag,
-                input1: $('#input1').val(),
-                input2: $('#input2').val(),
-                input3: $('#input3').val()
+                input1: $('#input14').val(),
+                input2: $('#input15').val(),
+                input3: $('#input16').val()
             }
             localStorage.setItem('data14', JSON.stringify(page_14))
             break;
 
     }
-    // localStorage.setItem('data', JSON.stringify(obj))
 
     setValueInputs()
 }
@@ -60,6 +60,7 @@ function setValueInputs() {
         data = JSON.parse(localStorage.getItem('data' + currentPage));
 
     if (data && data.page == currentPage) {
+        console.log(data);
         Object.entries(data).forEach(([id, value]) => {
             if (value == true || value == false) {
                 $("#" + id).prop('checked', value);

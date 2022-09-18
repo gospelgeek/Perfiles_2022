@@ -32,7 +32,7 @@
         "viewY": 100,
         "width": "83%",
         "height": "10%",
-        "fontSize": "3.7em",
+        "fontSize": "3.3em",
         "tag": "modal",
         "id": "modal-p16",
         "class": "button-read",
@@ -102,7 +102,7 @@
         "fontSize": "3.2em",
         "tag": "tooltip",
         "class": "tooltip-author",
-        "id": "author8",
+        "id": "author16",
         "data": {
             "author": "Zulma Eneida Mosquera Murillo",
             "position": "Psicóloga, Dto 20",

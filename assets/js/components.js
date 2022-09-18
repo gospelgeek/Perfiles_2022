@@ -15,6 +15,10 @@ const addComponents = (region, lang) => {
             element = '<img src=' + region.data.src + '>'
             break;
 
+        case 'div':
+            element = addSVG('<div class="' + region.class + '">' + region.data.content + '</div>', region)
+            break;
+
         case 'modal':
             element = $('<div/>', { class: 'content-modal' }).append(
                 $('<div/>', { id: region.id, class: 'modal' }).append(
