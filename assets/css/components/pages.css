@@ -425,6 +425,51 @@ audio {
     left: 75%;
 }
 
+@media only screen and (max-width: 468px) {
+    .p8 .title_page {
+        width: 65% !important;
+        left: 16% !important;
+        top: 7% !important;
+    }
+    .p8 .text-introductory p {
+        left: 13% !important;
+        top: 42%;
+    }
+    .p8 .graphic_arrow {
+        left: 4% !important;
+        top: 42% !important;
+    }
+    .p8 .tooltip-author {
+        top: 24% !important;
+    }
+    .p8 .text-biblical p {
+        top: 30% !important;
+    }
+    .p8 .verse p {
+        top: 38% !important;
+    }
+    .p8 .button-read {
+        top: 76% !important;
+        left: 60% !important;
+        width: 100% !important;
+    }
+    .p8 .btn-audio {
+        top: 82% !important;
+        left: 47.5% !important;
+        width: 100% !important;
+    }
+    .p8 .button-print {
+        top: 88% !important;
+        left: 61% !important;
+        width: 100% !important;
+    }
+    .p8 .button-reflexion {
+        top: 94% !important;
+        left: 54.3% !important;
+        width: 100% !important;
+    }
+}
+
 
 /*Page 9*/
 
@@ -709,11 +754,68 @@ audio {
 }
 
 
+/*Page 16*/
+
+.p16 video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    max-height: 100%;
+    min-width: 100%;
+    overflow-x: hidden;
+}
+
+.p16 .title {
+    visibility: hidden;
+}
+
+.p16 .text-biblical p,
+.p16 .verse p {
+    text-align: center;
+}
+
+.p16 .button-share-fb {
+    bottom: 26%;
+}
+
+.p16 .button-share-twi {
+    bottom: 20%;
+}
+
+.p16 .button-share-wpp {
+    bottom: 14%;
+}
+
+
 /*Page 17*/
 
 .p17 .section-magazine p {
     text-align: center;
     padding: 4% 0% 2% 0%;
+}
+
+.p17 video {
+    position: absolute;
+    top: 0;
+    left: -100%;
+    max-height: 100%;
+    min-width: 100%;
+    overflow-x: hidden !important;
+}
+
+.p17 .text-introductory p {
+    background-color: rgba(255, 255, 255, 0.694);
+    padding: 9% 15% 11% 15%;
+    border-radius: 0 0 0 20%;
+}
+
+.p17 .button-magazine {
+    color: #ffffff;
+}
+
+.p17 .section-magazine p {
+    background-color: #c5889e;
+    color: #ffffff;
 }
 
 
@@ -1232,10 +1334,57 @@ audio {
 }
 
 
+/*Page 34*/
+
+.p34 .title {
+    visibility: hidden;
+}
+
+.p34 .backPage34 {
+    width: 200% !important;
+    float: left;
+}
+
+.p34 .text-biblical p {
+    text-align: center;
+    color: #ffffff;
+}
+
+.p34 .main-text em {
+    color: #ffffff;
+}
+
+.p34 .button-share-fb {
+    bottom: 26%;
+}
+
+.p34 .button-share-twi {
+    bottom: 20%;
+}
+
+.p34 .button-share-wpp {
+    bottom: 14%;
+}
+
+
 /*Page 35*/
 
 .p35 .section-magazine p {
     width: 24%;
+}
+
+.p35 .backPage35 {
+    width: 200% !important;
+    float: right;
+}
+
+.p35 .button-magazine {
+    color: #ffffff;
+}
+
+.p35 .section-magazine p {
+    background-color: #c5889e;
+    color: #ffffff;
 }
 
 
@@ -1435,11 +1584,65 @@ audio {
 }
 
 
+/*Page 44*/
+
+.p44 .backPage44 {
+    width: 200% !important;
+    float: left;
+}
+
+.p44 .text-biblical p,
+.p44 .verse p {
+    color: #ffffff;
+    text-align: center;
+}
+
+.p44 .title {
+    visibility: hidden;
+}
+
+.p44 .number-page {
+    color: #ffffff;
+}
+
+
 /*Page 45*/
 
 .p45 .section-magazine p {
     text-align: center;
     padding: 4% 0% 2% 0%;
+}
+
+.p45 .backPage45 {
+    position: absolute;
+    width: 172% !important;
+    right: 14% !important;
+}
+
+.p45 .section-magazine {
+    color: #ffbc00;
+    color: #ffffff;
+}
+
+.p45 .button-share-fb {
+    bottom: 80%;
+}
+
+.p45 .button-share-twi {
+    bottom: 74%;
+}
+
+.p45 .button-share-wpp {
+    bottom: 68%;
+}
+
+.p45 .button-magazine,
+.p45 .text-introductory p {
+    color: #ffffff;
+}
+
+.p45 .number-page {
+    color: #ffffff;
 }
 
 
@@ -1522,11 +1725,58 @@ audio {
 }
 
 
+/*Page 48*/
+
+.p48 .title {
+    background-color: #ffffff;
+    padding: 30% 12%;
+    border-radius: 10% 10% 0% 0;
+    color: transparent;
+}
+
+.p48 .backPage48 {
+    width: 92% !important;
+    float: left;
+}
+
+.p48 .button-share-fb {
+    bottom: 22%;
+}
+
+.p48 .button-share-twi {
+    bottom: 16%;
+}
+
+.p48 .button-share-wpp {
+    bottom: 10%;
+}
+
+.p48 .number-page {
+    z-index: 12;
+}
+
+
 /*Page 49*/
 
 .p49 .section-magazine p {
     text-align: center;
     padding: 4% 0% 2% 0%;
+}
+
+.p49 .backPage49 {
+    position: absolute;
+    width: 99% !important;
+    right: 0% !important;
+}
+
+.p49 .section-magazine p {
+    background-color: #ffbc00;
+    color: #ffffff;
+}
+
+.p49 .text-introductory p,
+.p49 .button-magazine {
+    color: #ffffff;
 }
 
 

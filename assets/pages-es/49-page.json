@@ -1,28 +1,111 @@
 [{
 
-    "x": "48%",
-    "y": "1%",
-    "viewX": 1800,
-    "viewY": 50,
-    "width": "20%",
-    "height": "4%",
-    "fontSize": "2.8em",
-    "tag": "img",
-    "class": "",
-    "data": {
-        "src": "./assets/pics/icons/logo_perfiles.png"
+        "x": "48%",
+        "y": "1%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "20%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "",
+        "data": {
+            "src": "./assets/pics/icons/logo_perfiles.png"
+        }
+    }, {
+        "x": "0%",
+        "y": "-1%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "94%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "p",
+        "class": "section-magazine",
+        "data": {
+            "content": "Algo más"
+        }
+    }, {
+        "x": "8%",
+        "y": "13%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "83%",
+        "height": "4%",
+        "fontSize": "3.4em",
+        "tag": "p",
+        "class": "text-introductory",
+        "data": {
+            "content": "Sabemos que las emociones son inherentes a los seres humanos, sin embargo, hay emociones que causan inestabilidad en nuestra cotidianidad y nos impiden funcionar bien. Cuando la vida emocional trasciende y toma control de algunas dimensiones del ser humano y afecta la vida espiritual, lo más seguro es que se esté viviendo la vida a través del lente del trauma, de la herida emocional, y este lente es por lo general reducido, ya que solo se ve la vida en escala de grises, sin lograr ver más nada, incluso, las promesas de Dios se hacen rutinarias, parecieran invisibles, “hermosas pero no aplicables para mí”."
+        }
+    },
+    {
+        "x": "71%",
+        "y": "45%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "10%",
+        "fontSize": "3.3em",
+        "tag": "modal",
+        "id": "modal-p49",
+        "class": "button-read",
+        "text": "Leer más",
+        "icon": "./assets/pics/icons/leer.png",
+        "data": {
+            "title": "<br>LAS EMOCIONES Y NUESTRA VIDA ESPIRITUAL<br><br>",
+            "content": "Los seres humanos manejamos algo que se conoce como memoria emocional, es decir, en ocasiones no recordamos exactamente el día, la hora de una determinada situación, pero sí podemos recordar en detalle la emoción que produjo un acontecimiento, tal como una fragancia, el perfume del ser querido, un sonido, un paisaje, un regalo esperado, una despedida, una canción.<br><br><li><span>¿Qué sucede cuando las heridas emocionales afectan nuestra vida espiritual?</span></li><br>Sabemos que las emociones son inherentes a los seres humanos, sin embargo, hay emociones que causan inestabilidad en nuestra cotidianidad y nos impiden funcionar bien. Cuando la vida emocional trasciende y toma control de algunas dimensiones del ser humano y afecta la vida espiritual, lo más seguro es que se esté viviendo la vida a través del lente del trauma, de la herida emocional, y este lente es por lo general reducido, ya que solo se ve la vida en escala de grises, sin lograr ver más nada, incluso, las promesas de Dios se hacen rutinarias, parecieran invisibles, “hermosas pero no aplicables para mí”. Una vida fuertemente invadida por el componente emocional, se puede ver afectada a la hora de tomar decisiones. <i>“Las moscas muertas hacen heder y dar mal olor al perfume del perfumista; así una pequeña locura, al que es estimado como sabio y honorable”</i> (Eclesiastés 10:1).<br><br>Aun personas sabias y de buen nombre, alguna vez han tomado decisiones erradas en medio de una crisis, con irracionalidad emotiva, sin discernimiento en Dios. Por esto es tan importante que nuestra humanidad esté guiada por el poder del Espíritu Santo. Las emociones no son malas, pero el mal manejo de las mismas, puede generar consecuencias en ocasiones casi irreparables.<br><br><li><span>Una buena relación con Dios</span> nos garantiza una vida equilibrada, en donde no estamos sujetas a las vivencias emocionales exclusivamente. En una vida estructurada en Jesús, donde Él es el centro, pueden aparecer las vivencias emocionales como parte de la vida, pero no como el eje central de las decisiones; y este aspecto es muy importante, porque existen mujeres que han basado las decisiones trascendentales de su vida, guiadas en particular por un componente emocional sobredimensionado.</li><br>Por ejemplo, una chica termina con su novio, con quien tenía la expectativa de una relación estable y con futuro; pero después de esa ruptura, ella empieza a gritarle al mundo que <i>“todo está bien…”</i>lo cual podría estar acompañado de decisiones erradas, como salir con muchos chicos, empezar una nueva relación precipitadamente sin evaluar si era el tiempo y la persona correcta, o sin la aprobación Divina. También está el caso de la madre que grita y maltrata emocionalmente a su hijo, porque su esposo no es amable ni amoroso con ella; su tristeza y llanto, se descarga con la persona equivocada (su hijo). En lugar de ello podría descansar en presencia de nuestro Padre o incluso hacerle saber a su esposo cómo se siente. El Señor es capaz de consolarnos y darnos paz en medio de la tormenta, Marcos 4:41, <i>“… mi paz os doy; yo no os la doy como el mundo la da. No se turbe vuestro corazón, ni tenga miedo”</i> (Juan 14:27).<br><br>Una buena relación con Dios nos puede dar un norte, una dirección en medio del caos. <i>“… sendas derechas para vuestros pies, para que lo cojo no se salga del camino, sino que sea sanado”</i> (Hebreos 12:13).<br><br><span>Es necesario...</span> <br><li><span>Comprender que tu fragilidad, tu limitación, es una oportunidad para que el poder de Dios obre en ti.</span> Es necesario identificar qué te vulnera; en particular, si esta idea genera inestabilidad emocional, afectando tu cotidianidad. Pero debes entender que tu fragilidad es una oportunidad para ver obrar el poder de Dios en ti, entregando tu debilidad en sus manos. <i>“Pero tenemos este tesoro en vasos de barro, para que la excelencia del poder sea de Dios, y no de nosotros”</i> (2 Corintios 4:7).</li><br><li><span>Mírate como te ve Dios, y no como te quiere hacer ver la experiencia negativa o traumática.</span> Mírate en el espejo correcto, mírate a la luz de la Palabra, y no a través del pasado; este último genera anclaje emocional y espiritual, impidiendo crecer en Dios. Cuando se piensa más en las frases que alguien dijo y el modo en que te hizo sentir, se puede llegar a dudar de las promesas de Dios y su plan en nosotras como heredas de su gracia. Nuestro Padre siempre tiene un mejor plan, su Don inefable nos lleva de menos a más y nos hace conquistar victorias, que en nuestra frágil humanidad serían imposibles de alcanzar; por eso es tan importante que te veas a la luz de la Palabra. <i>“De modo que si alguno está en Cristo, nueva criatura es; las cosas viejas pasaron; he aquí todas son hechas nuevas”</i> (2 Corintios 5:17).Nuestra nueva vida en Cristo nos garantiza grandes victorias, antes inesperadas para nosotras. En la Biblia, el Señor muestra cómo el destino de muchas mujeres fue cambiado, mujeres sobre quienes no había ninguna expectativa (Rahab la ramera, la mujer adúltera, María Magdalena), mujeres a quienes el encuentro con Jesús les cambió la vida para siempre. Si te has encontrado con Jesús, tu destino ya está en las manos del Maestro, déjate llevar por Él sin preguntar. Las derrotas pasadas no definen quién serás en el futuro, y menos si has reconocido a Jesucristo como Dueño de tu vida, <i>“… Dios… llama las cosas que no son, como si fuesen”</i> (Romanos 4:17).<br><br><li><span>El amor de Dios supera cualquier experiencia emocional negativa.</span> <i>“Has cambiado mi lamento en baile; … y me ceñiste de alegría”</i> (Salmos 30:11).</li><br>Deja que el Espíritu Santo administre tu vida y tu descarga emocional; este aspecto es muy importante, ya que algunas mujeres vivencian descargas emotivas incapacitantes, es decir, les impiden la funcionalidad del día a día, y si bien es cierto en algunas ocasiones hay un componente de predisposición genética (de salud mental), en otros momentos, algunas mujeres atesoran las emociones, convirtiéndolas en una compañía no grata, ameritando que la templanza y el dominio propio entren a participar.<br><br>Algunas mujeres que reviven y reviven un evento, se quedan en la descarga emocional (que no es mala, pero es de cuidado si invade la vida) como elemento protagónico en su vida, afectando así su vida familiar, social, espiritual y hasta su vida congregacional.<br><br><li><span>Es importante reconocer y comprender qué te produce esta emoción,</span> si existe algún factor detonante, por historia de vida y personalidad. Es necesario reconocer qué te producen las actitudes, frases, palabras de los demás y en particular qué te evocan en el presente, ¿con qué lo asocias? Es necesario entender que en ocasiones no respondemos a las acciones de los demás sino al significado que le hemos dado. <i>Muchas veces no respondo a la situación misma, sino a mi interpretación y a mi vivencia o mi trauma.</i> Por eso es tan importante poner en las manos de Dios nuestras vivencias emocionales y nuestros recuerdos. Por ejemplo, si alguien pasa por alto saludarte por cualquier motivo, sin ninguna intención negativa, esto te afecta por la situación misma o más bien remueve heridas del pasado, sintiéndote poco valorada, con sentimientos de minusvalía (sintiéndote menos). Pero el sentido del valor personal no se deriva de situaciones circunstanciales, somos valiosas por ser fruto de las manos del Creador, por las cualidades y talentos que poseemos en Dios.<br><br><li><span>El desarrollo de la empatía a través de las emociones</span>, el reconocimiento de las emociones en nosotras y en los demás, nos ayuda a comprender y tener misericordia y amor fraternal hacia nuestro prójimo. El pasaje de Jesús y Lázaro, muestra la capacidad de identificación del Señor con la raza humana, y cómo la emoción de la tristeza deja asomar la respuesta de llanto en la historia bíblica.<i>“Jesús entonces, al verla llorando, y a los judíos que la acompañaban, también llorando, se estremeció en espíritu y se conmovió, y dijo: ¿Dónde le pusisteis? Le dijeron: Señor, ven y ve. Jesús lloró”</i> (Juan 11:33-35).<br><br><li><span>Permitir que el Señor consuele cualquiera que sea nuestro dolor</span><i>“Y cuando el Señor la vio, se compadeció de ella, y le dijo: No llores”</i> (Lucas 7:13). Él tiene la salida, Él puede reescribir nuestra historia y darnos<i>“… manto de alegría, en lugar del espíritu angustiado…”</i> (Isaías 61:3).<br><br><li><span>Entender que los pensamientos rumiantes</span> (ideas y pensamientos repetitivos respecto a una situación, que quitan la paz de manera acentuada) <span>no hacen parte de lo que el Señor quiere para nuestra vida.</span> <i>“Y la paz de Dios, que sobrepasa todo entendimiento, guardará vuestros corazones y vuestros pensamientos en Cristo Jesús”</i> (Filipenses 4:7).</li><br><br><span>Sugerencias finales</span><br><br><li>Hazle saber a tu núcleo más cercano cómo te sientes, sin juicios de valor, diciéndoles qué sientes, qué piensas, qué esperas, sin sarcasmos, ironías, sin recuentos históricos, sin hacer juicios. Por ejemplo, me siento triste (cómo te sientes), deseo que compartamos más tiempo juntos (lo que esperas, sin recuentos negativos).</li><br><li>Pide ayuda a tiempo, esta puede ser espiritual, profesional, pero identifica si no puedes sola.</li><br><br>"
+        }
+    },
+    {
+        "x": "58%",
+        "y": "50%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "4%",
+        "fontSize": "3.7em",
+        "tag": "audio",
+        "id": "audio49",
+        "class": "btn-audio",
+        "text": "Escuchar Audio",
+        "icon": "./assets/pics/icons/escuchar.png",
+        "data": {
+            "src": ""
+        }
+    },
+    {
+        "x": "70.5%",
+        "y": "55%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "4%",
+        "fontSize": "3.7em",
+        "tag": "print",
+        "class": "button-print",
+        "text": "Imprimir",
+        "icon": "./assets/pics/icons/imprimir.png",
+        "data": {
+            "url": "https://drive.google.com/file/d/1SQga6RgmNDd0a35XPHDeOAy0U0cIo60W/preview"
+        }
+    },
+    {
+        "x": "66.3%",
+        "y": "60%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "10%",
+        "fontSize": "3.3em",
+        "tag": "modal",
+        "id": "modalReflexion-p49",
+        "class": "button-read",
+        "text": "Reflexionar",
+        "icon": "./assets/pics/icons/reflexionar.png",
+        "data": {
+            "title": "<br>Taller<br><br>",
+            "content": "<li><span>Compromiso autorreflexivo</span></li><br>Identifica las emociones de tu maleta emocional, cuáles de ellas te producen agrado, haz una lista, colócalas en un lugar visible, porque eso hace parte de las vivencias emocionales satisfactorias. Procura repetirlas si son buenas, tales como compartir en familia, una tarde de esparcimiento, entre otras.<br><br><span>Nota:</span> Estas son diferentes en cada persona.<br><br>Del mismo modo identifica cuáles consideras que es necesario re-significar por el tipo de descarga emotiva ¿Por qué?<br><br>Por ejemplo, cuando alguien no te saluda. La forma apropiada de re-significar es identificar que eres valiosa o importante a pesar de las circunstancias, y no te quedes en el círculo de pensamientos negativos que te hacen sentir menos.<br><br><li><span>Compromiso práctico</span></li><br>Coloca en un lugar visible de tu casa o trabajo, una promesa que el Señor te haya dado, no importa hace cuánto tiempo fue, en especial, si tiene un significado especial para ti o tu familia, o si contribuye a re-significar una vivencia negativa, o te da fe para creer que Dios puede re-escribir tu historia.<br><br><li><span>Autoconocimiento</span></li><br>Contesta falso o verdadero.<br><br>a. Puedo reconocer las situaciones que producen en mí determinada emoción, ya sea alegría, llanto, tristeza, ira, vergüenza, entre otras.<select name='select'><option value='value1'>Falso</option><option value='value2'>Verdadero</option></select><br><br>b. Se me facilita explicar a mi entorno de manera adecuada mi respuesta emocional, para evitar malos entendidos.<select name='select'><option value='value1'>Falso</option><option value='value2'>Verdadero</option></select><br><br>c. Puedo descargar más fácilmente la ira o enojo, que la alegría y palabras amables de afirmación a otros.<select name='select'><option value='value1'>Falso</option><option value='value2'>Verdadero</option></select><br><br>d. Dejo participar a Dios para que administre mis recuerdos y emociones.<select name='select'><option value='value1'>Falso</option><option value='value2'>Verdadero</option></select><br><br>e. Se me facilita reconocer y comprender las emociones en las demás personas y mostrarme empática.<select name='select'><option value='value1'>Falso</option><option value='value2'>Verdadero</option></select><br><br>f. Permito que las emociones guíen decisiones importantes de mi vida, en medio de una crisis emocional, actuando con irracionalidad emotiva.<select name='select'><option value='value1'>Falso</option><option value='value2'>Verdadero</option></select><br><br><li><span>Compromiso personal</span></li><br>Realiza una carta en la cual identifiques algún aspecto de tu vida que deseas que el Señor administre, ya sea re-significando una vivencia, sanando un trauma o sencillamente direccionando una emoción. Haz esto parte de tu devocional personal. El Señor siempre tiene la última palabra.<br><br>"
+        }
     }
-}, {
-    "x": "0%",
-    "y": "-1%",
-    "viewX": 1800,
-    "viewY": 50,
-    "width": "94%",
-    "height": "4%",
-    "fontSize": "2.8em",
-    "tag": "p",
-    "class": "section-magazine",
-    "data": {
-        "content": "Algo más"
-    }
-}]
+]

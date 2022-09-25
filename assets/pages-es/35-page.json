@@ -1,28 +1,111 @@
 [{
 
-    "x": "48%",
-    "y": "1%",
-    "viewX": 1800,
-    "viewY": 50,
-    "width": "20%",
-    "height": "4%",
-    "fontSize": "2.8em",
-    "tag": "img",
-    "class": "",
-    "data": {
-        "src": "./assets/pics/icons/logo_perfiles.png"
+        "x": "48%",
+        "y": "1%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "20%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "",
+        "data": {
+            "src": "./assets/pics/icons/logo_perfiles.png"
+        }
+    }, {
+        "x": "0%",
+        "y": "-1%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "94%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "p",
+        "class": "section-magazine",
+        "data": {
+            "content": "Recursos divinos"
+        }
+    }, {
+        "x": "8%",
+        "y": "30%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "83%",
+        "height": "4%",
+        "fontSize": "3.4em",
+        "tag": "p",
+        "class": "text-introductory",
+        "data": {
+            "content": "Confiar en Dios es un actividad diaria y continua que se refleja en nuestra actitud al enfrentar el día a día. Es visible en la forma de reaccionar ante cada eventualidad, se hace evidente en la serenidad y templanza de quien se ve invitada a afanarse. Es el escondite seguro ante las incertidumbres en el camino del peregrino, es abandonarme hoy en la obediencia a Dios sin importar qué pase mañana, mi depósito y provisión están seguras."
+        }
+    },
+    {
+        "x": "71%",
+        "y": "56%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "10%",
+        "fontSize": "3.3em",
+        "tag": "modal",
+        "id": "modal-p135",
+        "class": "button-read",
+        "text": "Leer más",
+        "icon": "./assets/pics/icons/leer.png",
+        "data": {
+            "title": "<br>!EN TI OH JEHOVÁ HE CONFIADO¡<br><br>",
+            "content": "<i>“En ti oh Jehová he confiado; no sea yo confundido jamás; líbrame en tu justicia”</i> (Salmos 31: 1)<br><br>La <span>confianza</span> es un valioso recurso Divino, para gestionar adecuadamente nuestras emociones; consiste en la <span>seguridad</span> y convicción clara de que Dios nunca nos va a fallar, porque sus promesas son fieles y verdaderas.<br><br>“Fíate de Jehová de todo tu corazón, y no te apoyes en tu propia prudencia. Reconócelo en todos tus caminos, y Él enderezará tus veredas” ( Proverbios 3:5-6).<br><br>Confiar en Dios es un actividad diaria y continua que se refleja en nuestra actitud al enfrentar el día a día. Es visible en la forma de reaccionar ante cada eventualidad, se hace evidente en la serenidad y templanza de quien se ve invitada a afanarse. Es el escondite seguro ante las incertidumbres en el camino del peregrino, es abandonarme hoy en la obediencia a Dios sin importar qué pase mañana, mi depósito y provisión están seguras.<br><br><span>¿Cómo afecta a una persona la falta de confianza en Dios?</span><br><br>La falta de confianza es la antesala de la incredulidad, es el cerrojo puesto al cielo personal que impide abrirse y ser objeto del favor de Dios. Internamente el corazón deja de ser sensible y se endurece; lamentablemente no queda allí, empieza un descenso peligroso, donde el espíritu se debilita y es desplazado por la carne que se apropia del timón de las decisiones; sabemos que la carne no es buen chofer, pero por la falta de confianza nos volvemos indiferentes, los pensamientos cambian, alejándose de los de Dios y el pecado acecha muy de cerca.<br><br>En la cotidianidad las prioridades cambian, agradar a Dios no es lo primero, cesa el sacrificio de alabanza y la gratitud, la persona se introduce en la triste dimensión de la autodependencia, donde todo esfuerzo en todo lo que se hace es insuficiente, la tristeza y frustración como cosecha es inevitable, nos transforman nuestros pensamientos. Las preguntas de turno ¿qué me pasa, por qué, qué hago?<br><br>A veces nos empeñamos en buscar respuestas y soluciones distintas a la adecuada. Es importante resaltar que el 75% de las enfermedades físicas tienen su cuna en la mente, por la falta de inteligencia emocional que le damos a las situaciones que se presentan en la vida, por no aprovechar este poderoso recurso de confiar en el Señor.<br><br>Según estudios realizados por la Universidad de Pensilvania (Estados Unidos) a treinta participantes, se determinó que “el 90% de las cosas que nos preocupan nunca suceden”, resultado que revela la afectación a la calidad de vida, dando cabida a problemas emocionales y trastornos psicológicos. Por consiguiente, es sabio obedecer a lo que el Señor nos recalca en su Palabra, “Por nada estéis afanosos”, y de ésta manera “volvamos a confiar en Dios para activar nuestro espíritu, descansar en su Soberanía; entonces ser fiel, dar gracias y glorificar al Señor, mantendrá el caudal de la provisión Divina”.<br><br>“Y esta es la confianza que tenemos en Él, que si pedimos alguna cosa conforme a su voluntad, él nos oye” (1 Juan 5:14).<br><br><span>¿Cómo afecta mi entorno social la falta de confianza?</span><br><br>Cuando confío en Dios me convierto en receptor del don Divino y a la vez esto será recurso y provisión para quienes me rodean, mi cónyuge, mis hijos, familiares, compañeros de estudio, de trabajo, quienes se alimentan de lo que damos. Somos portadoras de paz, amor, esperanza, gozo, consuelo, sanidad, fuerza, ánimo. Recursos obtenidos en la despensa de la confianza en Dios, donde encontramos gracia para el oportuno socorro. Cuando cortamos esa fuente, no habrá lluvia para saciar a otros, nuestro entorno es sombrío y tenue, queremos saciar a los demás con cisternas rotas, pobre sociedad con una sal insípida, sin el gusto de la fe y confianza en Dios, el justo pierde su sabor. En la práctica, en nuestras palabras ya no brilla el lenguaje de la fe, reflejamos desesperanza, ya saben que no podemos dar lo que perdimos, ¿cómo confiar en quien solo cuenta consigo mismo? ya no auxiliamos a nuestro prójimo, ahora precisamos el auxilio de ellos.<br><br>A nivel físico la desconfianza puede generar algunas alteraciones de sueño, discusiones frecuentes, falta de atención, irritabilidad, cefaleas, propensión, ansiedad, angustia, cambios de humor. En el trabajo, produce deterioro del clima organizacional, resistencia a delegar responsabilidades, contradicciones en lo que se expresa y el comportamiento.<br><br>Por lo tanto, el Señor nos enseña en su Palabra: “Bendito el varón que confía en Jehová, y cuya confianza es Jehová. Porque será como el árbol plantado junto a las aguas, que junto a la corriente echará sus raíces, y no verá cuando viene el calor, sino que su hoja estará verde; y en el año de sequía no se fatigará, ni dejará de dar fruto” (Jeremías 17:7-8).<br><br><span>Cómo mejorar la confianza en Dios</span><br><br><span>1. Adquiere fe:</span> Tener fe significa creerle a Dios, a lo que dice en su Palabra, a sus promesas, Él es el que tiene cuidado de nosotros, en Él estamos completos. Él ha prometido estar con nosotros todos los días, hasta el fin del mundo. <br><br>No somos accidentes del destino, somos escogidos por el Rey de reyes y Señor de señores, desde antes de la fundación del mundo, “somos hechura suya, creados en Cristo Jesús para buenas obras, las cuales Dios preparó de antemano para que anduviésemos en ellas” (Efesios 2:10).<br><br><span>2. Conoce a Dios:</span> En la medida que yo conozco quién es el Señor Jesucristo, en quién he creído, qué ha hecho Él por mí, sus atributos, su bondad, su longanimidad, su poder, su amor; se fortalecerá mi confianza en Él, aún en medio de cualquier tormenta.<br><br>La Confianza precisamente, es la seguridad de que Dios nunca me va a fallar; y me apoyo en cada uno de sus atributos para confiar; por ejemplo:<br><br><li><span>Su Inmutabilidad</span> (que no cambia) me invita a confiar en que Él es veraz e incorruptible, es la garantía de que sus promesas son fieles y verdaderas, que en Él no hay mudanza ni sombra de variación, nunca me va a abandonar o defraudar, porque Él es el mismo ayer, hoy y por los siglos. Cuando una persona ignora la inmutabilidad de Dios enferma su fe, surgiendo la duda y la desesperación.</li><br><br><span>Su Omnipresencia</span> se refiere a la certeza de que el Señor Jesucristo está conmigo y lo llena todo; que es Dios de lejos y también de cerca, que soy inescapable a su presencia, y por el Nuevo Pacto, ahora soy su templo. Cuando se desconoce la Omnipresencia de Dios, se es susceptible a pecar; porque ingenuamente la persona cree que Dios no está allí, que nadie lo está viendo, y también ante una situación de peligro, piensa que está solo, como les pasó a los discípulos en la barca.</li><br><br><li><span>Su Omnipotencia</span> Confío y creo que no hay imposible para Dios, que la fe en su nombre activa los cielos a mi favor. Al desconocer este fundamento, se puede caer en idolatría, porque en su concepción cree que Dios no es suficiente y confía más en príncipes, en carros, en hombres; “más nosotros del nombre del Señor tendremos memoria” (Salmos 20:7).</li><br><br><li><span>Su Omnisciencia</span> Cuando hay problemas y dura tentación, podemos preguntar: ¿Señor qué pasa en mí? pues Él conoce bien, aun lo que no sabemos. Sus propósitos son mejores que los nuestros, confío en el Dios que todo lo sabe para no amarrarme en mis limitaciones, confío en su obra en el Calvario. Él es el chofer de nuestras circunstancias, va delante de nosotros abriendo camino, cuando viene la adversidad y las cosas inexplicables de la vida, la Omnisciencia de Dios es el mejor amparo porque, aunque no entendamos lo que nos pasa, sabemos que Él tiene el control, que sus pensamientos para nosotros son de bien y no de mal, que Él tiene cuidado de nosotros.</li><br>“Por tanto, en él se alegrará nuestro corazón, Porque en su santo nombre hemos confiado” (Salmos 33:21).<br><br><span>Por Diana Carolina Severiche Vera. Psicóloga</span><br><br>"
+        }
+    },
+    {
+        "x": "58%",
+        "y": "61%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "4%",
+        "fontSize": "3.7em",
+        "tag": "audio",
+        "id": "audio35",
+        "class": "btn-audio",
+        "text": "Escuchar Audio",
+        "icon": "./assets/pics/icons/escuchar.png",
+        "data": {
+            "src": ""
+        }
+    },
+    {
+        "x": "70.5%",
+        "y": "66%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "4%",
+        "fontSize": "3.7em",
+        "tag": "print",
+        "class": "button-print",
+        "text": "Imprimir",
+        "icon": "./assets/pics/icons/imprimir.png",
+        "data": {
+            "url": "https://drive.google.com/file/d/1SQga6RgmNDd0a35XPHDeOAy0U0cIo60W/preview"
+        }
+    },
+    {
+        "x": "66.3%",
+        "y": "71%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "10%",
+        "fontSize": "3.3em",
+        "tag": "modal",
+        "id": "modalReflexion-p35",
+        "class": "button-read",
+        "text": "Reflexionar",
+        "icon": "./assets/pics/icons/reflexionar.png",
+        "data": {
+            "title": "<br>RETO DIARIO<br><br>",
+            "content": "Como mujeres, diariamente nos enfrentamos a diversas situaciones que ponen a prueba nuestra confianza en Dios. En esos momentos es donde debemos activar la fe con toda certeza en nuestra mente y corazón, en aquel que ha prometido estar todos los días con nosotras.<br><br>Mediante este reto diario, invito a cada mujer a hacer un alto en su día, y pese a las circunstancias adversas que atraviesen, puedan practicar la confianza en el Dador de la vida, identificando la situación problemática y respondiendo a ella con la Palabra de verdad, la oración y la intimidad con Dios.<br><br><span>Estrategias para alimentar tu confianza en Dios.</span><br><br><span>1. Situación de Crisis de Pareja y Familia</span><br>Fortalece tu intimidad con Dios, busca ayuda de tu pastor o alguien idóneo. Practica la comunicación asertiva, sé empático con tu cónyuge, resalta sus cualidades y trabajen juntos para fortalecer las debilidades mutuas. Ataca el problema no la persona.<br><br><span>2. Problemas emocionales</span><br>Tienes la capacidad de elegir la calidad de tu pensamiento. La felicidad es una decisión que se toma diariamente, aprendiendo a enfrentar las situaciones del presente con sabiduría e inteligencia emocional, busque ayuda competente, aprende a ser agradecido, practique el perdón, disfrute el presente, medite en la Palabra de Dios” (Filipenses 4:8).<br><br><span>3. Enfermedad</span><br>Practica la aceptación sin perder la esperanza en sus valiosas promesas, no te aísles, mejora tu calidad de vida (aliméntate bien y duerme lo necesario). “Aunque afligido yo y necesitado, Jehová pensará en mí” (Salmos 40:174).<br><br><li>Si está en su propósito sanarnos lo hará, y si no, sus planes son mejores. 1 Juan 5:14.</li><br><span>Crisis Económica</span><br>Cree en las promesas de Dios, pon tu fe en acción, sé diligente, evita la procrastinación (Posponer o evitar la realización de actividades que deben atenderse).<br><br>El Dueño absoluto de todo suplirá todo lo que os falte, Filipenses 4:19. “… Confiaron en ti, y no fueron avergonzados” (Salmos 22:5).<br><br>"
+        }
     }
-}, {
-    "x": "0%",
-    "y": "-1%",
-    "viewX": 1800,
-    "viewY": 50,
-    "width": "94%",
-    "height": "4%",
-    "fontSize": "2.8em",
-    "tag": "p",
-    "class": "section-magazine",
-    "data": {
-        "content": "Recursos divinos"
-    }
-}]
+]
