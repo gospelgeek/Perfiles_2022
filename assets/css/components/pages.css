@@ -431,42 +431,32 @@ audio {
         left: 16% !important;
         top: 7% !important;
     }
-    .p8 .text-introductory p {
-        left: 13% !important;
-        top: 42%;
-    }
     .p8 .graphic_arrow {
-        left: 4% !important;
-        top: 42% !important;
+        left: 2% !important;
+        top: 44% !important;
     }
     .p8 .tooltip-author {
         top: 24% !important;
     }
-    .p8 .text-biblical p {
-        top: 30% !important;
-    }
-    .p8 .verse p {
-        top: 38% !important;
-    }
     .p8 .button-read {
         top: 76% !important;
         left: 60% !important;
-        width: 100% !important;
+        width: 96% !important;
     }
     .p8 .btn-audio {
         top: 82% !important;
-        left: 47.5% !important;
-        width: 100% !important;
+        left: 48% !important;
+        width: 96% !important;
     }
     .p8 .button-print {
         top: 88% !important;
         left: 61% !important;
-        width: 100% !important;
+        width: 96% !important;
     }
     .p8 .button-reflexion {
         top: 94% !important;
-        left: 54.3% !important;
-        width: 100% !important;
+        left: 54.7% !important;
+        width: 96% !important;
     }
 }
 
