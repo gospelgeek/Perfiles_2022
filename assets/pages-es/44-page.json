@@ -1,4 +1,17 @@
 [{
+    "x": "8%",
+    "y": "53%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "90%",
+    "height": "4%",
+    "fontSize": "2.8em",
+    "tag": "img",
+    "class": "",
+    "data": {
+        "src": "./assets/pics/titles/44.png"
+    }
+}, {
     "x": "0%",
     "y": "6%",
     "viewX": 1800,
@@ -10,5 +23,31 @@
     "class": "title",
     "data": {
         "content": "La inteligencia emocional en la mujer"
+    }
+}, {
+    "x": "10%",
+    "y": "75%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "83%",
+    "height": "4%",
+    "fontSize": "3.5em",
+    "tag": "p",
+    "class": "text-biblical",
+    "data": {
+        "content": "<i>Y dijo David a Abigail: Bendito sea Jehová Dios de Israel, que te envió para que hoy me encontrases.<br>Y bendito sea tu razonamiento, y bendita tú, que me has estorbado hoy de ir a derramar sangre, y a vengarme por mi propia mano.</i>"
+    }
+}, {
+    "x": "15%",
+    "y": "93%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "70%",
+    "height": "4%",
+    "fontSize": "3.7em",
+    "tag": "p",
+    "class": "verse",
+    "data": {
+        "content": "<i><span>1 Samuel 25:32-33 RVR 1960</span></i>"
     }
 }]

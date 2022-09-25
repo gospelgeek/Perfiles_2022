@@ -20,7 +20,7 @@
         "height": "4%",
         "fontSize": "2.8em",
         "tag": "img",
-        "class": "",
+        "class": "title_page",
         "data": {
             "src": "./assets/pics/titles/8.png"
         }
@@ -65,20 +65,20 @@
             "content": "<i>(1 Tesalonicenses 5:23)</i>"
         }
     }, {
-        "x": "2%",
-        "y": "45%",
+        "x": "1%",
+        "y": "44%",
         "viewX": 1800,
         "viewY": 50,
         "width": "9%",
         "height": "4%",
         "fontSize": "2.8em",
         "tag": "img",
-        "class": "",
+        "class": "graphic_arrow",
         "data": {
             "src": "./assets/pics/icons/Flechatexto.png"
         }
     }, {
-        "x": "13%",
+        "x": "11%",
         "y": "45%",
         "viewX": 1800,
         "viewY": 50,
@@ -152,7 +152,7 @@
         "fontSize": "3.3em",
         "tag": "modal",
         "id": "modalReflexion-p8",
-        "class": "button-read",
+        "class": "button-reflexion",
         "text": "Reflexionar",
         "icon": "./assets/pics/icons/reflexionar.png",
         "data": {
