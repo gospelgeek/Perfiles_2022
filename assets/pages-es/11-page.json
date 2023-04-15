@@ -1,6 +1,6 @@
 [{
-        "x": "48%",
-        "y": "1%",
+        "x": "46%",
+        "y": "2.5%",
         "viewX": 1800,
         "viewY": 50,
         "width": "20%",
@@ -12,17 +12,18 @@
             "src": "./assets/pics/icons/logo_perfiles.png"
         }
     }, {
-        "x": "0%",
-        "y": "-1%",
+        "x": "62%",
+        "y": "-0.3%",
         "viewX": 1800,
         "viewY": 50,
-        "width": "94%",
-        "height": "4%",
-        "fontSize": "2.8em",
-        "tag": "p",
+        "width": "150%",
+        "height": "4.2%",
+        "fontSize": "1.9em",
+        "tag": "section",
         "class": "section-magazine",
         "data": {
-            "content": "Soy emocional"
+            "src": "./assets/pics/icons/section-yellow.png",
+            "content": "Soy un ser<br> emocional"
         }
     }, {
         "x": "8%",
@@ -99,7 +100,7 @@
         "text": "Imprimir",
         "icon": "./assets/pics/icons/imprimir.png",
         "data": {
-            "url": "https://drive.google.com/file/d/1SQga6RgmNDd0a35XPHDeOAy0U0cIo60W/preview"
+            "url": "https://drive.google.com/file/d/1owVp1wWLbEeMBuiDJGSOmCfphaLMXhsS/preview"
         }
     },
     {
@@ -112,12 +113,26 @@
         "fontSize": "3.3em",
         "tag": "modal",
         "id": "modalReflexion-p11",
-        "class": "button-read",
+        "class": "button-reflexion",
         "text": "Reflexionar",
         "icon": "./assets/pics/icons/reflexionar.png",
         "data": {
+            "print": "<a target='_blank' href='https://drive.google.com/file/d/1T7KvdvTS8TYk3KTbXl5T1c1iuH8Ls_Ll/view?usp=share_link'><img src='./assets/pics/icons/imprimir-modal.png'></a>",
             "title": "<br>Actividad complementaria<br><br>",
-            "content": "<span>Paso 1.</span> En esta sopa de letras, identifique las siguientes palabras que te ayudarán a avanzar al paso 2.<br><br><li>Ira – Reacción – Consecuencias – Reflexionar – Esperar – Necia – Sosegar – Apacible – Meditar – Sabia – Dominio propio.</li><br>SOPA DE LETRAS PENDIENTE<br><br><span>Paso 2.</span> Piensa y escribe:<br><br>1. Recuerda una situación en la que hayas experimentado mucha ira.<br><br><textarea rows='5' cols='50'id='input8' class='inputStorage' onchange='getValueInputs(10)'></textarea><br><br>2. Ahora toma una hoja en blanco, piensa, detecta y escribe ¿qué te disgustó? ¿Qué te molestó?<br><br><textarea rows='5' cols='50'id='input9' class='inputStorage' onchange='getValueInputs(10)'></textarea><br><br>3. Recuerda o identifica cómo reaccionaste y escribe cada reacción que tuviste.<br><br><textarea rows='5' cols='50'id='input10' class='inputStorage' onchange='getValueInputs(10)'></textarea><br><br>4. Ahora piensa y escribe, ¿a quiénes y cómo afectó esa reacción?<br><br><textarea rows='5' cols='50'id='input11' class='inputStorage' onchange='getValueInputs(10)'></textarea><br><br>5. Reflexiona y escribe ¿cuál hubiese sido la mejor reacción? ¿Qué debiste hacer en ese caso?<br><br><textarea rows='5' cols='50'id='input12' class='inputStorage' onchange='getValueInputs(10)'></textarea><br><br>6. A partir de allí, ya habiendo identificado lo que te disgusta produciendo ira en ti; ¿tus reacciones a quiénes y cómo los afecta? Y ¿cuál es la mejor reacción que debes tener? Ahora, escribe un listado de actitudes que te propones fortalecer de aquí en adelante, como respuesta cuando sientas ira.<br><br><textarea rows='5' cols='50'id='input13' class='inputStorage' onchange='getValueInputs(10)'></textarea><br><br>"
+            "content": "Piensa y escribe:<br><br>1. Recuerda una situación en la que hayas experimentado mucha ira.<br><br><textarea rows='5' cols='50'id='input11_1' class='inputStorage' onchange='getValueInputs(10)'></textarea><br><br>2. Ahora toma una hoja en blanco, piensa, detecta y escribe ¿qué te disgustó? ¿Qué te molestó?<br><br><textarea rows='5' cols='50'id='input11_2' class='inputStorage' onchange='getValueInputs(10)'></textarea><br><br>3. Recuerda o identifica cómo reaccionaste y escribe cada reacción que tuviste.<br><br><textarea rows='5' cols='50'id='input11_3' class='inputStorage' onchange='getValueInputs(10)'></textarea><br><br>4. Ahora piensa y escribe, ¿a quiénes y cómo afectó esa reacción?<br><br><textarea rows='5' cols='50'id='input11_4' class='inputStorage' onchange='getValueInputs(10)'></textarea><br><br>5. Reflexiona y escribe ¿cuál hubiese sido la mejor reacción? ¿Qué debiste hacer en ese caso?<br><br><textarea rows='5' cols='50'id='input11_5' class='inputStorage' onchange='getValueInputs(10)'></textarea><br><br>6. A partir de allí, ya habiendo identificado lo que te disgusta produciendo ira en ti; ¿tus reacciones a quiénes y cómo los afecta? Y ¿cuál es la mejor reacción que debes tener? Ahora, escribe un listado de actitudes que te propones fortalecer de aquí en adelante, como respuesta cuando sientas ira.<br><br><textarea rows='5' cols='50'id='input11_6' class='inputStorage' onchange='getValueInputs(10)'></textarea><br><br>"
+        }
+    }, {
+        "x": "4%",
+        "y": "9%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "90%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "div",
+        "class": "icons-face",
+        "data": {
+            "content": "<div class='titlep10'><img src='./assets/pics/titles/10.png'></div><div class='faces-img'><img class='face-icon-1' src='./assets/pics/graphics/Caraira.png'><img class='face-icon-2' src='./assets/pics/graphics/Caraalegre.png'>"
         }
     }
 ]

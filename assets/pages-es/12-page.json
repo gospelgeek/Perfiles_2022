@@ -7,7 +7,7 @@
         "height": "4%",
         "fontSize": "2.8em",
         "tag": "img",
-        "class": "",
+        "class": "title-img",
         "data": {
             "src": "./assets/pics/titles/12.png"
         }
@@ -25,8 +25,8 @@
             "content": "Tu diste alegría a mi corazón"
         }
     }, {
-        "x": "14%",
-        "y": "92%",
+        "x": "13.5%",
+        "y": "93%",
         "viewX": 3000,
         "viewY": 50,
         "width": "100%",
@@ -38,8 +38,8 @@
             "content": "“Tú diste alegría a mi corazón mayor que la de ellos cuando abundaba su grano y su mosto” <br> Salmos 4:7"
         }
     }, {
-        "x": "17%",
-        "y": "39%",
+        "x": "15%",
+        "y": "42%",
         "viewX": 1800,
         "viewY": 50,
         "width": "77%",
@@ -52,7 +52,7 @@
             "author": "Lilian Victoria Rey Rincón",
             "position": "Psicóloga, Dto 30",
             "year": "2022",
-            "src": "./assets/pics/photos/lilian.jpeg"
+            "src": "./assets/pics/photos/lilian.png"
         }
     },
     {

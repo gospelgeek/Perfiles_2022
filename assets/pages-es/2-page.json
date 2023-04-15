@@ -1,4 +1,17 @@
 [{
+        "x": "3%",
+        "y": "43%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "55%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "title_page",
+        "data": {
+            "src": "./assets/pics/titles/2.jpg"
+        }
+    }, {
         "x": "0",
         "y": "4%",
         "viewX": 1800,
@@ -12,234 +25,183 @@
             "content": "Índice"
         }
     }, {
-        "x": "0%",
-        "y": "10%",
+        "x": "3%",
+        "y": "7%",
         "viewX": 1800,
         "viewY": 50,
-        "width": "100%",
+        "width": "14%",
         "height": "4%",
         "fontSize": "3.2em",
-        "tag": "p",
-        "class": "section",
-        "data": {
-            "content": "Editorial"
-        }
-    }, {
-        "x": "0%",
-        "y": "14%",
-        "viewX": 1800,
-        "viewY": 50,
-        "width": "100%",
-        "height": "4%",
-        "fontSize": "3.2em",
-        "tag": "p",
-        "class": "to-page",
-        "data": {
-            "page": 4,
-            "content": "Editorial"
-        }
-    }, {
-        "x": "0%",
-        "y": "18%",
-        "viewX": 1800,
-        "viewY": 50,
-        "width": "100%",
-        "height": "4%",
-        "fontSize": "3.2em",
-        "tag": "p",
-        "class": "to-page",
-        "data": {
-            "page": 5,
-            "content": "Legal"
-        }
-    }, {
-        "x": "0%",
-        "y": "24%",
-        "viewX": 1800,
-        "viewY": 50,
-        "width": "100%",
-        "height": "4%",
-        "fontSize": "3.2em",
-        "tag": "p",
-        "class": "section",
-        "data": {
-            "content": "Soy emocional"
-        }
-    },
-    {
-        "x": "0%",
-        "y": "28%",
-        "viewX": 1800,
-        "viewY": 50,
-        "width": "100%",
-        "height": "4%",
-        "fontSize": "3.2em",
-        "tag": "p",
+        "tag": "img",
         "class": "to-page",
         "data": {
             "page": 6,
-            "content": "La mujer un ser emocional"
+            "content": "La mujer un ser emocional",
+            "src": "./assets/pics/titles/editorial1.png"
+
         }
     },
     {
-        "x": "0%",
-        "y": "32%",
+        "x": "23%",
+        "y": "7%",
         "viewX": 1800,
         "viewY": 50,
-        "width": "100%",
+        "width": "14%",
         "height": "4%",
         "fontSize": "3.2em",
-        "tag": "p",
+        "tag": "img",
         "class": "to-page",
         "data": {
             "page": 8,
-            "content": "Qué son las emociones y por qué están allí"
+            "content": "Qué son las emociones y por qué están allí",
+            "src": "./assets/pics/titles/editorial10.png"
+
         }
     },
     {
-        "x": "0%",
-        "y": "36%",
+        "x": "43%",
+        "y": "7%",
         "viewX": 1800,
         "viewY": 50,
-        "width": "100%",
+        "width": "14%",
         "height": "4%",
         "fontSize": "3.2em",
-        "tag": "p",
+        "tag": "img",
         "class": "to-page",
         "data": {
             "page": 10,
-            "content": "Airaos, pero no pequéis"
+            "content": "Airaos, pero no pequéis",
+            "src": "./assets/pics/titles/editorial2.png"
+
         }
     },
     {
-        "x": "0%",
-        "y": "40%",
+        "x": "62%",
+        "y": "0%",
         "viewX": 1800,
         "viewY": 50,
-        "width": "100%",
+        "width": "14%",
         "height": "4%",
         "fontSize": "3.2em",
-        "tag": "p",
+        "tag": "img",
         "class": "to-page",
         "data": {
             "page": 12,
-            "content": "Tú diste alegría a mi corazón"
+            "content": "Tú diste alegría a mi corazón",
+            "src": "./assets/pics/titles/editorial3.png"
+
         }
     },
     {
-        "x": "0%",
-        "y": "44%",
+        "x": "81%",
+        "y": "0%",
         "viewX": 1800,
         "viewY": 50,
-        "width": "100%",
+        "width": "14%",
         "height": "4%",
         "fontSize": "3.2em",
-        "tag": "p",
+        "tag": "img",
         "class": "to-page",
         "data": {
             "page": 14,
-            "content": "No se turbe vuestro corazón, ni tengáis miedo"
-        }
-    },
-    {
-        "x": "0%",
-        "y": "48%",
-        "viewX": 1800,
-        "viewY": 50,
-        "width": "100%",
-        "height": "4%",
-        "fontSize": "3.2em",
-        "tag": "p",
-        "class": "to-page",
-        "data": {
-            "page": 16,
-            "content": "¿Por qué te abates oh alma mía?"
-        }
-    },
-    {
-        "x": "0%",
-        "y": "52%",
-        "viewX": 1800,
-        "viewY": 50,
-        "width": "100%",
-        "height": "4%",
-        "fontSize": "3.2em",
-        "tag": "p",
-        "class": "to-page",
-        "data": {
-            "page": 18,
-            "content": "Aborrezco la obra de los que se desvían"
-        }
-    },
-    {
-        "x": "0%",
-        "y": "56%",
-        "viewX": 1800,
-        "viewY": 50,
-        "width": "100%",
-        "height": "4%",
-        "fontSize": "3.2em",
-        "tag": "p",
-        "class": "to-page",
-        "data": {
-            "page": 20,
-            "content": "¡Te alabo porque soy una creación admirable!"
+            "content": "No temas, yo te ayudo",
+            "src": "./assets/pics/titles/editorial8.png"
         }
     }, {
-        "x": "0%",
+        "x": "3%",
         "y": "60%",
         "viewX": 1800,
         "viewY": 50,
-        "width": "100%",
+        "width": "14%",
         "height": "4%",
         "fontSize": "3.2em",
-        "tag": "p",
-        "class": "to-page",
-        "data": {
-            "page": 22,
-            "content": "¿Ansiosa?  Él cuida de ti"
-        }
-    }, {
-        "x": "0%",
-        "y": "64%",
-        "viewX": 1800,
-        "viewY": 50,
-        "width": "100%",
-        "height": "4%",
-        "fontSize": "3.2em",
-        "tag": "p",
+        "tag": "img",
         "class": "to-page",
         "data": {
             "page": 24,
-            "content": "Una vida fructífera"
+            "content": "Una vida fructífera",
+            "src": "./assets/pics/titles/editorial4.png"
+
         }
     }, {
-        "x": "0%",
-        "y": "68%",
+        "x": "23%",
+        "y": "60%",
         "viewX": 1800,
         "viewY": 50,
-        "width": "100%",
+        "width": "14%",
         "height": "4%",
         "fontSize": "3.2em",
-        "tag": "p",
+        "tag": "img",
         "class": "to-page",
         "data": {
             "page": 26,
-            "content": "Quita pues de tu corazón el enojo"
+            "content": "Ten cuidado con el enojo",
+            "src": "./assets/pics/titles/editorial5.png"
+
         }
     }, {
-        "x": "0%",
-        "y": "72%",
+        "x": "43%",
+        "y": "60%",
         "viewX": 1800,
         "viewY": 50,
-        "width": "100%",
+        "width": "14%",
         "height": "4%",
         "fontSize": "3.2em",
-        "tag": "p",
+        "tag": "img",
         "class": "to-page",
         "data": {
             "page": 28,
-            "content": "Cuidando mi salud emocional"
+            "content": "Cuidando mi salud emocional",
+            "src": "./assets/pics/titles/editorial6.png"
+
+        }
+    }, {
+        "x": "81%",
+        "y": "32%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "14%",
+        "height": "4%",
+        "fontSize": "3.2em",
+        "tag": "img",
+        "class": "to-page",
+        "data": {
+            "page": 30,
+            "content": "LA IMPIA ATALIA",
+            "src": "./assets/pics/titles/editorial12.png"
+
+        }
+    }, {
+        "x": "62%",
+        "y": "60%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "14%",
+        "height": "4%",
+        "fontSize": "3.2em",
+        "tag": "img",
+        "class": "to-page",
+        "data": {
+            "page": 32,
+            "content": "Si no tengo amor, nada soy",
+            "src": "./assets/pics/titles/editorial7.png"
+
+        }
+    }, {
+        "x": "81%",
+        "y": "60%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "14%",
+        "height": "4%",
+        "fontSize": "3.2em",
+        "tag": "img",
+        "class": "to-page",
+        "data": {
+            "page": 34,
+            "content": "En ti oh Jehová he confiado",
+            "src": "./assets/pics/titles/editorial9.png"
+
         }
     }
 

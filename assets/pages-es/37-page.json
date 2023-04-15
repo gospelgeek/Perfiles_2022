@@ -1,7 +1,20 @@
 [{
+        "x": "8%",
+        "y": "8%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "50%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "title-img",
+        "data": {
+            "src": "./assets/pics/titles/36.png"
+        }
+    }, {
 
-        "x": "48%",
-        "y": "1%",
+        "x": "46%",
+        "y": "2%",
         "viewX": 1800,
         "viewY": 50,
         "width": "20%",
@@ -13,22 +26,36 @@
             "src": "./assets/pics/icons/logo_perfiles.png"
         }
     }, {
-        "x": "0%",
+        "x": "62%",
         "y": "-1%",
         "viewX": 1800,
         "viewY": 50,
-        "width": "94%",
-        "height": "4%",
-        "fontSize": "2.8em",
-        "tag": "p",
+        "width": "150%",
+        "height": "4.2%",
+        "fontSize": "2em",
+        "tag": "section",
         "class": "section-magazine",
         "data": {
-            "content": "Recursos divinos"
+            "src": "./assets/pics/icons/section-yellow.png",
+            "content": "Recursos <br> divinos"
+        }
+    }, {
+        "x": "40%",
+        "y": "46%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "48%",
+        "height": "4%",
+        "fontSize": "6em",
+        "tag": "p",
+        "class": "text-introductory",
+        "data": {
+            "content": "El perdón es uno de los recursos más importantes que nuestro Señor nos dejó en su Palabra, para tener una vida saludable y armoniosa a todo nivel y no solo emocionalmente; pues la falta de perdón, enferma el alma, el cuerpo y el espíritu; afecta todas nuestras relaciones: la comunión con Dios, con las personas y con nosotros mismos."
         }
     },
     {
         "x": "70%",
-        "y": "43%",
+        "y": "25%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
@@ -40,13 +67,13 @@
         "text": "Leer más",
         "icon": "./assets/pics/icons/leer.png",
         "data": {
-            "title": "<br><br><br>",
-            "content": ""
+            "title": "<br>EL PERDÓN, CAMINO A LA SANIDAD INTERIOR<br><br>",
+            "content": "“… De la manera que Cristo os perdonó, así también hacedlo vosotros.” Colosenses 3:13.<br><br>El perdón es uno de los recursos más importantes que nuestro Señor nos dejó en su Palabra, para tener una vida saludable y armoniosa a todo nivel y no solo emocionalmente; pues la falta de perdón, enferma el alma, el cuerpo y el espíritu; afecta todas nuestras relaciones: la comunión con Dios, con las personas y con nosotros mismos.<br><br>“Un acreedor tenía dos deudores: el uno le debía quinientos denarios, y el otro cincuenta; y no teniendo ellos con qué pagar, perdonó a ambos…” Lucas 7:41-42. Esta escritura nos permite entender, que el perdón es pasar por alto la deuda o falta al que nos ofendió y no tiene como pagarnos. Ya la ofensa está hecha, no hay como devolver el tiempo y evitarla, por eso el perdón es un acto de inmediata bondad.<br><br>Es importante identificar si en nosotros existe algún tipo de rencor, raíz de amargura, resentimiento, o incluso culpa, que nos esté afectando, quitándonos la paz, a la cual fuimos llamadas como hijas de Dios. “Por lo demás, hermanos, tened gozo, perfeccionaos, consolaos, sed de un mismo sentir, y vivid en paz; y el Dios de paz y de amor estará con vosotros” 1ª Corintios 13:11.<br><br>En la cotidiana convivencia con nuestros semejantes, es imposible que no vengan momentos difíciles, en los cuales una palabra, un gesto, una mala actitud o alguien que defraudó nuestra confianza, puede causarnos dolor, disgusto o desilusión; generando en nuestro corazón, algún tipo de herida, que, al no ser sanada prontamente, podría generarnos una raíz de amargura, resentimiento o incluso llevarnos hasta el odio y la venganza.<br><br>Necesitamos interiorizar lo que el Señor nos aconseja en su Palabra, sobre la importancia del perdón, así, cuando estas situaciones lleguen a nuestra vida, podamos recordarla y asumir una actitud adecuada para no dar lugar al enemigo:<br><br><li>“Porque si perdonáis a los hombres sus ofensas, os perdonará también a vosotros vuestro Padre celestial; mas si no perdonáis a los hombres sus ofensas, tampoco vuestro Padre os perdonará vuestras ofensas.” Mateo 6:14-15.</li><br><li>“Y cuando estéis orando, perdonad, si tenéis algo contra alguno, para que también vuestro Padre que está en los cielos os perdone a vosotros vuestras ofensas.” Marcos 11:25.</li><br><li>“… Si tu hermano pecare contra ti, repréndele; y si se arrepintiere, perdónale. Y si siete veces al día pecare contra ti, y siete veces al día volviere a ti, diciendo: Me arrepiento; perdónale.” Lucas 17:3-4.</li><br><li>“Antes sed benignos unos con otros, misericordiosos, perdonándoos unos a otros, como Dios también os perdonó a vosotros en Cristo.” Efesios 4:32.</li><br><span>¿Cómo nos afecta la falta de perdón?</span><br><br>Espiritualmente:<br><br><li>Afecta la comunión con Dios: Cuando me acerco a Él por medio de la oración, debo perdonar, para alcanzar así mismo el perdón de mis ofensas. Mateo 6:12-15, Marcos 11:25-26.</li><br><li>Se convierte en un impedimento para que mis oraciones sean respondidas (1ª Pedro 3:7), y mis ofrendas aceptadas. <i>“Por tanto, si traes tu ofrenda al altar, y allí te acuerdas de que tu hermano tiene algo contra ti, deja allí tu ofrenda delante del altar, y anda, reconcíliate primero con tu hermano, y entonces ven y presenta tu ofrenda.”</i> Mateo 5:23-24.</li><br><li>Estanca nuestro crecimiento espiritual. Colosenses 3:12-13.</li><br><li>Afecta la comunión con el cuerpo de Cristo.</li><br><li>Damos lugar al enemigo, llevándonos a la muerte espiritual: 1ª Juan 3:14-15. 2ª Corintios 2:10-11.</li><br>Físicamente:<br><br><li>Aumento de la presión arterial y ritmo cardíaco.</li><br><li>Aumento en los niveles de cortisol.</li><br><li>Aumento en enfermedades coronarias.</li><br><li>Enfermedades Psicosomáticas (Cuando la mente enferma al cuerpo).</li><br><li>Trastornos del sueño.</li><br><li>Se debilita el sistema inmune.</li><br><br>Emocionalmente: <br><br><li>Episodios de estrés, ansiedad, depresión y hostilidad.</li><br><li>Sentimientos de amargura y resentimiento.</li><br><li>Deseos de venganza.</li><br><li>No hay paz interior.</li><br><li>Inquietud constante.</li><br><li>Un corazón cargado de sentimientos negativos, capaz de contagiar incluso a los más cercanos.</li><br><br>Socialmente:<br><br><li>Aislamiento social.</li><br><li>Mal desempeño laboral.</li><br><li>Relaciones sociales conflictivas.</li><br>Concluimos entonces que la afectación se da en todas las áreas del ser, por lo tanto, urge buscar el camino del perdón, para llegar a una verdadera sanidad interior.<br><br>Veamos por medio de un ejemplo bíblico en Génesis 25:19-34, las dos caras de la moneda en el ejercicio del perdón:<br><br>Observamos que comienza a entretejerse un conflicto entre dos hermanos: Jacob y Esaú. Este conflicto llega a su punto máximo, cuando Jacob toma con engaño la bendición impartida por su padre Isaac. En Génesis 27:41 dice: <i>“Y aborreció Esaú a Jacob por la bendición con que su padre le había bendecido, y dijo en su corazón: Llegarán los días del luto de mi padre, y yo mataré a mi hermano Jacob.”</i> Jacob huye de su hermano, pero pasan 20 años y el Señor le manda volver a su tierra natal, donde inevitablemente tendría que encontrarse con su hermano Esaú.<br><br>Analicemos las actitudes tanto del ofensor como del ofendido, de quienes podemos tomar lección para nuestra alma: Génesis 32 y 33<br><br>1. <span>Pidiendo perdón</span> <i>“Confesaos vuestras ofensas unos a otros, para que seáis sanados…”</i> Santiago 5:16.<br><br>Jacob, sabiendo que había causado daño a su hermano y que tenía que afrontar la situación, no improvisa, sino que se prepara: Cap 32.<br><br><li>Preparó el terreno. Vs 3. <i>“Y envió mensajeros delante de sí a Esaú…”</i></li><br><li>No se detuvo, aunque fuertes emociones le embargaban Vs 7, <i>“Entonces Jacob tuvo gran temor y se angustió…”</i></li><br><li>Se humilló primero, invocando la ayuda y dirección del Señor. Vs 9-12 <i>“Y dijo Jacob: Dios de mi padre Abraham…”</i></li><br><li>Tomó un tiempo para meditar, y se  preparó, para enfrentar la situación. Vs 23-24,<i>“Los tomó, pues, e hizo pasar el arroyo a ellos y a todo lo que tenía. Así se quedó Jacob solo…”</i></li><br><li>Se aseguró de la bendición de Dios para este asunto; le tomó tiempo, pero no desistió. (Hay que reconocer nuestro pecado, primero delante del Señor, pedir su perdón y rogar que hallemos gracia con la persona ofendida) Vs 24. <i>“…y luchó con él un varón hasta que rayaba el alba. Vs 26. ”… no te dejaré, si no me bendices.</i></li><br><li>Tuvo una actitud humilde, cuando se encontró con su hermano ofendido. Cap 33:3 <i>“…se inclinó a tierra siete veces, hasta que llegó a su hermano.”</i></li><br>Buscó la restitución, no se presentó con las manos vacías, Cap 32:18. <i>“entonces dirás: Es un presente de tu siervo Jacob, que envía a mi señor Esaú; y he aquí también él viene tras nosotros”</i></li><br><br>2. <span>Aceptando el perdón: </span> “así que, al contrario, vosotros más bien debéis perdonarle y consolarle, para que no sea consumido de demasiada tristeza.” 2ª Corintios 2:7.<br><br>Esaú, tenía suficientes razones para estar ofendido con su hermano; pero al momento en que su ofensor se acerca buscando una reconciliación, tiene una actitud admirable: Cap 33.<br><br><li>Tuvo una actitud humilde, él había podido despreciarlo, pero decidió acercarse también: vs 4: <i>“Pero Esaú corrió a su encuentro y le abrazó, y se echó sobre su cuello, y le besó; y lloraron.”</i></li><br><li>Facilitó las cosas a su hermano con un diálogo gentil, libre de reclamos y brusquedad. (vs 8.)<i>“Y Esaú dijo: ¿Qué te propones con todos estos grupos que he encontrado?”</i></li><br><li>No se aprovechó de la situación: Su hermano le traía muchos presentes, pero le hizo saber que no era necesario y rehusó a tomarlos (vs 9.) <i>“Y dijó Esaú: suficiente tengo yo, hermano mío, sea para ti lo que es tuyo.” </i></li><br><li>Usó de misericordia: (vs 10) <i>“…acepta mi presente, porque he visto tu rostro, como si hubiera visto el rostro de Dios, pues que con tanto favor me has recibido”</i></li><br>La actitud de estos dos hermanos tiene mucho que enseñarnos; tanto la actitud de Jacob que era el ofensor, como la de Esaú que era el ofendido, fueron actitudes correctas y dirigidas por Dios.<br><br>No solo la ofensa que nos hayan causado, puede afectar nuestra salud emocional; sino también, cuando sabemos que nosotros hemos sido los causantes de algún agravio; pues el remordimiento y sentimiento de culpa seguirán allí, hasta el día que decidamos afrontar la situación. Recordemos: “Si confesamos nuestros pecados, él es fiel y justo para perdonar nuestros pecados, y limpiarnos de toda maldad.” 1ª Juan 1:9.<br><br>La falta de perdón, es como una enfermedad que va consumiendo nuestro ser interior, inicia como un enojo, que al permanecer nos lleva a la amargura y al resentimiento, haciéndonos daño; pero hoy nuestro Dios, por medio de su Palabra, nos confronta para que tomemos una decisión, con respecto al enojo: lo consentimos y dejamos que se anide hasta que nos consuma, o por el contrario, soltamos la ofensa, la dejamos ir y perdonamos al que nos ha hecho el agravio, permitiéndole a nuestro Señor, sanar  las heridas que hayan en nuestro corazón. “El sana a los quebrantados de corazón, y venda sus heridas.” Salmos 147:3.<br><br><span>Judith Ramírez de Rico<br>Líder Nacional Damas Dorcas  2021-2022</span><br><br>"
         }
     },
     {
-        "x": "59%",
-        "y": "48%",
+        "x": "59.5%",
+        "y": "30%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
@@ -58,12 +85,12 @@
         "text": "Escuchar Audio",
         "icon": "./assets/pics/icons/escuchar.png",
         "data": {
-            "src": ""
+            "src": "./assets/audios/audio37.mp3"
         }
     },
     {
         "x": "70.5%",
-        "y": "53%",
+        "y": "35%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
@@ -74,10 +101,10 @@
         "text": "Imprimir",
         "icon": "./assets/pics/icons/imprimir.png",
         "data": {
-            "url": "https://drive.google.com/file/d/1SQga6RgmNDd0a35XPHDeOAy0U0cIo60W/preview"
+            "url": "https://drive.google.com/file/d/1axSEX-XGxWaEhvV9A6IsiWp1OX77Md6_/view?usp=share_link"
         }
     }, {
-        "x": "25%",
+        "x": "32%",
         "y": "52%",
         "viewX": 1800,
         "viewY": 50,
@@ -92,7 +119,7 @@
     },
     {
         "x": "65%",
-        "y": "58%",
+        "y": "40%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
@@ -100,11 +127,13 @@
         "fontSize": "3.3em",
         "tag": "modal",
         "id": "modalReflexion-p37",
-        "class": "button-read",
+        "class": "button-reflexion",
         "text": "Reflexionar",
-        "icon": "./assets/pics/icons/leer.png",
+        "icon": "./assets/pics/icons/reflexionar.png",
         "data": {
-            "title": "<br><br><br>"
+            "print": "<a target='_blank' href='https://drive.google.com/file/d/1vrmYSsb6ZYrqkwfuUGoHEqmR5khLhTAx/view?usp=share_link'><img src='./assets/pics/icons/imprimir-modal.png'></a>",
+            "title": "<br>PARA REFLEXIONAR<br><br>",
+            "content": "En la convivencia diaria, puede ser que alguna de las personas que nos rodea, nos cause algún tipo de ofensa, con una palabra, gesto o actitud; incluso nosotros también podemos ser causantes del agravio.  Lee las siguientes preguntas y contesta honestamente sobre tu actitud frente a cada situación.<br><br>1. ¿Sueles olvidar fácilmente la ofensa?  <select name='select' id='select37_1' onchange='getValueInputs(36)getValueInputs(36)'><option value='value1'>---</option><option value='value2'>SI</option><option value='value3'>NO</option></select><br><br>2. ¿Tienes dificultad para pasar por alto la falta que alguien te causó? <select name='select' id='select37_2' onchange='getValueInputs(36)'><option value='value1'>---</option><option value='value2'>SI</option><option value='value3'>NO</option></select><br><br>3. ¿Pides perdón cuando has ofendido?  <select name='select' id='select37_3' onchange='getValueInputs(36)'><option value='value1'>---</option><option value='value2'>SI</option><option value='value3'>NO</option></select><br><br>4. ¿Cuál es tu actitud cuando alguien se acerca a ti para pedir que te perdone?<br><br><textarea rows='5' cols='50' id='input37_1' class='inputStorage' onchange='getValueInputs(36)'></textarea><br><br>5. ¿Crees que en tu corazón hay alguna raíz de amargura contra alguien que te lastimó y que esto se ha convertido en un obstáculo para tu bienestar emocional y espiritual? <select name='select' id='select37_4' onchange='getValueInputs(36)'><option value='value1'>---</option><option value='value2'>SI</option><option value='value3'>NO</option></select><br><br>6. En caso de ser afirmativa la respuesta anterior, puedes escribir una oración donde plasmes en ella tu voluntad de perdonar a esta persona, así ella no se haya acercado a pedirte perdón. En ella puedes pedirle al Señor Jesús que sane tu herida, de tal forma que ya no te haga más daño y que te libre de cualquier resentimiento que haya en tu corazón hacia esta persona.<br><br><textarea rows='6' cols='50' id='input37_2' class='inputStorage' onchange='getValueInputs(36)'></textarea><br><br>Comparando tus respuestas con el artículo leído “El perdón camino a la sanidad interior”, ¿Qué actitudes debes implementar en tu vida, para ejercitar este recurso del perdón?<br><br><textarea rows='6' cols='50' id='input37_3' class='inputStorage' onchange='getValueInputs(36)'></textarea><br><br>"
         }
     }
 ]

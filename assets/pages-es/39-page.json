@@ -1,27 +1,163 @@
 [{
-    "x": "48%",
-    "y": "1%",
-    "viewX": 1800,
-    "viewY": 50,
-    "width": "20%",
-    "height": "4%",
-    "fontSize": "2.8em",
-    "tag": "img",
-    "class": "",
-    "data": {
-        "src": "./assets/pics/icons/logo_perfiles.png"
+        "x": "-2%",
+        "y": "3%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "60%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "title-img",
+        "data": {
+            "src": "./assets/pics/titles/38.png"
+        }
+    }, {
+        "x": "46%",
+        "y": "2%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "20%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "",
+        "data": {
+            "src": "./assets/pics/icons/logo_perfiles.png"
+        }
+    }, {
+        "x": "62%",
+        "y": "-1%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "150%",
+        "height": "4.2%",
+        "fontSize": "2em",
+        "tag": "section",
+        "class": "section-magazine",
+        "data": {
+            "src": "./assets/pics/icons/section-yellow.png",
+            "content": "Recursos <br> divinos"
+        }
+    },
+    {
+        "x": "85%",
+        "viewX": 100,
+        "viewY": 30,
+        "width": "10%",
+        "height": "4%",
+        "fontSize": "0.6em",
+        "tag": "share",
+        "id": "button-fb",
+        "class": "button-share-fb",
+        "text": "facebok",
+        "icon": "./assets/pics/icons/facebook.png",
+        "data": {
+            "page": 39,
+            "url": "http://www.facebook.com/sharer.php?u="
+        }
+    },
+    {
+        "x": "85%",
+        "viewX": 100,
+        "viewY": 30,
+        "width": "10%",
+        "height": "4%",
+        "fontSize": "0.6em",
+        "tag": "share",
+        "id": "button-wpp",
+        "class": "button-share-wpp",
+        "text": "whatsapp",
+        "icon": "./assets/pics/icons/whatsapp.png",
+        "data": {
+            "page": 39,
+            "url": "http://api.whatsapp.com/send?text="
+        }
+    },
+    {
+        "x": "85%",
+        "viewX": 100,
+        "viewY": 30,
+        "width": "10%",
+        "height": "4%",
+        "fontSize": "0.6em",
+        "tag": "share",
+        "id": "button-twi",
+        "class": "button-share-twi",
+        "text": "twitter",
+        "icon": "./assets/pics/icons/twiter.png",
+        "data": {
+            "page": 39,
+            "url": "http://twitter.com/intent/tweet?text=Perfiles&url="
+        }
+    },
+    {
+        "x": "74%",
+        "y": "65%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "10%",
+        "fontSize": "3.3em",
+        "tag": "modal",
+        "id": "modal-p38",
+        "class": "button-read",
+        "text": "Leer más",
+        "icon": "./assets/pics/icons/leer.png",
+        "data": {
+            "title": "<br>La oración remedio inalible<br><br>",
+            "content": "1 Samuel 1:6-18 TLA. Mateo 11:28 TLA<br><br>El comunicarnos es algo muy natural. Dios nos hizo así. Todo el tiempo estamos comunicándonos con los que nos rodean, ya sea de forma oral, escrita, por señas, etc. Es una necesidad de expresar lo que sentimos, y a la vez que seamos oídos o escuchados.<br><br>Desde la misma creación, el medio que utilizó Dios para darse a conocer al hombre, fue la comunicación. Fue la forma en que Adán y Eva conocieron a su Creador. Por este medio, se dieron cuenta de todo lo bueno y hermoso que fue creado para su bienestar. Cada día, Dios les hablaba, les enseñaba y les instruía. Como también, ellos podían hacerle toda clase de preguntas sin temor alguno. Tal era la armonía entre Dios y el hombre, que Él estaba satisfecho de ello.<br><br>El diablo, celoso y envidioso de aquel vínculo que Dios había forjado con el hombre, usó su astucia y fracturó esa comunicación vívida y perfecta.<br><br>Pareciera que el silencio sepulcral, comenzará su reinado de muerte. Que el gemir, los ayes, quejidos y suspiros desesperanzadores fueran el inicio de una larga eternidad.<br><br>Pero la voz de Dios se volvió a escuchar: <i>“Haré que tú y la mujer, sean enemigas; pondré enemistad entre sus descendientes y los tuyos. Un hijo suyo te aplastará la cabeza, y tú le morderás el talón”.</i> Gén 3:15 TLA. Había una declaración poderosa e inquebrantable de parte de Dios, una Palabra divina que promulgaba nuestra victoria sobre el diablo y su reino de muerte. Por esta promesa, se dio apertura a una nueva oportunidad de reconciliarnos con Él; de restaurar nuestra comunicación y amistad; de ser no solo sus amigos, sino sus hijos.<br><br>Así que, desde el mismo Edén, se gestó un nuevo medio de comunicación con Dios, llamado “la oración”, una forma extraordinaria de poder hablar y expresar nuestras emociones, sentimientos y aun los pensamientos más escondidos del alma. Un lenguaje exclusivo con Dios, a cualquier hora del día, en cualquier lugar del universo. Era Dios presente en la existencia del hombre a través de ella.<br><br>Como Abel, Noé, Abraham y, hasta el día de hoy, millones y millones de hombres y mujeres, que hemos conocido a este Dios único y real, llamado JESÚS, hemos descubierto, alcanzado y experimentado a través de este acto de fe, la oración, las más grandes victorias y respuestas que, solo Él puede dar. <i>“Pero sin fe es imposible agradar a Dios; porque es necesario que el que se acerca a Dios crea que le hay, y que es galardonador de los que le buscan.” Heb.11:6</i><br><br>Encontramos una historia bíblica de una mujer llamada Ana, cuyo nombre significa “gracia”. Estaba casada con un buen hombre, pero ella era estéril, tenía una afrenta muy grande, no solo en su familia, sino en su pueblo; su vientre no era fructífero.<br><br>El anhelo más grande de la mujer israelita era ser madre de muchos hijos, ser bienaventurada en medio de muchas generaciones y ser parte del linaje bendito de Dios.<br><br>Ana sabía que no había opción alguna para ella, todo estaba en contra. La posición social y económica que tenía y el amor profundo de su esposo no era suficiente para ella. Su corazón estaba tan lleno de dolor y tristeza, que no era feliz. Era tan nefasta su situación, que lloraba mucho y no quería comer, pues se le añadía la burla de familiares cercanos.<br><br>Pero descubrimos que, en Ana, había todavía un destello de fe, pequeño, pero suficiente para creer que Dios obraría a su favor. Porque dice la Palabra del Señor, <i>“Cada año Elcana y su familia salían de su pueblo para ir al santuario de Silo. <span>Allí adoraban al Dios todopoderoso y presentaban ofrendas en su honor.</span>”  1 Sa 1:3 TLA</i> Cada año, ella se presentaba ante el Dios de Israel, en quien había depositado su confianza, le adoraba y le presentaba su petición.<br><br>Pero en uno de esos viajes, le causaron tanta tristeza por su esterilidad, que no pudo contener sus lágrimas, y fue al lugar, en el que ella sabía que podía ser escuchada y comprendida. Fue al santuario de Dios. El diálogo de Ana con Dios era tan profundo e íntimo, fue tan sincero que, sintió la libertad que necesitaba para derramar esas emociones que ella misma no podía contener: su tristeza, su aflicción, la amargura y el enojo. Solo Dios podía entenderla, solo Él podía sanar su espíritu, solo Él podría quitar su afrenta, solo Él le concedería su VICTORIA.<br><br>A medida que su oración avanzaba, se fue fortaleciendo en su fe, de tal manera que se volvió poderosa, ferviente y desafiante, a tal punto que hizo una promesa: <i>y le hizo esta promesa: «Dios todopoderoso, yo soy tu humilde servidora. Mira lo triste que estoy. Date cuenta de lo mucho que sufro; no te olvides de mí. Si me das un hijo, yo te lo entregaré para que te sirva sólo a ti todos los días de su vida. Como prueba de que te pertenece, nunca se cortará el cabello». 1 Sa 1:11 TLA</i><br><br>El Sacerdote Elí que la estaba observando, le tuvo por ebria, pues no escuchaba su oración. La interrumpió para hacerle el reclamo, la trató duramente; pero Ana, de una forma sabia y humilde, respetando la autoridad que tenía Elí como sacerdote, le aclara que no está ebria, solo es su tristeza expresada en su oración silenciosa para Dios. Elí avergonzado, la bendice. Ana se fue a casa, comió y no volvió a estar más triste. Ahora, estaba plenamente segura, que su felicidad, no dependía de tener un hijo; su gozo completo estaba en su Dios, que la había escuchado, entendido y sanado sus heridas.<br><br>La historia de Ana termina con una final feliz. <i>“… Tiempo después, Elcana y su esposa Ana tuvieron relaciones sexuales, y Dios permitió que ella quedara embarazada. Cuando nació el niño, Ana le puso por nombre Samuel, porque Dios contestó su oración.”</i> 1 Sa 1:19-20. ¡Aleluya!<br><br>Todo el tiempo, Ana supo a quién recurrir, ella no solo escuchaba de Dios, sino que le conocía. Ella sabía que era su hija. Y su vida, dependía de su fe puesta en Él. Ella amaba hablarle, y eso fue lo que le ayudó a resistir la prueba y ser sanada de su tristeza.<br><br>Hoy, más que nunca, necesitamos conocer más a Dios, conocer quién es Él, su Plan de Salvación, el significado del Calvario, su amor, sus promesas, su advenimiento y muchas cosas más. Conocerle a través de su Palabra y tener deleite en obedecerla. Ser “Hacedoras de su Palabra”. <i>“Pero los que desean jactarse que lo hagan solamente en esto: de <span>conocerme verdaderamente y entender que yo soy el SEÑOR</span>” —quien demuestra amor inagotable y trae justicia y rectitud a la tierra— y que me deleito en estas cosas. ¡Yo, el SEÑOR, he hablado! Jer 9:24 NTV.</i><br><br>Tenemos un recurso divino, un remedio infalible y poderoso, al alcance nuestro. <span>Dios, está a la distancia de una oración dirigida con una fe viva y ferviente.</span> Su oído se inclina a favor de su pueblo. <i>“Tú atiendes los ruegos de los que te honran; les das lo que necesitan y los pones a salvo.” Sal 145:19</i><br><br>Saber que hay un Padre Celestial que prometió estar con nosotras, que nos daría su paz en el momento de la aflicción ¡Es maravilloso! <i>“Estas cosas os he hablado para que en mí tengáis paz. En el mundo tendréis aflicción; pero confiad, yo he vencido al mundo.” Juan 16:33 Rv 1960.</i><br><br>Bendita Gracia de Dios, que nos permite llegar a su presencia con confianza y seguridad, y poder expresar con la libertad con que Él nos ha hecho libres, nuestros sentimientos, dudas, debilidades y emociones, sin miedo al dedo acusador, a ser señaladas o condenadas.<i>“Acerquémonos, pues, confiadamente al trono de la gracia, para alcanzar misericordia y hallar gracia para el oportuno socorro”. Heb. 4:16 RV 1960.</i><br><br>Él solo quiere un corazón que anhele su presencia, que ame todo de Él, para Que su mano tierna y suave pueda fácilmente operar milagros a nuestro favor. <i>“… Al corazón contrito y humillado no despreciarás tú, oh Dios”. Sal 51:17 RV 1960.</i><br><br>Todavía su dulce voz se escucha decir: <i>“Ustedes viven siempre angustiados y preocupados. Vengan a mí, y yo los haré descansar.”</i> Mateo 11:28 TLA.<br><br>Si estás experimentando tristeza, ansiedad, estrés, depresión, enojo y otras emociones más, que tú sabes que están a punto de hacerte daño, <span>ven a Jesús</span>, habla con Él, eleva una oración sincera y sencilla. Dios se encargará de toda tu carga. Y comprobarás que, cuando te levantes, ya no serás la misma. Él es experto en sanar las heridas del alma. <i>“El sana a los quebrantados de corazón, Y venda sus heridas. Dios se encargará de tu necesidad.” Sal 147:3 RV 1960.</i><br><br>Se necesita una generación de mujeres, que amemos tener comunión con Dios, que nos extasiemos en hablar con Él, que descubramos en LA ORACIÓN, UN REMEDIO UNFALIBLE.<br><br><i><span>“Has cambiado mi lamento en baile; Desataste mi cilicio, y me ceñiste de alegría. Por tanto, a ti cantaré, gloria mía, y no estaré callado. Jehová Dios mío, te alabaré para siempre.”Sal 30:11-12 RV 1960.</span></i><br><br><span>Preparado por:<br>NARDY JAZMIN SUÁREZ PRADA<br>Vicepresidenta Nacional Comité Asesoría y Acompañamiento D.D. <br>2021-2022</span><br><br>"
+        }
+    },
+    {
+        "x": "63.5%",
+        "y": "70%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "4%",
+        "fontSize": "3.3em",
+        "tag": "audio",
+        "id": "audio39",
+        "class": "btn-audio",
+        "text": "Escuchar Audio",
+        "icon": "./assets/pics/icons/escuchar.png",
+        "data": {
+            "src": "./assets/audios/audio39.mp3"
+        }
+    },
+    {
+        "x": "74.5%",
+        "y": "75%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "4%",
+        "fontSize": "3.3em",
+        "tag": "print",
+        "class": "button-print",
+        "text": "Imprimir",
+        "icon": "./assets/pics/icons/imprimir.png",
+        "data": {
+            "url": "https://drive.google.com/file/d/14ZvkHEofXuU5Zq2565UWTWpOfBfeeZ4v/view?usp=sharing"
+        }
+    },
+    {
+        "x": "69%",
+        "y": "80%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "10%",
+        "fontSize": "3.3em",
+        "tag": "modal",
+        "id": "modalReflexion-p38",
+        "class": "button-reflexion",
+        "text": "Reflexionar",
+        "icon": "./assets/pics/icons/reflexionar.png",
+        "data": {
+            "print": "<a target='_blank' href='https://drive.google.com/file/d/1UzDpqhf02gpL_eLkPw0OOk8uFstS-gkq/view?usp=share_link'><img src='./assets/pics/icons/imprimir-modal.png'></a>",
+            "title": "<br>Actividad<br><br>",
+            "content": "La oración es un acto de fe, que activa las promesas dadas por Dios, cuando nuestra confianza es puesta en Él.<br><br>De acuerdo con la anterior declaración, ¿en qué promesas bíblicas te apoyarías para contrarrestar las siguientes emociones?<br><br>Encuentra y relaciona la emoción con su respectiva promesa.<br><br><span>Amargura:</span><br><select name='select' id='select38_1' onchange='getAnswerSelect(this)'><option value='value0'>---</option><option value='value1'>AYUDA (Salmos 40:7) </option><option value='value2'>COMPAÑÍA (Salmos 145:18) </option><option value='value3'>CONFIANZA (Sal. 56:4; Is. 41: 10,13)</option><option value='value4'>GOZO (Salmos 31:7)</option><option value='value5'>DESCANSO (Salmos 16:9,11)</option><option value='value6'>ALEGRIA (Salmos 30:11,12)</option><option value='value7'>CONSUELO (Salmos 34:18)</option><option value='value8'>ESPERANZA (Salmos 39:7; 62:5)</option></select><br><br><span>Tristeza:</span>   <br><select name='select' id='select38_2' onchange='getAnswerSelect(this)'><option value='value0'>---</option><option value='value1'>AYUDA (Salmos 40:7) </option><option value='value2'>COMPAÑÍA (Salmos 145:18) </option><option value='value3'>CONFIANZA (Sal. 56:4; Is. 41: 10,13)</option><option value='value4'>GOZO (Salmos 31:7)</option><option value='value5'>DESCANSO (Salmos 16:9,11)</option><option value='value6'>ALEGRIA (Salmos 30:11,12)</option><option value='value7'>CONSUELO (Salmos 34:18)</option><option value='value8'>ESPERANZA (Salmos 39:7; 62:5)</option></select><br><br><span>Dolor:</span>   <br><select name='select' id='select38_3' onchange='getAnswerSelect(this)'><option value='value0'>---</option><option value='value1'>AYUDA (Salmos 40:7) </option><option value='value2'>COMPAÑÍA (Salmos 145:18) </option><option value='value3'>CONFIANZA (Sal. 56:4; Is. 41: 10,13)</option><option value='value4'>GOZO (Salmos 31:7)</option><option value='value5'>DESCANSO (Salmos 16:9,11)</option><option value='value6'>ALEGRIA (Salmos 30:11,12)</option><option value='value7'>CONSUELO (Salmos 34:18)</option><option value='value8'>ESPERANZA (Salmos 39:7; 62:5)</option></select><br><br><span>Soledad:</span>   <br><select name='select' id='select38_4' onchange='getAnswerSelect(this)'><option value='value0'>---</option><option value='value1'>AYUDA (Salmos 40:7) </option><option value='value2'>COMPAÑÍA (Salmos 145:18) </option><option value='value3'>CONFIANZA (Sal. 56:4; Is. 41: 10,13)</option><option value='value4'>GOZO (Salmos 31:7)</option><option value='value5'>DESCANSO (Salmos 16:9,11)</option><option value='value6'>ALEGRIA (Salmos 30:11,12)</option><option value='value7'>CONSUELO (Salmos 34:18)</option><option value='value8'>ESPERANZA (Salmos 39:7; 62:5)</option></select><br><br><span>Abatimiento:</span>   <br><select name='select' id='select38_5' onchange='getAnswerSelect(this)'><option value='value0'>---</option><option value='value1'>AYUDA (Salmos 40:7) </option><option value='value2'>COMPAÑÍA (Salmos 145:18) </option><option value='value3'>CONFIANZA (Sal. 56:4; Is. 41: 10,13)</option><option value='value4'>GOZO (Salmos 31:7)</option><option value='value5'>DESCANSO (Salmos 16:9,11)</option><option value='value6'>ALEGRIA (Salmos 30:11,12)</option><option value='value7'>CONSUELO (Salmos 34:18)</option><option value='value8'>ESPERANZA (Salmos 39:7; 62:5)</option></select><br><br><span>Desesperanza:</span>   <br><select name='select' id='select38_6' onchange='getAnswerSelect(this)'><option value='value0'>---</option><option value='value1'>AYUDA (Salmos 40:7) </option><option value='value2'>COMPAÑÍA (Salmos 145:18) </option><option value='value3'>CONFIANZA (Sal. 56:4; Is. 41: 10,13)</option><option value='value4'>GOZO (Salmos 31:7)</option><option value='value5'>DESCANSO (Salmos 16:9,11)</option><option value='value6'>ALEGRIA (Salmos 30:11,12)</option><option value='value7'>CONSUELO (Salmos 34:18)</option><option value='value8'>ESPERANZA (Salmos 39:7; 62:5)</option></select><br><br><span>Miedo:</span>   <br><select name='select' id='select38_7' onchange='getAnswerSelect(this)'><option value='value0'>---</option><option value='value1'>AYUDA (Salmos 40:7) </option><option value='value2'>COMPAÑÍA (Salmos 145:18) </option><option value='value3'>CONFIANZA (Sal. 56:4; Is. 41: 10,13)</option><option value='value4'>GOZO (Salmos 31:7)</option><option value='value5'>DESCANSO (Salmos 16:9,11)</option><option value='value6'>ALEGRIA (Salmos 30:11,12)</option><option value='value7'>CONSUELO (Salmos 34:18)</option><option value='value8'>ESPERANZA (Salmos 39:7; 62:5)</option></select><br><br><br><br>"
+        }
     }
-}, {
-    "x": "0%",
-    "y": "-1%",
-    "viewX": 1800,
-    "viewY": 50,
-    "width": "94%",
-    "height": "4%",
-    "fontSize": "2.8em",
-    "tag": "p",
-    "class": "section-magazine",
-    "data": {
-        "content": "Recursos divinos"
-    }
-}]
+]

@@ -1,7 +1,7 @@
 [{
 
-        "x": "48%",
-        "y": "1%",
+        "x": "46%",
+        "y": "2%",
         "viewX": 1800,
         "viewY": 50,
         "width": "20%",
@@ -13,26 +13,27 @@
             "src": "./assets/pics/icons/logo_perfiles.png"
         }
     }, {
-        "x": "0%",
+        "x": "62%",
         "y": "-1%",
         "viewX": 1800,
         "viewY": 50,
-        "width": "94%",
-        "height": "4%",
-        "fontSize": "2.8em",
-        "tag": "p",
+        "width": "150%",
+        "height": "4.2%",
+        "fontSize": "1.9em",
+        "tag": "section",
         "class": "section-magazine",
         "data": {
-            "content": "Recursos divinos"
+            "src": "./assets/pics/icons/section-white.png",
+            "content": "Recursos <br>divinos"
         }
     }, {
-        "x": "8%",
+        "x": "42%",
         "y": "16%",
         "viewX": 1800,
-        "viewY": 50,
-        "width": "83%",
+        "viewY": 45,
+        "width": "50%",
         "height": "4%",
-        "fontSize": "3.7em",
+        "fontSize": "5.8em",
         "tag": "p",
         "class": "text-introductory",
         "data": {
@@ -40,13 +41,13 @@
         }
     },
     {
-        "x": "70%",
-        "y": "43%",
+        "x": "72%",
+        "y": "51%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
         "height": "10%",
-        "fontSize": "3.7em",
+        "fontSize": "3.3em",
         "tag": "modal",
         "id": "modal-p33",
         "class": "button-read",
@@ -58,41 +59,41 @@
         }
     },
     {
-        "x": "58%",
-        "y": "48%",
+        "x": "61.5%",
+        "y": "56%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
         "height": "4%",
-        "fontSize": "3.7em",
+        "fontSize": "3.3em",
         "tag": "audio",
         "id": "audio33",
         "class": "btn-audio",
         "text": "Escuchar Audio",
         "icon": "./assets/pics/icons/escuchar.png",
         "data": {
-            "src": ""
+            "src": "./assets/audios/audio33.mp3"
         }
     },
     {
-        "x": "70%",
-        "y": "53%",
+        "x": "72.5%",
+        "y": "61%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
         "height": "4%",
-        "fontSize": "3.7em",
+        "fontSize": "3.3em",
         "tag": "print",
         "class": "button-print",
         "text": "Imprimir",
         "icon": "./assets/pics/icons/imprimir.png",
         "data": {
-            "url": "https://drive.google.com/file/d/1SQga6RgmNDd0a35XPHDeOAy0U0cIo60W/preview"
+            "url": "https://drive.google.com/file/d/1haPw2pSoa-ldWakvQKK-Ws75CFyA-Y1f/preview"
         }
     },
     {
-        "x": "66%",
-        "y": "58%",
+        "x": "67%",
+        "y": "66%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
@@ -100,11 +101,26 @@
         "fontSize": "3.3em",
         "tag": "modal",
         "id": "modalReflexion-p33",
-        "class": "button-read",
+        "class": "button-reflexion",
         "text": "Reflexionar",
-        "icon": "./assets/pics/icons/leer.png",
+        "icon": "./assets/pics/icons/reflexionar.png",
         "data": {
-            "title": "<br><br><br>"
+            "print": "<a target='_blank' href='https://drive.google.com/file/d/1ERMaJeBycKwyFyrCeRZIT5trKBkCXQon/view?usp=share_link'><img src='./assets/pics/icons/imprimir-modal.png'></a>",
+            "title": "<br>ACTIVIDAD PRÁCTICA<br><br>",
+            "content": "Consigue un tarro o frasco con tapa. Elabora una lista de acciones que puedes hacer a diario para dar o demostrar amor a Dios, a tu familia, a tus compañeros de trabajo, a tus vecinos y a la iglesia, entre otros que consideres hacen parte de ti; incluye a aquellas personas que necesitan recibir un bien tuyo, aunque tú no hayas recibido un bien suyo. Deposita la lista de acciones en el frasco.<br><br>Cada acción debe estar escrita en un papelito y doblada o enrollada para que no se vea su contenido desde fuera del tarro.<br><br>Las acciones deben ser cosas prácticas, fáciles y a tu alcance para realizarlas.<br><br>Algunas acciones serán visibles y las personas las disfrutarán, pero otras, tal vez serán en secreto para ti y Dios.<br><br>¡Asegúrate que tu frasco esté tan lleno de papelitos y empieza día a día a dar amor! ¡Cuida de volver a guardar el papelito que sacaste en el fondo del tarro y así tendrás una interminable lista de muestras de amor!<br><br>"
+        }
+    }, {
+        "x": "10%",
+        "y": "5%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "80%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "title-img",
+        "data": {
+            "src": "./assets/pics/titles/32.png"
         }
     }
 ]

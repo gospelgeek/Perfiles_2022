@@ -1,7 +1,7 @@
 [{
 
-        "x": "48%",
-        "y": "1%",
+        "x": "46%",
+        "y": "2%",
         "viewX": 1800,
         "viewY": 50,
         "width": "20%",
@@ -13,16 +13,17 @@
             "src": "./assets/pics/icons/logo_perfiles.png"
         }
     }, {
-        "x": "0%",
-        "y": "-1%",
+        "x": "62%",
+        "y": "-1.5%",
         "viewX": 1800,
         "viewY": 50,
-        "width": "94%",
-        "height": "4%",
-        "fontSize": "2.8em",
-        "tag": "p",
+        "width": "150%",
+        "height": "4.2%",
+        "fontSize": "1.9em",
+        "tag": "section",
         "class": "section-magazine",
         "data": {
+            "src": "./assets/pics/icons/section-yellow.png",
             "content": "Algo más"
         }
     }, {
@@ -71,7 +72,7 @@
         "text": "Escuchar Audio",
         "icon": "./assets/pics/icons/escuchar.png",
         "data": {
-            "src": ""
+            "src": "./assets/audios/audio49.mp3"
         }
     },
     {
@@ -87,7 +88,7 @@
         "text": "Imprimir",
         "icon": "./assets/pics/icons/imprimir.png",
         "data": {
-            "url": "https://drive.google.com/file/d/1SQga6RgmNDd0a35XPHDeOAy0U0cIo60W/preview"
+            "url": "https://drive.google.com/file/d/1Xj2SK1RkdVqOv3ZaatD9Lvr3J_9wavhd/view?usp=share_link"
         }
     },
     {
@@ -100,12 +101,13 @@
         "fontSize": "3.3em",
         "tag": "modal",
         "id": "modalReflexion-p49",
-        "class": "button-read",
+        "class": "button-reflexion",
         "text": "Reflexionar",
         "icon": "./assets/pics/icons/reflexionar.png",
         "data": {
+            "print": "<a target='_blank' href='https://drive.google.com/file/d/1nbGBeySgTS6aceii6fZpjiRsigVwGsP1/view?usp=share_link'><img src='./assets/pics/icons/imprimir-modal.png'></a>",
             "title": "<br>Taller<br><br>",
-            "content": "<li><span>Compromiso autorreflexivo</span></li><br>Identifica las emociones de tu maleta emocional, cuáles de ellas te producen agrado, haz una lista, colócalas en un lugar visible, porque eso hace parte de las vivencias emocionales satisfactorias. Procura repetirlas si son buenas, tales como compartir en familia, una tarde de esparcimiento, entre otras.<br><br><span>Nota:</span> Estas son diferentes en cada persona.<br><br>Del mismo modo identifica cuáles consideras que es necesario re-significar por el tipo de descarga emotiva ¿Por qué?<br><br>Por ejemplo, cuando alguien no te saluda. La forma apropiada de re-significar es identificar que eres valiosa o importante a pesar de las circunstancias, y no te quedes en el círculo de pensamientos negativos que te hacen sentir menos.<br><br><li><span>Compromiso práctico</span></li><br>Coloca en un lugar visible de tu casa o trabajo, una promesa que el Señor te haya dado, no importa hace cuánto tiempo fue, en especial, si tiene un significado especial para ti o tu familia, o si contribuye a re-significar una vivencia negativa, o te da fe para creer que Dios puede re-escribir tu historia.<br><br><li><span>Autoconocimiento</span></li><br>Contesta falso o verdadero.<br><br>a. Puedo reconocer las situaciones que producen en mí determinada emoción, ya sea alegría, llanto, tristeza, ira, vergüenza, entre otras.<select name='select'><option value='value1'>Falso</option><option value='value2'>Verdadero</option></select><br><br>b. Se me facilita explicar a mi entorno de manera adecuada mi respuesta emocional, para evitar malos entendidos.<select name='select'><option value='value1'>Falso</option><option value='value2'>Verdadero</option></select><br><br>c. Puedo descargar más fácilmente la ira o enojo, que la alegría y palabras amables de afirmación a otros.<select name='select'><option value='value1'>Falso</option><option value='value2'>Verdadero</option></select><br><br>d. Dejo participar a Dios para que administre mis recuerdos y emociones.<select name='select'><option value='value1'>Falso</option><option value='value2'>Verdadero</option></select><br><br>e. Se me facilita reconocer y comprender las emociones en las demás personas y mostrarme empática.<select name='select'><option value='value1'>Falso</option><option value='value2'>Verdadero</option></select><br><br>f. Permito que las emociones guíen decisiones importantes de mi vida, en medio de una crisis emocional, actuando con irracionalidad emotiva.<select name='select'><option value='value1'>Falso</option><option value='value2'>Verdadero</option></select><br><br><li><span>Compromiso personal</span></li><br>Realiza una carta en la cual identifiques algún aspecto de tu vida que deseas que el Señor administre, ya sea re-significando una vivencia, sanando un trauma o sencillamente direccionando una emoción. Haz esto parte de tu devocional personal. El Señor siempre tiene la última palabra.<br><br>"
+            "content": "<li><span>Compromiso autorreflexivo</span></li><br>Identifica las emociones de tu maleta emocional, cuáles de ellas te producen agrado, haz una lista, colócalas en un lugar visible, porque eso hace parte de las vivencias emocionales satisfactorias. Procura repetirlas si son buenas, tales como compartir en familia, una tarde de esparcimiento, entre otras.<br><br><span>Nota:</span> Estas son diferentes en cada persona.<br><br>Del mismo modo identifica cuáles consideras que es necesario re-significar por el tipo de descarga emotiva ¿Por qué?<br><br>Por ejemplo, cuando alguien no te saluda. La forma apropiada de re-significar es identificar que eres valiosa o importante a pesar de las circunstancias, y no te quedes en el círculo de pensamientos negativos que te hacen sentir menos.<br><br><li><span>Compromiso práctico</span></li><br>Coloca en un lugar visible de tu casa o trabajo, una promesa que el Señor te haya dado, no importa hace cuánto tiempo fue, en especial, si tiene un significado especial para ti o tu familia, o si contribuye a re-significar una vivencia negativa, o te da fe para creer que Dios puede re-escribir tu historia.<br><br><li><span>Autoconocimiento</span></li><br>Contesta falso o verdadero.<br><br>a. Puedo reconocer las situaciones que producen en mí determinada emoción, ya sea alegría, llanto, tristeza, ira, vergüenza, entre otras.<select name='select' id='select49_1' onchange='getValueInputs(48)'><option value='value0'>---</option><option value='value1'>Falso</option><option value='value2'>Verdadero</option></select><br><br>b. Se me facilita explicar a mi entorno de manera adecuada mi respuesta emocional, para evitar malos entendidos.<select name='select' id='select49_2' onchange='getValueInputs(48)'><option value='value0'>---</option><option value='value1'>Falso</option><option value='value2'>Verdadero</option></select><br><br>c. Puedo descargar más fácilmente la ira o enojo, que la alegría y palabras amables de afirmación a otros.<select name='select' id='select49_3' onchange='getValueInputs(48)'><option value='value0'>---</option><option value='value1'>Falso</option><option value='value2'>Verdadero</option></select><br><br>d. Dejo participar a Dios para que administre mis recuerdos y emociones.<select name='select' id='select49_4' onchange='getValueInputs(48)'><option value='value0'>---</option><option value='value1'>Falso</option><option value='value2'>Verdadero</option></select><br><br>e. Se me facilita reconocer y comprender las emociones en las demás personas y mostrarme empática.<select name='select' id='select49_5' onchange='getValueInputs(48)'><option value='value0'>---</option><option value='value1'>Falso</option><option value='value2'>Verdadero</option></select><br><br>f. Permito que las emociones guíen decisiones importantes de mi vida, en medio de una crisis emocional, actuando con irracionalidad emotiva.<select name='select' id='select49_6' onchange='getValueInputs(48)'><option value='value0'>---</option><option value='value1'>Falso</option><option value='value2'>Verdadero</option></select><br><br><li><span>Compromiso personal</span></li><br>Realiza una carta en la cual identifiques algún aspecto de tu vida que deseas que el Señor administre, ya sea re-significando una vivencia, sanando un trauma o sencillamente direccionando una emoción. Haz esto parte de tu devocional personal. El Señor siempre tiene la última palabra.<br><br>"
         }
     }
 ]

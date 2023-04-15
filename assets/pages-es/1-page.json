@@ -1,4 +1,17 @@
 [{
+    "x": "10%",
+    "y": "8%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "80%",
+    "height": "4%",
+    "fontSize": "2.8em",
+    "tag": "img",
+    "class": "title_page",
+    "data": {
+        "src": "./assets/pics/titles/1.png"
+    }
+}, {
     "x": "0",
     "y": "10%",
     "viewX": 1800,
@@ -11,4 +24,40 @@
     "data": {
         "content": "Perfiles 2022"
     }
-}]
+}, {
+    "x": "10%",
+    "y": "75%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "80%",
+    "height": "4%",
+    "fontSize": "2.8em",
+    "tag": "img",
+    "class": "title_page",
+    "data": {
+        "src": "./assets/pics/titles/0.png"
+    }
+}, 
+  {
+    "x": "0%",
+    "y": "1.5%",
+    "styleBox": "width: 98%;",
+    "style": "width: 100%; color: #fff; font-size: 0.5em; text-aling: center;",
+    "tag": "content-text",
+    "id_unique": "text-introductory-page-1",
+    "data": {
+        "text": "<p class='text-introductory' style='text-align: center;'>REVISTA DEL COMITE NACIONAL DE ASESORIA Y ACOMPAÑAMIENTO DE DAMAS DORCAS IPUC 2021-2022 EDICION 16 COLOMBIANA ISSN 2346-0385</p>"
+    }
+    
+  },
+  {
+    "x": "0%",
+    "y": "93%",
+    "styleBox": "width: 80%;",
+    "style": "width: 80%; color: #fff; font-size: 0.5em; text-aling: center;",
+    "tag": "img-content",
+    "data": {
+        "src": "./assets/pics/icons/EDICIONESPECIAL-28.png"
+    }
+  }
+]

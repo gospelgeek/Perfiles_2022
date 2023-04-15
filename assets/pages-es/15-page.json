@@ -1,6 +1,6 @@
 [{
-        "x": "48%",
-        "y": "1%",
+        "x": "46%",
+        "y": "2%",
         "viewX": 1800,
         "viewY": 50,
         "width": "20%",
@@ -12,17 +12,18 @@
             "src": "./assets/pics/icons/logo_perfiles.png"
         }
     }, {
-        "x": "0%",
+        "x": "62%",
         "y": "-1%",
         "viewX": 1800,
         "viewY": 50,
-        "width": "94%",
-        "height": "4%",
-        "fontSize": "2.8em",
-        "tag": "p",
+        "width": "150%",
+        "height": "4.2%",
+        "fontSize": "1.9em",
+        "tag": "section",
         "class": "section-magazine",
         "data": {
-            "content": "Soy emocional"
+            "src": "./assets/pics/icons/section-yellow.png",
+            "content": "Soy un ser<br> emocional"
         }
     },
     {
@@ -74,6 +75,109 @@
         "data": {
             "page": 15,
             "url": "http://twitter.com/intent/tweet?text=Perfiles&url="
+        }
+    }, {
+        "x": "0%",
+        "y": "45%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "45%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "tips-img",
+        "data": {
+            "src": "./assets/pics/graphics/tips.png"
+        }
+    }, {
+        "x": "30%",
+        "y": "40%",
+        "viewX": 1800,
+        "viewY": 400,
+        "width": "100%",
+        "height": "30%",
+        "fontSize": "2.8em",
+        "tag": "modal",
+        "id": "modal-p15-1",
+        "class": "modal-tips",
+        "text": "",
+        "icon": "./assets/pics/graphics/tip1.png",
+        "data": {
+            "title": "<br>",
+            "src": "./assets/pics/graphics/tip1.png",
+            "content": "<br>A esto es lo que llamaríamos: “Cristo-estima”, entiende que en ti hay capacidades, “Todo lo puedes en Cristo.” Filipenses 4:13. Inicia por bloquear los pensamientos negativos, con versos de la Palabra del Señor que te alienten en aquello que te produce miedo, y dile a tu mente lo que necesita para estar segura, recuerda que, si tú primero no te amas, nadie te amará. “Puedes tener miedo, pero siempre hay una salida.” <span>Coloca en tu nevera palabras de valor, para que tu mente reciba una nueva información</span><br><br>"
+        }
+    }, {
+        "x": "40%",
+        "y": "50%",
+        "viewX": 1800,
+        "viewY": 400,
+        "width": "100%",
+        "height": "30%",
+        "fontSize": "2.8em",
+        "tag": "modal",
+        "id": "modal-p15-2",
+        "class": "modal-tips",
+        "text": "",
+        "icon": "./assets/pics/graphics/tip2.png",
+        "data": {
+            "title": "<br>",
+            "src": "./assets/pics/graphics/tip2.png",
+            "content": "<br>En momento de una crisis de miedo, es importante permitir que la mente se ubique, mirar lo que te está rodeando, e inicia una respiración profunda, llevando el aire al estómago, cuando conscientemente se respira, lentamente lograrás pensar con mayor claridad; la falta de aire en el cerebro, traerá pensamientos negativos que hacen perder el control. Job 33:4. El Señor es quien nos dio vida, y su aire nos da paz.<span> Practica la respiración profunda en la mañana y en la noche, no solo cuando tengas una crisis.</span><br><br>"
+        }
+    }, {
+        "x": "45%",
+        "y": "60%",
+        "viewX": 1800,
+        "viewY": 400,
+        "width": "100%",
+        "height": "30%",
+        "fontSize": "2.8em",
+        "tag": "modal",
+        "id": "modal-p15-3",
+        "class": "modal-tips",
+        "text": "",
+        "icon": "./assets/pics/graphics/tip3.png",
+        "data": {
+            "title": "<br>",
+            "src": "./assets/pics/graphics/tip3.png",
+            "content": "<br>Cuando la desesperanza y el miedo te dice que no puedes avanzar, es hora de levantarte y trazar una nueva ruta, empieza con algo sencillo que pueda volverse como una rutina:<span>  oración, lectura de la Palabra del Señor, ejercicios, caminata en la mañana o aprender un arte;</span>  esto permitirá a tu mente que entre en razón, a que se sienta ocupada, para no dar lugar a esos pensamientos que te lleven a un episodio de miedo, a concentrarse en metas específicas y a poner todo en orden <span>Es importante buscar una red de apoyo que pueda motivarte a continuar.</span> Jeremías 29:11<br><br>"
+        }
+    }, {
+        "x": "40%",
+        "y": "71%",
+        "viewX": 1800,
+        "viewY": 400,
+        "width": "100%",
+        "height": "30%",
+        "fontSize": "2.8em",
+        "tag": "modal",
+        "id": "modal-p15-4",
+        "class": "modal-tips",
+        "text": "",
+        "icon": "./assets/pics/graphics/tip4.png",
+        "data": {
+            "title": "<br>",
+            "src": "./assets/pics/graphics/tip4.png",
+            "content": "<br>Cuando estés tranquila, es importante realizar ensayos previos de cómo enfrentar la crisis; ya sabes que estás en proceso de recuperación de un desajuste emocional, el cerebro es inteligente y si lo entrenas, sabrá cómo actuar, Joel 3:10. <span>Cuando pensamientos recurrentes vengan, hay que bloquearlos con la Palabra, con música, respirando y con pensamientos de bienestar, </span>esto es, si puedes manejar la crisis en casa; de lo contrario busca ayuda de tu familia o alguien que te pueda brindar ese apoyo; recuerda que en la iglesia también podrás encontrar ayuda, y hay alguien esperándote, el mejor de los amigos, ¡Jesucristo mismo!<br><br>"
+        }
+    }, {
+        "x": "30%",
+        "y": "81%",
+        "viewX": 1800,
+        "viewY": 400,
+        "width": "100%",
+        "height": "30%",
+        "fontSize": "2.8em",
+        "tag": "modal",
+        "id": "modal-p15-5",
+        "class": "modal-tips",
+        "text": "",
+        "icon": "./assets/pics/graphics/tip5.png",
+        "data": {
+            "title": "<br>",
+            "src": "./assets/pics/graphics/tip5.png",
+            "content": "<br>Pensar en las dificultades que tenemos que enfrentar o en situaciones negativas, disminuye la posibilidad de avanzar. Esta técnica consiste en no dar vueltas repetitivas a los mismos pensamientos, generando un desgaste emocional, es importante bloquear con pensamientos de valor, para que te ayuden a salir de ese hoyo profundo. La Palabra de Dios es nuestro principal bálsamo, hay muchos testimonios de personas que estaban en angustia, y abrieron la Biblia encontrando una palabra que les dio vida. Recuerda, tenemos al Dios de milagros y amor. No olvides escribir una posible solución a ese problema y empezar a trabajar. Salmo 42:2<br><br>"
         }
     }
 ]

@@ -1,7 +1,7 @@
 [{
 
-        "x": "48%",
-        "y": "1%",
+        "x": "46%",
+        "y": "2%",
         "viewX": 1800,
         "viewY": 50,
         "width": "20%",
@@ -13,17 +13,18 @@
             "src": "./assets/pics/icons/logo_perfiles.png"
         }
     }, {
-        "x": "0%",
-        "y": "-1%",
+        "x": "62%",
+        "y": "-1.5%",
         "viewX": 1800,
         "viewY": 50,
-        "width": "94%",
-        "height": "4%",
-        "fontSize": "2.8em",
-        "tag": "p",
+        "width": "80%",
+        "height": "4.2%",
+        "fontSize": "3.4em",
+        "tag": "section",
         "class": "section-magazine",
         "data": {
-            "content": "Soy emocional"
+            "src": "./assets/pics/icons/section-pink.png",
+            "content": "Soy un ser<br> emocional"
         }
     }, {
         "x": "60%",
@@ -71,7 +72,7 @@
         "text": "Escuchar Audio",
         "icon": "./assets/pics/icons/escuchar.png",
         "data": {
-            "src": ""
+            "src": "./assets/audios/audio21.mp3"
         }
     },
     {
@@ -87,7 +88,7 @@
         "text": "Imprimir",
         "icon": "./assets/pics/icons/imprimir.png",
         "data": {
-            "url": "https://drive.google.com/file/d/1SQga6RgmNDd0a35XPHDeOAy0U0cIo60W/preview"
+            "url": "https://drive.google.com/file/d/1erNVguGDIad_CLzKchBoUFsy3d7Lw8Ac/preview"
         }
     },
     {
@@ -100,12 +101,26 @@
         "fontSize": "3.3em",
         "tag": "modal",
         "id": "modalReflexion-p21",
-        "class": "button-read",
+        "class": "button-reflexion",
         "text": "Reflexionar",
         "icon": "./assets/pics/icons/reflexionar.png",
         "data": {
+            "print": "<a target='_blank' href='https://drive.google.com/file/d/1gw4bG5DWe1eW6mq7k3KBPpUCjf12sv7Z/view?usp=share_link'><img src='./assets/pics/icons/imprimir-modal.png'></a>",
             "title": "<br>Taller<br><br>",
-            "content": "<li><span>Compromiso autoreflexivo</span></li>Escribo una carta e identifico la última vez que me sentí sorprendida, o sentí admiración y genuino agradecimiento por algo maravilloso que pasó. Narra los detalles y evoca la prodigiosa obra de Dios en ese suceso.<br><br><span>Nota: </span>Es una alerta, si esto me sucedió hace mucho y no veo ningún suceso relativamente reciente.<br><br><li><span>Autoconocimiento</span></li>Identifico cómo está mi lente:<br><br><label><input type='checkbox' id='cbox1' value='Alegria' onchange='getValueInputs(8)'>Suelo ver más fácilmente los eventos negativos que las oportunidades que tengo.</label><br><br><label><input type='checkbox' id='cbox1' value='Alegria' onchange='getValueInputs(8)'>Con facilidad hago recuentos de las situaciones negativas mías, de mi familia o de mi trabajo. </label><br><br><label><input type='checkbox' id='cbox1' value='Alegria' onchange='getValueInputs(8)'>Me cuesta ver soluciones o salidas a los problemas.</label><br><br><label><input type='checkbox' id='cbox1' value='Alegria' onchange='getValueInputs(8)'>Me gusta reunirme con amigas para conversar lo que me pasa, pero puedo durar horas hablando de lo mismo o del problema del momento. </label><br><br><label><input type='checkbox' id='cbox1' value='Alegria' onchange='getValueInputs(8)'>Disfruto la vida familiar, social, laboral, en la iglesia, me recreo en los detalles cotidianos, valoro cada situación por pequeña que sea.</label><br><br><label><input type='checkbox' id='cbox1' value='Alegria' onchange='getValueInputs(8)'>Suelo permitir que los demás me sorprendan con detalles de afecto y logro notar los cambios favorables del entorno, siendo agradecida.</label><br><br><li><span>Compromiso práctico</span></li>Sal de casa y observa los pequeños detalles del entorno, el sonido del viento, el canto de un pájaro, un atardecer… Súbete a una montaña, ve a un mirador, respira el aire y si puedes, grita lo que ves, déjate sorprender. O sal y da un fuerte abrazo a alguien especial, si deseas agradécele lo que ha hecho por ti.<br><br>"
+            "content": "<li><span>Compromiso autoreflexivo</span></li>Escribo una carta e identifico la última vez que me sentí sorprendida, o sentí admiración y genuino agradecimiento por algo maravilloso que pasó. Narra los detalles y evoca la prodigiosa obra de Dios en ese suceso.<br><br><span>Nota: </span>Es una alerta, si esto me sucedió hace mucho y no veo ningún suceso relativamente reciente.<br><br><li><span>Autoconocimiento</span></li>Identifico cómo está mi lente:<br><br><label><input type='checkbox' id='cbox21_1' value='Alegria' onchange='getValueInputs(20)'>Suelo ver más fácilmente los eventos negativos que las oportunidades que tengo.</label><br><br><label><input type='checkbox' id='cbox21_2' value='Alegria' onchange='getValueInputs(20)'>Con facilidad hago recuentos de las situaciones negativas mías, de mi familia o de mi trabajo. </label><br><br><label><input type='checkbox' id='cbox21_3' value='Alegria' onchange='getValueInputs(20)'>Me cuesta ver soluciones o salidas a los problemas.</label><br><br><label><input type='checkbox' id='cbox21_4' value='Alegria' onchange='getValueInputs(20)'>Me gusta reunirme con amigas para conversar lo que me pasa, pero puedo durar horas hablando de lo mismo o del problema del momento. </label><br><br><label><input type='checkbox' id='cbox21_5' value='Alegria' onchange='getValueInputs(20)'>Disfruto la vida familiar, social, laboral, en la iglesia, me recreo en los detalles cotidianos, valoro cada situación por pequeña que sea.</label><br><br><label><input type='checkbox' id='cbox21_6' value='Alegria' onchange='getValueInputs(20)'>Suelo permitir que los demás me sorprendan con detalles de afecto y logro notar los cambios favorables del entorno, siendo agradecida.</label><br><br><li><span>Compromiso práctico</span></li>Sal de casa y observa los pequeños detalles del entorno, el sonido del viento, el canto de un pájaro, un atardecer… Súbete a una montaña, ve a un mirador, respira el aire y si puedes, grita lo que ves, déjate sorprender. O sal y da un fuerte abrazo a alguien especial, si deseas agradécele lo que ha hecho por ti.<br><br>"
+        }
+    }, {
+        "x": "0%",
+        "y": "5%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "95%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "title-img",
+        "data": {
+            "src": "./assets/pics/titles/20.png"
         }
     }
 ]

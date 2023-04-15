@@ -1,7 +1,7 @@
 [{
 
-        "x": "48%",
-        "y": "1%",
+        "x": "46%",
+        "y": "2%",
         "viewX": 1800,
         "viewY": 50,
         "width": "20%",
@@ -13,17 +13,18 @@
             "src": "./assets/pics/icons/logo_perfiles.png"
         }
     }, {
-        "x": "0%",
-        "y": "-1%",
+        "x": "62%",
+        "y": "-1.5%",
         "viewX": 1800,
         "viewY": 50,
-        "width": "94%",
-        "height": "4%",
-        "fontSize": "2.8em",
-        "tag": "p",
+        "width": "80%",
+        "height": "4.2%",
+        "fontSize": "3.4em",
+        "tag": "section",
         "class": "section-magazine",
         "data": {
-            "content": "Soy emocional"
+            "src": "./assets/pics/icons/section-pink.png",
+            "content": "Soy un ser<br> emocional"
         }
     },
     {
@@ -79,5 +80,30 @@
             "page": 23,
             "url": "http://twitter.com/intent/tweet?text=Perfiles&url="
         }
+    }, {
+        "x": "15%",
+        "y": "3%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "85%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "title-img",
+        "data": {
+            "src": "./assets/pics/titles/22.png"
+        }
+    },
+    {
+        "x": "0%",
+        "y": "30%",
+        "styleBox": "width: 100%;",
+        "style": "width: 10%; color: #fff; font-size: 1.1em; text-align: center;",
+        "tag": "content-text",
+        "id_unique": "page-25-text-biblicos",
+        "data": {
+            "text": "<p style='text-align: center;'>“la angustia abate <br>el corazón del hombre”<br>Proverbios 12:25</p>"
+        }
+        
     }
 ]

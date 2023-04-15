@@ -1,6 +1,6 @@
 [{
-        "x": "48%",
-        "y": "1%",
+        "x": "46%",
+        "y": "2.5%",
         "viewX": 1800,
         "viewY": 50,
         "width": "20%",
@@ -12,21 +12,22 @@
             "src": "./assets/pics/icons/logo_perfiles.png"
         }
     }, {
-        "x": "0%",
+        "x": "62%",
         "y": "-1%",
         "viewX": 1800,
         "viewY": 50,
-        "width": "94%",
-        "height": "4%",
-        "fontSize": "2.8em",
-        "tag": "p",
+        "width": "76%",
+        "height": "4.2%",
+        "fontSize": "3.7em",
+        "tag": "section",
         "class": "section-magazine",
         "data": {
-            "content": "Soy emocional"
+            "src": "./assets/pics/icons/section-pink.png",
+            "content": "Soy un ser<br> emocional"
         }
     }, {
         "x": "14%",
-        "y": "92%",
+        "y": "93%",
         "viewX": 3000,
         "viewY": 50,
         "width": "100%",
@@ -83,7 +84,7 @@
         "text": "Escuchar Audio",
         "icon": "./assets/pics/icons/escuchar.png",
         "data": {
-            "src": ""
+            "src": "./assets/audios/audio13.mp3"
         }
     },
     {
@@ -99,51 +100,26 @@
         "text": "Imprimir",
         "icon": "./assets/pics/icons/imprimir.png",
         "data": {
-            "url": "https://drive.google.com/file/d/1SQga6RgmNDd0a35XPHDeOAy0U0cIo60W/preview"
+            "url": "https://drive.google.com/file/d/1s5onqz2dc8xq9fbfPUFI87JEQ5Qc-4Nt/view"
         }
     },
     {
-        "x": "69.5%",
-        "y": "55%",
+        "x": "38%",
+        "y": "56%",
         "viewX": 1800,
-        "viewY": 100,
-        "width": "83%",
+        "viewY": 1500,
+        "width": "58%",
         "height": "10%",
         "fontSize": "3.3em",
         "tag": "modal",
         "id": "modalReflexion-p13",
-        "class": "button-read",
-        "text": "Reflexionar",
-        "icon": "./assets/pics/icons/reflexionar.png",
+        "class": "btn-reflexion13",
+        "text": "",
+        "icon": "./assets/pics/graphics/testalegria.GIF",
         "data": {
+            "print": "<a target='_blank' href='https://drive.google.com/file/d/1VZK8vnKIH8TsR0TQ6P8bqC5-YPlm0954/view'><img src='./assets/pics/icons/imprimir-modal.png'></a>",
             "title": "<br>Test de la alegría<br><br>",
-            "content": "Responda las siguientes preguntas marcando con una x, siendo 1 totalmente en desacuerdo y 5 totalmente de acuerdo. Al finalizar suma las respuestas.<br><br>1. Me quejo pocas veces de lo que ocurre en mi vida.<br><br><button>1</button><button>2</button><button>3</button><button>4</button><button>5</button><br><br>2. En general, estoy satisfecha con todo lo que me rodea.<br><br><button>1</button><button>2</button><button>3</button><button>4</button><button>5</button><br><br>3. Estoy rodeada de personas que me apoyan en todo lo que necesito.<br><br><button>1</button><button>2</button><button>3</button><button>4</button><button>5</button><br><br>4. Me gustaría tener muchas cosas que al día de hoy no poseo, como dinero, un trabajo mejor, pareja...<br><br><button>1</button><button>2</button><button>3</button><button>4</button><button>5</button><br><br>5. Si pudiera volver a nacer, elegiría esta vida otra vez.<br><br><button>1</button><button>2</button><button>3</button><button>4</button><button>5</button><br><br>6. Me encanta disfrutar de los pequeños placeres que me da la vida.<br><br><button>1</button><button>2</button><button>3</button><button>4</button><button>5</button><br><br>7. Tengo algunos conflictos sin resolver con personas cercanas a mí.<br><br><button>1</button><button>2</button><button>3</button><button>4</button><button>5</button><br><br>8. Por norma general, suelo sonreír todo el tiempo sin forzarlo.<br><br><button>1</button><button>2</button><button>3</button><button>4</button><button>5</button><br><br>9. A veces, me gustaría cambiar mi vida por la de otra persona más afortunada.<br><br><button>1</button><button>2</button><button>3</button><button>4</button><button>5</button><br><br>10. Considero que estoy en un ambiente muy tranquilo y sin conflictos en mi vida.<br><br><button>1</button><button>2</button><button>3</button><button>4</button><button>5</button><br><br><span>Nota:</span> Los resultados obtenidos en esta prueba son sólo orientativos.<br><br>"
-        }
-    }, {
-        "x": "34%",
-        "y": "60%",
-        "viewX": 1800,
-        "viewY": 50,
-        "width": "60%",
-        "height": "4%",
-        "fontSize": "2.8em",
-        "tag": "img",
-        "class": "",
-        "data": {
-            "src": "./assets/pics/titles/13.png"
-        }
-    }, {
-        "x": "43%",
-        "y": "66%",
-        "viewX": 1800,
-        "viewY": 50,
-        "width": "50%",
-        "height": "4%",
-        "fontSize": "2.8em",
-        "tag": "img",
-        "class": "",
-        "data": {
-            "src": "./assets/pics/graphics/test.png"
+            "content": "Responda las siguientes preguntas marcando con una x, siendo 1 totalmente en desacuerdo y 5 totalmente de acuerdo. Al finalizar suma las respuestas.<br><br>1. Me quejo pocas veces de lo que ocurre en mi vida.<br><br><button class='btn_p1' id='btn1' value='1'>1</button><button class='btn_p1' id='btn2' value='2' >2</button><button class='btn_p1' id='btn3' value='3'>3</button><button class='btn_p1' id='btn4' value='4' >4</button><button class='btn_p1' id='btn5' value='5' onclick='getValueInputs(12)'>5</button><br><br>2. En general, estoy satisfecha con todo lo que me rodea.<br><br><button class='btn_p2' id='btn6' value='1'>1</button><button class='btn_p2' id='btn7' value='2'>2</button><button class='btn_p2' id='btn8' value='3'>3</button><button class='btn_p2' id='btn9' value='4'>4</button><button class='btn_p2' id='btn10' value='5'>5</button><br><br>3. Estoy rodeada de personas que me apoyan en todo lo que necesito.<br><br><button class='btn_p3' id='btn11' value='1'>1</button><button class='btn_p3' id='btn12' value='2'>2</button><button class='btn_p3' id='btn13' value='3'>3</button><button class='btn_p3' id='btn14' value='4'>4</button><button class='btn_p3' id='btn15' value='5'>5</button><br><br>4. Me gustaría tener muchas cosas que al día de hoy no poseo, como dinero, un trabajo mejor, pareja...<br><br><button class='btn_p4' id='btn16' value='1'>1</button><button class='btn_p4' id='btn17' value='2'>2</button><button class='btn_p4' id='btn18' value='3'>3</button><button class='btn_p4' id='btn19' value='4'>4</button><button class='btn_p4' id='btn20' value='5'>5</button><br><br>5. Si pudiera volver a nacer, elegiría esta vida otra vez.<br><br><button class='btn_p5' id='btn21' value='1'>1</button><button class='btn_p5' id='btn22' value='2'>2</button><button class='btn_p5' id='btn23' value='3'>3</button><button class='btn_p5' id='btn24' value='4'>4</button><button class='btn_p5' id='btn25' value='5'>5</button><br><br>6. Me encanta disfrutar de los pequeños placeres que me da la vida.<br><br><button class='btn_p6' id='btn26' value='1'>1</button><button class='btn_p6' id='btn27' value='2'>2</button><button class='btn_p6' id='btn28' value='3'>3</button><button class='btn_p6' id='btn29' value='4'>4</button><button class='btn_p6' id='btn30' value='5'>5</button><br><br>7. Tengo algunos conflictos sin resolver con personas cercanas a mí.<br><br><button class='btn_p7' id='btn31' value='1'>1</button><button class='btn_p7' id='btn32' value='2'>2</button><button class='btn_p7' id='btn33' value='3'>3</button><button class='btn_p7' id='btn34' value='4'>4</button><button class='btn_p7' id='btn35' value='5'>5</button><br><br>8. Por norma general, suelo sonreír todo el tiempo sin forzarlo.<br><br><button class='btn_p8' id='btn36' value='1'>1</button><button class='btn_p8' id='btn37' value='2'>2</button><button class='btn_p8' id='btn38' value='3'>3</button><button class='btn_p8' id='btn39' value='4'>4</button><button class='btn_p8' id='btn40' value='5'>5</button><br><br>9. A veces, me gustaría cambiar mi vida por la de otra persona más afortunada.<br><br><button class='btn_p9' id='btn41' value='1'>1</button><button class='btn_p9' id='btn42' value='2'>2</button><button class='btn_p9' id='btn43' value='3'>3</button><button class='btn_p9' id='btn44' value='4'>4</button><button class='btn_p9' id='btn45' value='5'>5</button><br><br>10. Considero que estoy en un ambiente muy tranquilo y sin conflictos en mi vida.<br><br><button class='btn_p10' id='btn46' value='1'>1</button><button class='btn_p10' id='btn47' value='2'>2</button><button class='btn_p10' id='btn48' value='3'>3</button><button class='btn_p10' id='btn49' value='4'>4</button><button class='btn_p10' id='btn50' value='5'>5</button><br><br><span>Nota:</span> Los resultados obtenidos en esta prueba son sólo orientativos.<br><br>"
         }
     }
 ]

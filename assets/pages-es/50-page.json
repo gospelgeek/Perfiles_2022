@@ -1,14 +1,46 @@
 [{
-    "x": "0%",
-    "y": "6%",
-    "viewX": 1800,
-    "viewY": 50,
-    "width": "100%",
-    "height": "4%",
-    "fontSize": "3.2em",
-    "tag": "h1",
-    "class": "title",
-    "data": {
-        "content": "Informativa, sociales y gestión"
+
+        "x": "6%",
+        "y": "5%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "50%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "",
+        "data": {
+            "src": "./assets/pics/titles/title-50.png"
+        }
+    }, {
+        "x": "8%",
+        "y": "13%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "45%",
+        "height": "4%",
+        "fontSize": "5.3em",
+        "tag": "p",
+        "class": "text-introductory",
+        "data": {
+            "content": "Damos gracias al Señor, fuente de toda sabiduría, quien nos permitió alcanzar los objetivos propuestos, mediante la asesoría y el acompañamiento en los diferentes distritos de nuestro país, igualmente nos ayudó a difundir su Palabra, haciendo uso de los diferentes medios de comunicación, con los cuales pudimos llegar a muchas mujeres convertidas y no convertidas; también nos permitió compartir con nuestra población femenil, la importancia de ser mujeres hacedoras de su Palabra. Agradecemos a nuestros hermanos del Consistorio de Ancianos por el gran apoyo al trabajo con la mujer IPUC."
+        }
+    },
+    {
+        "x": "60%",
+        "y": "14%",
+        "width": "60%",
+        "zIndex": 200,
+        "tag": "all-component",
+        "id_unique": "a1-img-page-50",
+        "components": "<div style='z-index: 200; display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='font-size: 0.7em; text-align: center; color: #07b9bf; padding-right: 0.8em; font-weight:bold'>ENCUENTRO ESPOSAS DE PASTORES </p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`1`)'><img style='width: 86%; height: 50%;' src='./assets/pics/photos/asambleas-10.png' /></a> </div> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='text-align: end; color: #e84f81; padding-right: 0.8em; font-weight:bold'>CAMPAMENTOS</p> <a style='cursor: pointer;' type='button' onclick='click_boton_a_carrusel(`2`)'><img style='width: 86%; height: 50%;' src='./assets/pics/photos/campamentos-10.png' /></a> </div> </div>"
+    },
+    {
+        "x": "25%",
+        "y": "50%",
+        "width": "60%",
+        "tag": "all-component",
+        "id_unique": "a1-img-page-50",
+        "components": "<div style='display: grid; width: 60%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-colums: 100%'> <div style='display: grid; grid-template-rows: 30% 70%; grid-template-colums: 100%; place-items: center; width:100%;'> <p class='moserrate' style='text-align: center; font-size: 0.8em; font-weight:bold'>EVENTOS VIRTUALES</p> <a onclick='click_boton_a_carrusel(`3`)' style='cursor: pointer; ' type='button'><img style='width: 86%; height: 50%;' src='./assets/pics/photos/eventos-10.png' /></a> </div> </div>"
     }
-}]
+]

@@ -1,7 +1,7 @@
-[{
+[ {
 
-        "x": "48%",
-        "y": "1%",
+        "x": "46%",
+        "y": "2%",
         "viewX": 1800,
         "viewY": 50,
         "width": "20%",
@@ -13,17 +13,18 @@
             "src": "./assets/pics/icons/logo_perfiles.png"
         }
     }, {
-        "x": "0%",
-        "y": "-1%",
+        "x": "62%",
+        "y": "-1.5%",
         "viewX": 1800,
         "viewY": 50,
-        "width": "94%",
-        "height": "4%",
-        "fontSize": "2.8em",
-        "tag": "p",
+        "width": "80%",
+        "height": "4.2%",
+        "fontSize": "3.4em",
+        "tag": "section",
         "class": "section-magazine",
         "data": {
-            "content": "Recursos divinos"
+            "src": "./assets/pics/icons/section-pink.png",
+            "content": "Recursos <br> divinos"
         }
     }, {
         "x": "8%",
@@ -71,7 +72,7 @@
         "text": "Escuchar Audio",
         "icon": "./assets/pics/icons/escuchar.png",
         "data": {
-            "src": ""
+            "src": "./assets/audios/audio35.mp3"
         }
     },
     {
@@ -87,7 +88,7 @@
         "text": "Imprimir",
         "icon": "./assets/pics/icons/imprimir.png",
         "data": {
-            "url": "https://drive.google.com/file/d/1SQga6RgmNDd0a35XPHDeOAy0U0cIo60W/preview"
+            "url": "https://drive.google.com/file/d/1iaqFcFxSfr5D5oOYG5FziPGVLMOEjYOJ/view?usp=share_link"
         }
     },
     {
@@ -100,12 +101,25 @@
         "fontSize": "3.3em",
         "tag": "modal",
         "id": "modalReflexion-p35",
-        "class": "button-read",
+        "class": "button-reflexion",
         "text": "Reflexionar",
         "icon": "./assets/pics/icons/reflexionar.png",
         "data": {
+            "print": "<a target='_blank' href='https://drive.google.com/file/d/1isoziMMCTswNM_ZKaV09DNkU7w8Oj7-j/view?usp=share_link'><img src='./assets/pics/icons/imprimir-modal.png'></a>",
             "title": "<br>RETO DIARIO<br><br>",
             "content": "Como mujeres, diariamente nos enfrentamos a diversas situaciones que ponen a prueba nuestra confianza en Dios. En esos momentos es donde debemos activar la fe con toda certeza en nuestra mente y corazón, en aquel que ha prometido estar todos los días con nosotras.<br><br>Mediante este reto diario, invito a cada mujer a hacer un alto en su día, y pese a las circunstancias adversas que atraviesen, puedan practicar la confianza en el Dador de la vida, identificando la situación problemática y respondiendo a ella con la Palabra de verdad, la oración y la intimidad con Dios.<br><br><span>Estrategias para alimentar tu confianza en Dios.</span><br><br><span>1. Situación de Crisis de Pareja y Familia</span><br>Fortalece tu intimidad con Dios, busca ayuda de tu pastor o alguien idóneo. Practica la comunicación asertiva, sé empático con tu cónyuge, resalta sus cualidades y trabajen juntos para fortalecer las debilidades mutuas. Ataca el problema no la persona.<br><br><span>2. Problemas emocionales</span><br>Tienes la capacidad de elegir la calidad de tu pensamiento. La felicidad es una decisión que se toma diariamente, aprendiendo a enfrentar las situaciones del presente con sabiduría e inteligencia emocional, busque ayuda competente, aprende a ser agradecido, practique el perdón, disfrute el presente, medite en la Palabra de Dios” (Filipenses 4:8).<br><br><span>3. Enfermedad</span><br>Practica la aceptación sin perder la esperanza en sus valiosas promesas, no te aísles, mejora tu calidad de vida (aliméntate bien y duerme lo necesario). “Aunque afligido yo y necesitado, Jehová pensará en mí” (Salmos 40:174).<br><br><li>Si está en su propósito sanarnos lo hará, y si no, sus planes son mejores. 1 Juan 5:14.</li><br><span>Crisis Económica</span><br>Cree en las promesas de Dios, pon tu fe en acción, sé diligente, evita la procrastinación (Posponer o evitar la realización de actividades que deben atenderse).<br><br>El Dueño absoluto de todo suplirá todo lo que os falte, Filipenses 4:19. “… Confiaron en ti, y no fueron avergonzados” (Salmos 22:5).<br><br>"
         }
+    },
+    {
+        "x": "0%",
+        "y": "15%",
+        "styleBox": "width: 100%;",
+        "style": "width: 10%; color: #00; font-size: 1em; text-align: center;",
+        "tag": "content-text",
+        "id_unique": "page-25-text-biblicos",
+        "data": {
+            "text": "<p style='text-align: center; font-weight: 400;'>En ti oh Jehová he confiado; no sea yo <br>confundido jamás; líbrame en tu <br>justicia (Salmos 31: 1).</p>"
+        }
+        
     }
 ]

@@ -7,7 +7,7 @@
         "height": "4%",
         "fontSize": "2.8em",
         "tag": "img",
-        "class": "",
+        "class": "title_page",
         "data": {
             "src": "./assets/pics/titles/28.png"
         }
@@ -74,12 +74,12 @@
         "tag": "p",
         "class": "text-introductory",
         "data": {
-            "content": "Tener salud es una bendición de Dios y un deseo que tenemos para sí mismos y para los que nos rodean. La salud es el completo estado de bienestar espiritual, físico, mental, emocional y social, que puede lograr una persona en condición de enfermedad o sin ella. La palabra de Dios nos muestra que Dios se interesa en nuestro ser y su pleno bienestar,” Y el mismo Dios de paz os santifique por completo; y todo vuestro ser, espíritu, alma y cuerpo, sea guardado irreprensible para la venida de nuestro Señor Jesucristo.” 1 Tesalonicenses 5:23."
+            "content": "Tener salud es una bendición de Dios y un deseo que tenemos para sí mismos y para los que nos rodean. La salud es el completo estado de bienestar espiritual, físico, mental, emocional y social, que puede lograr una persona en condición de enfermedad o sin ella. La palabra de Dios nos muestra que Dios se interesa en nuestro ser y su pleno bienestar."
         }
     },
     {
         "x": "15%",
-        "y": "72%",
+        "y": "65%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
@@ -97,7 +97,7 @@
     },
     {
         "x": "15%",
-        "y": "76%",
+        "y": "70%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
@@ -109,12 +109,12 @@
         "text": "Escuchar Audio",
         "icon": "./assets/pics/icons/escuchar.png",
         "data": {
-            "src": ""
+            "src": "./assets/audios/audio28.mp3"
         }
     },
     {
         "x": "15%",
-        "y": "80%",
+        "y": "75%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
@@ -125,24 +125,7 @@
         "text": "Imprimir",
         "icon": "./assets/pics/icons/imprimir.png",
         "data": {
-            "url": "https://drive.google.com/file/d/1SQga6RgmNDd0a35XPHDeOAy0U0cIo60W/preview"
-        }
-    },
-    {
-        "x": "15%",
-        "y": "84%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "83%",
-        "height": "10%",
-        "fontSize": "3.3em",
-        "tag": "modal",
-        "id": "modalReflexion-p28",
-        "class": "button-reflexion",
-        "text": "Reflexionar",
-        "icon": "./assets/pics/icons/reflexionar.png",
-        "data": {
-            "title": "<br><br><br>"
+            "url": "https://drive.google.com/file/d/1sKNSZixgE7bR_iAKg2GOoho4UFsTfeqg/preview"
         }
     }, {
         "x": "12%",
@@ -159,7 +142,7 @@
             "author": "Carolina Henao Díaz",
             "position": "Psicóloga Clínica y de Familia, Sexóloga Clínica",
             "year": "2022",
-            "src": "./assets/pics/photos/carolinadiaz.jpeg"
+            "src": "./assets/pics/photos/carolinadiaz.png"
         }
     }
 ]

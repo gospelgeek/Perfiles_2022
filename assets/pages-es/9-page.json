@@ -1,6 +1,6 @@
 [{
-        "x": "48%",
-        "y": "1%",
+        "x": "46%",
+        "y": "2.5%",
         "viewX": 1800,
         "viewY": 50,
         "width": "20%",
@@ -12,17 +12,18 @@
             "src": "./assets/pics/icons/logo_perfiles.png"
         }
     }, {
-        "x": "0%",
-        "y": "-1%",
+        "x": "62%",
+        "y": "-0.2%",
         "viewX": 1800,
         "viewY": 50,
-        "width": "94%",
-        "height": "4%",
-        "fontSize": "2.8em",
-        "tag": "p",
+        "width": "150%",
+        "height": "4.2%",
+        "fontSize": "1.9em",
+        "tag": "section",
         "class": "section-magazine",
         "data": {
-            "content": "SOY EMOCIONAL"
+            "src": "./assets/pics/icons/section-yellow.png",
+            "content": "Soy un ser<br> emocional"
         }
     },
     {
@@ -74,6 +75,515 @@
         "data": {
             "page": 9,
             "url": "http://twitter.com/intent/tweet?text=Perfiles&url="
+        }
+    }, {
+        "x": "70%",
+        "y": "28%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "8%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "figura-izq",
+        "data": {
+            "src": "./assets/pics/graphics/figura1.png"
+        }
+    }, {
+        "x": "-33%",
+        "y": "18%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "100%",
+        "height": "4%",
+        "fontSize": "3.2em",
+        "tag": "tooltip-tag",
+        "class": "tooltip-author",
+        "id": "figura-tool-aversion",
+        "classImg": "icono-aversion",
+        "data": {
+            "text": "Aversión",
+            "src": "./assets/pics/graphics/figura2.png"
+        }
+    }, {
+        "x": "79%",
+        "y": "45%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "8%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "figura-izq",
+        "data": {
+            "src": "./assets/pics/graphics/figura2.png"
+        }
+    }, {
+        "x": "80%",
+        "y": "35%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "8%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "figura-der",
+        "data": {
+            "src": "./assets/pics/graphics/figura3.png"
+        }
+    }, {
+        "x": "0%",
+        "y": "80%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "6%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "figura-izq",
+        "data": {
+            "src": "./assets/pics/graphics/figura3.png"
+        }
+    }, {
+        "x": "58%",
+        "y": "83%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "14%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "figura-der",
+        "data": {
+            "src": "./assets/pics/graphics/figura3.png"
+        }
+    }, {
+        "x": "0%",
+        "y": "30%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "10%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "figura-izq",
+        "data": {
+            "src": "./assets/pics/graphics/figura3.png"
+        }
+    }, {
+        "x": "90%",
+        "y": "38%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "8%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "figura-der",
+        "data": {
+            "src": "./assets/pics/graphics/figura4.png"
+        }
+    }, {
+        "x": "-66%",
+        "y": "35%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "100%",
+        "height": "4%",
+        "fontSize": "3.2em",
+        "tag": "tooltip-tag",
+        "class": "tooltip-author",
+        "id": "figura-tool-alegria",
+        "data": {
+            "text": "Alegría",
+            "src": "./assets/pics/graphics/figura4.png"
+        }
+    }, {
+        "x": "0%",
+        "y": "70%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "8%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "figura-der",
+        "data": {
+            "src": "./assets/pics/graphics/figura5.png"
+        }
+    }, {
+        "x": "30%",
+        "y": "25%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "8%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "figura-izq",
+        "data": {
+            "src": "./assets/pics/graphics/figura6.png"
+        }
+    }, {
+        "x": "0%",
+        "y": "45%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "8%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "figura-der",
+        "data": {
+            "src": "./assets/pics/graphics/figura7.png"
+        }
+    }, {
+        "x": "5%",
+        "y": "90%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "8%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "figura-izq",
+        "data": {
+            "src": "./assets/pics/graphics/figura7.png"
+        }
+    }, {
+        "x": "10%",
+        "y": "26%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "12%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "figura-der",
+        "data": {
+            "src": "./assets/pics/graphics/figura8.png"
+        }
+    }, {
+        "x": "11%",
+        "y": "19%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "9%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "figura-izq",
+        "data": {
+            "src": "./assets/pics/graphics/figura9.png"
+        }
+    }, {
+        "x": "85%",
+        "y": "42%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "6%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "figura-der",
+        "data": {
+            "src": "./assets/pics/graphics/figura9.png"
+        }
+    }, {
+        "x": "15%",
+        "y": "55%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "7%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "figura-izq",
+        "data": {
+            "src": "./assets/pics/graphics/figura9.png"
+        }
+    }, {
+        "x": "12%",
+        "y": "42%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "12%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "figura-izq",
+        "data": {
+            "src": "./assets/pics/graphics/figura11.png"
+        }
+    }, {
+        "x": "80%",
+        "y": "80%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "12%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "figura-der",
+        "data": {
+            "src": "./assets/pics/graphics/figura12.png"
+        }
+    }, {
+        "x": "-30%",
+        "y": "70%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "100%",
+        "height": "4%",
+        "fontSize": "3.2em",
+        "tag": "tooltip-tag",
+        "class": "tooltip-author",
+        "id": "figura-tool-sorpresa",
+        "data": {
+            "text": "Sorpresa",
+            "src": "./assets/pics/graphics/figura13.png"
+        }
+    }, {
+        "x": "62%",
+        "y": "38%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "15%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "figura-der",
+        "data": {
+            "src": "./assets/pics/graphics/figura14.png"
+        }
+    }, {
+        "x": "22%",
+        "y": "15%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "12%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "figura-izq",
+        "data": {
+            "src": "./assets/pics/graphics/figura15.png"
+        }
+    }, {
+        "x": "90%",
+        "y": "45%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "12%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "figura-der",
+        "data": {
+            "src": "./assets/pics/graphics/figura15.png"
+        }
+    }, {
+        "x": "35%",
+        "y": "14%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "22%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "figura-izq",
+        "data": {
+            "src": "./assets/pics/graphics/figura16.png"
+        }
+    }, {
+        "x": "-2%",
+        "y": "50%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "20%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "figura-der",
+        "data": {
+            "src": "./assets/pics/graphics/figura17.png"
+        }
+    }, {
+        "x": "73%",
+        "y": "80%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "9%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "figura-izq",
+        "data": {
+            "src": "./assets/pics/graphics/figura19.png"
+        }
+    }, {
+        "x": "90%",
+        "y": "75%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "10%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "figura-der",
+        "data": {
+            "src": "./assets/pics/graphics/figura20.png"
+        }
+    }, {
+        "x": "5%",
+        "y": "38%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "9%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "figura-izq",
+        "data": {
+            "src": "./assets/pics/graphics/figura21.png"
+        }
+    }, {
+        "x": "22%",
+        "y": "29%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "10%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "figura-der",
+        "data": {
+            "src": "./assets/pics/graphics/figura21.png"
+        }
+    }, {
+        "x": "80%",
+        "y": "68%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "12%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "figura-izq",
+        "data": {
+            "src": "./assets/pics/graphics/figura22.png"
+        }
+    }, {
+        "x": "-14%",
+        "y": "54%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "100%",
+        "height": "4%",
+        "fontSize": "3.2em",
+        "tag": "tooltip-tag",
+        "class": "tooltip-author",
+        "id": "figura-tool-ira",
+        "classImg": "icono-ira",
+        "data": {
+            "text": "Ira",
+            "src": "./assets/pics/graphics/figura23.png"
+        }
+    }, {
+        "x": "-84%",
+        "y": "69%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "100%",
+        "height": "4%",
+        "fontSize": "3.2em",
+        "tag": "tooltip-tag",
+        "class": "tooltip-author",
+        "id": "figura-tool-miedo",
+        "classImg": "icono-miedo",
+        "data": {
+            "text": "Miedo",
+            "src": "./assets/pics/graphics/figura24.png"
+        }
+    }, {
+        "x": "85%",
+        "y": "32%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "8%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "figura-der",
+        "data": {
+            "src": "./assets/pics/graphics/figura25.png"
+        }
+    }, {
+        "x": "-2%",
+        "y": "85%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "6%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "figura-izq",
+        "data": {
+            "src": "./assets/pics/graphics/figura25.png"
+        }
+    }, {
+        "x": "80%",
+        "y": "40%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "4%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "figura-der",
+        "data": {
+            "src": "./assets/pics/graphics/figura25.png"
+        }
+    }, {
+        "x": "90%",
+        "y": "60%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "8%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "figura-izq",
+        "data": {
+            "src": "./assets/pics/graphics/figura26.png"
+        }
+    }, {
+        "x": "80%",
+        "y": "65%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "10%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "figura-der",
+        "data": {
+            "src": "./assets/pics/graphics/figura26.png"
+        }
+    }, {
+        "x": "-42%",
+        "y": "42%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "100%",
+        "height": "4%",
+        "fontSize": "3.2em",
+        "tag": "tooltip-tag",
+        "class": "tooltip-author",
+        "id": "figura-tool-tristeza",
+        "data": {
+            "text": "Tristeza",
+            "src": "./assets/pics/graphics/figura10.png"
         }
     }
 ]

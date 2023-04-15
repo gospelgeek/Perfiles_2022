@@ -70,7 +70,7 @@
         "text": "Escuchar Audio",
         "icon": "./assets/pics/icons/escuchar.png",
         "data": {
-            "src": ""
+            "src": "./assets/audios/audio24.mp3"
         }
     },
     {
@@ -86,7 +86,7 @@
         "text": "Imprimir",
         "icon": "./assets/pics/icons/imprimir.png",
         "data": {
-            "url": "https://drive.google.com/file/d/1SQga6RgmNDd0a35XPHDeOAy0U0cIo60W/preview"
+            "url": "https://drive.google.com/file/d/15lFJs9FMVDYufx1VB1NvDiItPg_SDrcl/preview"
         }
     },
     {
@@ -99,12 +99,13 @@
         "fontSize": "3.3em",
         "tag": "modal",
         "id": "modalReflexion-p24",
-        "class": "button-read",
+        "class": "button-reflexion",
         "text": "Reflexionar",
         "icon": "./assets/pics/icons/reflexionar.png",
         "data": {
+            "print": "<a target='_blank' href='https://drive.google.com/file/d/1JltdMzKT5hkHWiCrbiqObPr8ppUcBIxk/view?usp=share_link'><img src='./assets/pics/icons/imprimir-modal.png'></a>",
             "title": "<br>Actividad práctica<br><br>",
-            "content": "Reflexionemos<br><br>1. ¿En qué ocasiones percibes tu situación como monótona y aburrida?<br><br><textarea rows='5' cols='50' id='input15' class='inputStorage' onchange='getValueInputs(24)'></textarea><br><br>2. ¿Qué haces cuando aparece el aburrimiento?<br><br><textarea rows='5' cols='50' id='input15' class='inputStorage' onchange='getValueInputs(24)'></textarea><br><br>3. Te invito a investigar en la Biblia sobre algunos personajes que experimentaron el aburrimiento y cómo lo afrontaron.<br><br>4. ¿Cuáles cambios puedes implementar para mejorar tu estado de ánimo?<br><br><textarea rows='5' cols='50' id='input15' class='inputStorage' onchange='getValueInputs(24)'></textarea><br><br>"
+            "content": "Reflexionemos<br><br>1. ¿En qué ocasiones percibes tu situación como monótona y aburrida?<br><br><textarea rows='5' cols='50' id='input24_1' class='inputStorage' onchange='getValueInputs(24)'></textarea><br><br>2. ¿Qué haces cuando aparece el aburrimiento?<br><br><textarea rows='5' cols='50' id='input24_2' class='inputStorage' onchange='getValueInputs(24)'></textarea><br><br>3. Te invito a investigar en la Biblia sobre algunos personajes que experimentaron el aburrimiento y cómo lo afrontaron.<br><br>4. ¿Cuáles cambios puedes implementar para mejorar tu estado de ánimo?<br><br><textarea rows='5' cols='50' id='input24_3' class='inputStorage' onchange='getValueInputs(24)'></textarea><br><br>"
         }
     }, {
         "x": "18%",
@@ -121,7 +122,7 @@
             "author": "Gladys Mabel Chavarria Valencia",
             "position": "Psicóloga Clínica",
             "year": "2022",
-            "src": "./assets/pics/photos/gladyschavarria.jpeg"
+            "src": "./assets/pics/photos/gladyschavarria.png"
         }
     }
 ]

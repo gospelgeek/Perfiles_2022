@@ -1,7 +1,20 @@
 [{
+        "x": "0%",
+        "y": "78%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "40%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "title-img",
+        "data": {
+            "src": "./assets/pics/titles/28.png"
+        }
+    }, {
 
-        "x": "48%",
-        "y": "1%",
+        "x": "46%",
+        "y": "2%",
         "viewX": 1800,
         "viewY": 50,
         "width": "20%",
@@ -13,17 +26,18 @@
             "src": "./assets/pics/icons/logo_perfiles.png"
         }
     }, {
-        "x": "0%",
-        "y": "-1%",
+        "x": "62%",
+        "y": "-1.5%",
         "viewX": 1800,
         "viewY": 50,
-        "width": "94%",
-        "height": "4%",
-        "fontSize": "2.8em",
-        "tag": "p",
+        "width": "80%",
+        "height": "4.2%",
+        "fontSize": "3.4em",
+        "tag": "section",
         "class": "section-magazine",
         "data": {
-            "content": "Soy emocional"
+            "src": "./assets/pics/icons/section-pink.png",
+            "content": "Soy un ser<br> emocional"
         }
     }, {
         "x": "16%",
@@ -60,7 +74,7 @@
         "height": "4%",
         "fontSize": "2.8em",
         "tag": "img",
-        "class": "",
+        "class": "barra_pestanas",
         "data": {
             "src": "./assets/pics/graphics/BarraPestanas.png"
         }
@@ -74,11 +88,12 @@
         "fontSize": "2.8em",
         "tag": "modal",
         "id": "modal-p29-1",
-        "class": "",
+        "class": "pestana1",
         "text": "Fortalece tu<br> relación con dios",
         "icon": "./assets/pics/graphics/pestana1.png",
         "data": {
-            "title": "<br>Fortalece tu relación con Dios<br><br>",
+            "title": "<br>",
+            "src": "./assets/pics/graphics/franja1.png",
             "content": "<li> Una vida de oración.  Jeremías 33:3; Mateo 6:6</li><br><li>Escudriñar y guardar la palabra de Dios. Santiago 1:22</li><br><li>Aprender y vivir el Amor de Dios.  Juan 13:34; 1 Corintios 13</li><br><li>Aprender a Perdonar.  Santiago 5:16; Colosenses 3:13</li><br><li>Viviendo en el Espíritu. Romanos 8:9</li><br><li>Vivir en comunión. 1 Juan 1:7</li> <br><li>Ocúpate en tu salvación. Filipenses 2:12-13</li><br><li>Sirviendo a Dios. Hebreos 12:28</li><br><li>Ten cuidado de ti misma.  1 Timoteo 4:16</li><br><li>Cuida de tu paz con Dios para permanecer en santidad. Hebreos 12:14</li><br><li>Alimenta tu mente con pensamientos que generen bienestar. Filipenses 4:8 </li><br><li>Practica el buen sentido del humor, opta por la alegría o risa a menudo. Proverbios 17:22.</li><br><br>"
         }
     }, {
@@ -91,11 +106,12 @@
         "fontSize": "2.8em",
         "tag": "modal",
         "id": "modal-p29-2",
-        "class": "",
+        "class": "pestana2",
         "text": "Fortalece tu<br> relación contigo misma",
         "icon": "./assets/pics/graphics/pestana2.png",
         "data": {
-            "title": "<br>Fortalece tu relación contigo misma<br><br>",
+            "title": "<br>",
+            "src": "./assets/pics/graphics/franja2.png",
             "content": "<li>Reconoce, valida, expresa y gestiona adecuadamente tus emociones, evita quedarte estancada en la en la ansiedad, la depresión u otros estados de ánimo negativos.</li><br><li>Presta atención a tus propias necesidades y sentimientos. No dejes que las emociones negativas y el estrés se acumulen.</li><br><li>Mantén una alimentación sana y equilibrada. </li><br><li>Realiza actividad física, ejercicio, evita una vida sedentaria.</li><br><li>Practica la salud preventiva, chequeos médicos periódicos y atiende tu salud.</li><br><li>Cuida el equilibrio entre el trabajo, recreación y descanso.</li><br><li>Organiza tu tiempo, usa una agenda y programa tu día a día.</li><br><li>Distingue lo que es tu responsabilidad y la de otros. No asumas lo que no es tu responsabilidad.</li><br><li>Se flexible para aprender cosas nuevas y adaptarte rápidamente a los cambios. </li><br><li>Aprende estrategias de afrontamiento para manejar el estrés y las emociones negativas.<br><br>"
         }
     }, {
@@ -108,11 +124,12 @@
         "fontSize": "2.8em",
         "tag": "modal",
         "id": "modal-p29-3",
-        "class": "",
+        "class": "pestana3",
         "text": "Fortalece tu<br> relación con otros",
         "icon": "./assets/pics/graphics/pestana3.png",
         "data": {
-            "title": "<br>Fortalece tu relación con otros<br><br>",
+            "title": "<br>",
+            "src": "./assets/pics/graphics/franja3.png",
             "content": "<li>Fortalece tus relaciones, dedícales tiempo de calidad.</li><br><li>No dudes en buscar el apoyo en los momentos difíciles, de amigos de confianza, miembros de tu familia, de la iglesia, tu pastor, un consejero o ayuda profesional si lo requieres.</li><br><li>Date la oportunidad de ampliar tu red de amigos y conocer personas significativas.</li><br><br>"
         }
     },
@@ -121,7 +138,7 @@
         "viewX": 100,
         "viewY": 30,
         "height": "4%",
-        "width": "11%",
+        "width": "12%",
         "fontSize": "0.6em",
         "tag": "share",
         "id": "button-fb",
@@ -138,7 +155,7 @@
         "viewX": 100,
         "viewY": 30,
         "height": "4%",
-        "width": "11%",
+        "width": "12%",
         "fontSize": "0.6em",
         "tag": "share",
         "id": "button-wpp",
@@ -155,7 +172,7 @@
         "viewX": 100,
         "viewY": 30,
         "height": "4%",
-        "width": "11%",
+        "width": "12%",
         "fontSize": "0.6em",
         "tag": "share",
         "id": "button-twi",

@@ -1,4 +1,17 @@
 [{
+        "x": "0%",
+        "y": "80%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "50%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "title-img",
+        "data": {
+            "src": "./assets/pics/titles/46.png"
+        }
+    }, {
         "x": "2%",
         "y": "6%",
         "viewX": 1800,
@@ -22,7 +35,7 @@
         "tag": "p",
         "class": "text-introductory",
         "data": {
-            "content": "La palabra de Dios tiene varios relatos de personajes biblícos que afrontaron el duele en diversos momentos de su vida; tenemos a Marta y María, Rut y David, la viuda de Naín, Job y María, entre otros. Estas historias nos permiten entender lo natural y común que es el duelo entre los seres humanos, como también la importancia y el cuidado del Señor a los dolientes que están atravesándolo"
+            "content": "La palabra de Dios tiene varios relatos de personajes biblícos que afrontaron el duelo en diversos momentos de su vida; tenemos a Marta y María, Rut y David, la viuda de Naín, Job y María, entre otros. Estas historias nos permiten entender lo natural y común que es el duelo entre los seres humanos, como también la importancia y el cuidado del Señor a los dolientes que están atravesándolo"
         }
     },
     {
@@ -57,7 +70,7 @@
         "text": "Escuchar Audio",
         "icon": "./assets/pics/icons/escuchar.png",
         "data": {
-            "src": ""
+            "src": "./assets/audios/audio47.mp3"
         }
     },
     {
@@ -73,24 +86,7 @@
         "text": "Imprimir",
         "icon": "./assets/pics/icons/imprimir.png",
         "data": {
-            "url": "https://drive.google.com/file/d/1SQga6RgmNDd0a35XPHDeOAy0U0cIo60W/preview"
-        }
-    },
-    {
-        "x": "70%",
-        "y": "41%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "83%",
-        "height": "10%",
-        "fontSize": "3.3em",
-        "tag": "modal",
-        "id": "modalReflexion-p47",
-        "class": "button-read",
-        "text": "Reflexionar",
-        "icon": "./assets/pics/icons/leer.png",
-        "data": {
-            "title": "<br><br><br>"
+            "url": "https://drive.google.com/file/d/1GNbdieVFPEvERUktEd5YBMTUmLrrBeAN/preview"
         }
     }
 ]

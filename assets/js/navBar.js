@@ -10,11 +10,11 @@ const createThumb = (pages) => {
         for (let i = 1; i <= pages; i++) {
 
             if (i == 1 || i == pages) {
-                listThumbs.append($('<div/>', { id: 'page-thumb', class: 'page-thumb single-page options' }).append($('<p/>', { class: 'options' }).html("" + i), $('<div/>', { class: 'page-img options', 'onclick': 'goPage(' + i + ')' }).append($('<img/>', { class: 'options' + i, src: './assets/pages-img/' + i + '.jpg' }))))
+                listThumbs.append($('<div/>', { id: 'page-thumb', class: 'page-thumb single-page options' }).append($('<p/>', { class: 'options' }).html("" + i), $('<div/>', { class: 'page-img options', 'onclick': 'goPage(' + i + ')' }).append($('<img/>', { class: 'options' + i, src: './assets/pics/thumbnails/' + i + '.jpg' }))))
             } else if (i % 2 == 0) {
-                listThumbs.append($('<div/>', { id: 'page-thumb', class: 'page-thumb left-page options' }).append($('<p/>', { class: 'options' }).html("" + i), $('<div/>', { class: 'page-img options', 'onclick': 'goPage(' + i + ')' }).append($('<img/>', { class: 'options' + i, src: './assets/pages-img/' + i + '.jpg' }))))
+                listThumbs.append($('<div/>', { id: 'page-thumb', class: 'page-thumb left-page options' }).append($('<p/>', { class: 'options' }).html("" + i), $('<div/>', { class: 'page-img options', 'onclick': 'goPage(' + i + ')' }).append($('<img/>', { class: 'options' + i, src: './assets/pics/thumbnails/' + i + '.jpg' }))))
             } else {
-                listThumbs.append($('<div/>', { id: 'page-thumb', class: 'page-thumb right-page options' }).append($('<p/>', { class: 'options' }).html("" + i), $('<div/>', { class: 'page-img options', 'onclick': 'goPage(' + i + ')' }).append($('<img/>', { class: 'options' + i, src: './assets/pages-img/' + i + '.jpg' }))))
+                listThumbs.append($('<div/>', { id: 'page-thumb', class: 'page-thumb right-page options' }).append($('<p/>', { class: 'options' }).html("" + i), $('<div/>', { class: 'page-img options', 'onclick': 'goPage(' + i + ')' }).append($('<img/>', { class: 'options' + i, src: './assets/pics/thumbnails/' + i + '.jpg' }))))
             }
         }
 
@@ -117,4 +117,6 @@ document.addEventListener('click', function(event) {
         wordSearch.value = ""
         $(".result-search").css({ display: 'none' });
     }
+
+    hideAudio()
 });

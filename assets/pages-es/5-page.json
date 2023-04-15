@@ -1,15 +1,15 @@
 [{
-    "x": "0%",
-    "y": "-1%",
+    "x": "28%",
+    "y": "2%",
     "viewX": 1800,
     "viewY": 50,
-    "width": "94%",
+    "width": "20%",
     "height": "4%",
     "fontSize": "2.8em",
-    "tag": "p",
-    "class": "section-magazine",
+    "tag": "img",
+    "class": "title_page",
     "data": {
-        "content": "Editorial"
+        "src": "./assets/pics/titles/5.png"
     }
 }, {
     "x": "0",
@@ -23,5 +23,115 @@
     "class": "title",
     "data": {
         "content": "Legal"
+    }
+}, {
+    "x": "2%",
+    "y": "10%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "43%",
+    "height": "4%",
+    "fontSize": "4.9em",
+    "zIndex": 200,
+    "tag": "p",
+    "class": "text-introductory",
+    "data": {
+        "content": "<span>PERFILES</span><br>Revista del Comité Nacional de Asesoría y Acompañamiento de Damas Dorcas - MUJER IPUC EDICIÓN 16 - ISNN 2346-0385 - Año 2022<br> <span>Dirección General</span><br>Cómite Nacional de AsesorÍa y<br> Acompañamiento Damas Dorcas<br><span>Edición</span><br>Departamento nacional de<br>Comunicaciones, DECOM<br><span>Desarrollo Web</span><br>Samuel Ramirez<br>Nataly Portillo Velasco<br><span>Animaciones</span><br><a style='text-decoration: none; cursor: pointer; z-index: 20000; color: #000;' href='https://www.instagram.com/soydarso/' target='_blank'>Kevin Sánchez Dulcey</a><br><span>Diseño Gráfico</span><br>Carolina Ceballos Escobar<br><span>Revisión de Estilo</span><br>David Arbey Sánchez Martinez<br><span>Revisión Teológica</span><br>Gildardo Gómez<br><span>Asesoria de Contenido</span><br>Carolina Henao<br><span>Fotografía</span><br>Archivo Decom<br>Archivo Damas Dorcas<br><span>Voces</span><br>Edgar Beltrán - Danny Lizeth Ordóñez Bolaños - Aura María Giraldo Suárez - Judith Ramírez de Rico - Maria Julieth Hormiga - Saraith Gabriela Giraldo<br><span>Versión Digital</span><br>Iglesia Pentecostal Unida de Colombia<br>Diciembre 2022"
+    }
+}, {
+    "x": "50%",
+    "y": "2%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "90%",
+    "height": "70%",
+    "fontSize": "2.8em",
+    "tag": "video",
+    "class": "video-iframe",
+    "data": {
+        "src": "https://www.youtube.com/embed/H6FosFQdBjo"
+    }
+}, {
+    "x": "54%",
+    "y": "30%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "40%",
+    "height": "4%",
+    "fontSize": "2.8em",
+    "tag": "img",
+    "class": "",
+    "data": {
+        "src": "./assets/pics/titles/siguenos.png"
+    }
+}, {
+    "x": "60%",
+    "y": "38%",
+    "viewX": 1800,
+    "viewY": 1000,
+    "width": "28%",
+    "height": "4%",
+    "fontSize": "2.8em",
+    "tag": "a",
+    "class": "icon-ipuc",
+    "data": {
+        "href": "https://mujer.ipuc.org.co/",
+        "content": "<img src='./assets/pics/icons/mujerIpuc.png'>"
+    }
+}, {
+    "x": "58%",
+    "y": "52%",
+    "viewX": 1800,
+    "viewY": 50,
+    "width": "100%",
+    "height": "4%",
+    "fontSize": "5em",
+    "tag": "a",
+    "class": "link-page",
+    "data": {
+        "href": "https://mujer.ipuc.org.co/",
+        "content": "<p>https://mujer.ipuc.org.co/</p>"
+    }
+}, {
+    "x": "60%",
+    "y": "59%",
+    "viewX": 1800,
+    "viewY": 150,
+    "width": "100%",
+    "height": "4%",
+    "fontSize": "5em",
+    "tag": "a",
+    "class": "link-face",
+    "data": {
+        "href": "https://www.facebook.com/mujeripuc",
+        "content": "<p>@mujeripuc</p><img src='./assets/pics/icons/face.png'>"
+    }
+}, {
+    "x": "60%",
+    "y": "66%",
+    "viewX": 1800,
+    "viewY": 150,
+    "width": "100%",
+    "height": "4%",
+    "fontSize": "5em",
+    "tag": "a",
+    "class": "link-insta",
+    "data": {
+        "href": "https://www.instagram.com/mujeripuc_oficial/",
+        "content": "<p>@mujeripuc_oficial</p><img src='./assets/pics/icons/insta.png'>"
+    }
+}, {
+    "x": "60%",
+    "y": "73%",
+    "viewX": 1800,
+    "viewY": 150,
+    "width": "100%",
+    "height": "4%",
+    "fontSize": "5em",
+    "tag": "a",
+    "class": "link-youtube",
+    "data": {
+        "href": "https://www.youtube.com/channel/UCgq826964Ng6BvRRaFNsC8Q",
+        "content": "<p>@mujeripuc_oficial</p><img src='./assets/pics/icons/youtube2.png'>"
     }
 }]

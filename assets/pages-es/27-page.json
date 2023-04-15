@@ -1,7 +1,7 @@
 [{
 
-        "x": "48%",
-        "y": "1%",
+        "x": "46%",
+        "y": "2%",
         "viewX": 1800,
         "viewY": 50,
         "width": "20%",
@@ -13,17 +13,18 @@
             "src": "./assets/pics/icons/logo_perfiles.png"
         }
     }, {
-        "x": "0%",
-        "y": "-1%",
+        "x": "62%",
+        "y": "-1.5%",
         "viewX": 1800,
         "viewY": 50,
-        "width": "94%",
-        "height": "4%",
-        "fontSize": "2.8em",
-        "tag": "p",
+        "width": "80%",
+        "height": "4.2%",
+        "fontSize": "3.4em",
+        "tag": "section",
         "class": "section-magazine",
         "data": {
-            "content": "Soy emocional"
+            "src": "./assets/pics/icons/section-pink.png",
+            "content": "Soy un ser<br> emocional"
         }
     }, {
         "x": "13%",
@@ -53,7 +54,7 @@
         }
     }, {
         "x": "21%",
-        "y": "24%",
+        "y": "21%",
         "viewX": 1800,
         "viewY": 50,
         "width": "80%",
@@ -62,25 +63,12 @@
         "tag": "p",
         "class": "text-introductory",
         "data": {
-            "content": "Todas hemos experimentado el enojo, lo hemos sentido en diferentes momentos de la vida diaria, este como todas las emociones también es pasajero; es decir, de corta duración. Cuando sentimos el enojo vamos a tener la oportunidad de tomar una decisión frente al acontecimiento o situación que lo ocasionó, lo ideal es que podamos tener la capacidad de gestionarlo de manera sabia e inteligente, como lo recomienda la Palabra del Señor: “La blanda respuestas quita la ira…” (Proverbios 15:1-5)."
-        }
-    }, {
-        "x": "83%",
-        "y": "55%",
-        "viewX": 1800,
-        "viewY": 50,
-        "width": "8%",
-        "height": "4%",
-        "fontSize": "2.8em",
-        "tag": "img",
-        "class": "arrow-text",
-        "data": {
-            "src": "./assets/pics/icons/Flechatexto.png"
+            "content": "Todas hemos experimentado el enojo, lo hemos sentido en diferentes momentos de la vida diaria, este como todas las emociones también es pasajero; es decir, de corta duración. Cuando sentimos el enojo vamos a tener la oportunidad de tomar una decisión frente al acontecimiento o situación que lo ocasionó, lo ideal es que podamos tener la capacidad de gestionarlo de manera sabia e inteligente, como lo recomienda la Palabra del Señor: “La blanda respuestas quita la ira…” (Proverbios 15:1-5).<br><img src='./assets/pics/icons/Flechatexto.png' style='width:10%!important; transform: rotate(90deg); position:relative; margin-left:88%'>"
         }
     },
     {
-        "x": "71%",
-        "y": "65%",
+        "x": "19%",
+        "y": "62%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
@@ -97,8 +85,8 @@
         }
     },
     {
-        "x": "60.5%",
-        "y": "70%",
+        "x": "19%",
+        "y": "67%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
@@ -110,12 +98,12 @@
         "text": "Escuchar Audio",
         "icon": "./assets/pics/icons/escuchar.png",
         "data": {
-            "src": ""
+            "src": "./assets/audios/audio27.mp3"
         }
     },
     {
-        "x": "71.5%",
-        "y": "75%",
+        "x": "19%",
+        "y": "72%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
@@ -126,12 +114,12 @@
         "text": "Imprimir",
         "icon": "./assets/pics/icons/imprimir.png",
         "data": {
-            "url": "https://drive.google.com/file/d/1SQga6RgmNDd0a35XPHDeOAy0U0cIo60W/preview"
+            "url": "https://drive.google.com/file/d/1vZY0QHOEp1WEu3aytEzQJo1wAbznfCCR/preview"
         }
     },
     {
-        "x": "65.5%",
-        "y": "80%",
+        "x": "19%",
+        "y": "77%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
@@ -143,25 +131,9 @@
         "text": "Reflexionar",
         "icon": "./assets/pics/icons/reflexionar.png",
         "data": {
+            "print": "<a target='_blank' href='https://drive.google.com/file/d/1VumCgQwNUvdWEXX9J4eFsa5b-ZByzbk4/view?usp=share_link'><img src='./assets/pics/icons/imprimir-modal.png'></a>",
             "title": "<br><span>Reflexionemos juntas</span><br><br>",
-            "content": "A continuación, encontrarás las características de una mujer dominada por el enojo, y otra que tiene un manejo de sus emociones. Elige las actitudes que te identifican y trabaja en fortalecer las positivas; las negativas trabájalas también, reemplazándolas poco a poco por mejores actitudes.<br><br><div class='table-p27'><div class='table-p27-1'><span>Mujer sin Dominio Propio</span><br><div><input type='checkbox' name='' id=''><label for=''>Irreflexiva e impulsiva</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Se deja engañar fácilmente por sus pensamientos.</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Se preocupa demasiado por lo que dicen los demás </label></div><br><div><input type='checkbox' name='' id=''><label for=''> Carece de discernimiento; no es precavida permite cualquier influencia.</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Busca escapar de la presión y los problemas</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Alimenta la carne, su carne controla el espíritu.</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Se enfoca en el aquí y el ahora, piensa poco o nada en la eternidad.Es una víctima de su circunstancia y pasado. </label></div><br><div><input type='checkbox' name='' id=''><label for=''> Vive centrada en sí misma “¿Cómo me afecta esto a mí?”</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Es mentalmente inestable.</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Tiene buenas intenciones, pero no cumple lo que promete.</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Es manipuladora, hace justicia por su propia mano.</label></div></div><div class='spacer'></div><div class='table-p27-2'><span>Mujer con Dominio Propio</span><br><div><input type='checkbox' name='' id=''><label for=''>Ejerce control y dominio propio</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Trae todo pensamiento cautivo a la obediencia de Cristo.</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Teme al Señor, vive para su aprobación.</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Es precavida y discierne lo que lee, mira y escucha.</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Está dispuesta a soportar dificultades por causa de una recompensa superior.</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Alimenta el espíritu, controla la carne; está alerta espiritual, mental y moralmente.</label></div><br><div><input type='checkbox' name='' id=''><label for=''>ITiene una perspectiva eterna, ve el aquí y ahora a la luz de la eternidad.</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Vive centrada en otros “¿cómo afecta mi conducta a los demás?”</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Es sana, estable, tiene sus pensamientos fijos en el Señor.</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Cumple sus compromisos; desarrolla disciplinas piadosas.</label></div><br><div><input type='checkbox' name='' id=''><label for=''>Vive confiada en el Señor y espera en Él para actuar, le deja a Él el juicio.</label><br><br></div></div>"
-        }
-    }, {
-        "x": "17%",
-        "y": "18%",
-        "viewX": 1800,
-        "viewY": 50,
-        "width": "77%",
-        "height": "4%",
-        "fontSize": "3.2em",
-        "tag": "tooltip",
-        "class": "tooltip-author",
-        "id": "author27",
-        "data": {
-            "author": "Yaneth Arrechea Vargas",
-            "position": "Licenciada en ciencias sociales, filosofia y ciencias religiosas",
-            "year": "2022",
-            "src": "./assets/pics/photos/yanetharrechea.jpeg"
+            "content": "A continuación, encontrarás las características de una mujer dominada por el enojo, y otra que tiene un manejo de sus emociones. Elige las actitudes que te identifican y trabaja en fortalecer las positivas; las negativas trabájalas también, reemplazándolas poco a poco por mejores actitudes.<br><br><table><tr><th>Mujer sin Dominio Propio</th><th>Mujer con Dominio Propio</th></tr><tr><td><input type='checkbox' name='' id='cbox27_1' onchange='getValueInputs(26)'><label for=''>- Irreflexiva e impulsiva</label></td><td><input type='checkbox' name='' id='cbox27_12' onchange='getValueInputs(26)'><label for=''>- Ejerce control y dominio propio</label></td></tr><tr><td><input type='checkbox' name='' id='cbox27_2' onchange='getValueInputs(26)'><label for=''>- Se deja engañar fácilmente por sus pensamientos.</label></td><td><input type='checkbox' name='' id='cbox27_13' onchange='getValueInputs(26)'><label for=''>- Trae todo pensamiento cautivo a la obediencia de Cristo.</label></td></tr><tr><td><input type='checkbox' name='' id='cbox27_3' onchange='getValueInputs(26)'><label for=''>- Se preocupa demasiado por lo que dicen los demás </label></td><td><input type='checkbox' name='' id='cbox27_14' onchange='getValueInputs(26)'><label for=''>- Teme al Señor, vive para su aprobación.</label></td></tr><tr><td> <input type='checkbox' name='' id='cbox27_4' onchange='getValueInputs(26)'><label for=''>- Carece de discernimiento; no es precavida permite cualquier influencia.</label></td><td><input type='checkbox' name='' id='cbox27_15' onchange='getValueInputs(26)'><label for=''>- Es precavida y discierne lo que lee, mira y escucha.</label></td></tr><tr><td><input type='checkbox' name='' id='cbox27_5' onchange='getValueInputs(26)'><label for=''>- Busca escapar de la presión y los problemas</label></td><td><input type='checkbox' name='' id='cbox27_16' onchange='getValueInputs(26)'><label for=''>- Está dispuesta a soportar dificultades por causa de una recompensa superior.</label></td></tr><tr><td><input type='checkbox' name='' id='cbox27_6' onchange='getValueInputs(26)'><label for=''>- Alimenta la carne, su carne controla el espíritu.</label></td><td><input type='checkbox' name='' id='cbox27_17' onchange='getValueInputs(26)'><label for=''>- Alimenta el espíritu, controla la carne; está alerta espiritual, mental y moralmente.</label></td></tr><tr><td> <input type='checkbox' name='' id='cbox27_7' onchange='getValueInputs(26)'><label for=''>- Se enfoca en el aquí y el ahora, piensa poco o nada en la eternidad.Es una víctima de su circunstancia y pasado. </label></td><td><input type='checkbox' name='' id='cbox27_18' onchange='getValueInputs(26)'><label for=''>- ITiene una perspectiva eterna, ve el aquí y ahora a la luz de la eternidad.</label></td></tr><tr><td><input type='checkbox' name='' id='cbox27_8' onchange='getValueInputs(26)'><label for=''>- Vive centrada en sí misma “¿Cómo me afecta esto a mí?”</label></td><td><input type='checkbox' name='' id='cbox27_19' onchange='getValueInputs(26)'><label for=''>- Vive centrada en otros “¿cómo afecta mi conducta a los demás?”</label></td></tr><tr><td><input type='checkbox' name='' id='cbox27_9' onchange='getValueInputs(26)'><label for=''>- Es mentalmente inestable.</label></td><td><input type='checkbox' name='' id='cbox27_20' onchange='getValueInputs(26)'><label for=''>- Es sana, estable, tiene sus pensamientos fijos en el Señor.</label></td></tr><tr><td><input type='checkbox' name='' id='cbox27_10' onchange='getValueInputs(26)'><label for=''>- Tiene buenas intenciones, pero no cumple lo que promete.</label></td><td><input type='checkbox' name='' id='cbox27_21' onchange='getValueInputs(26)'><label for=''>- Cumple sus compromisos; desarrolla disciplinas piadosas.</label></td></tr><tr><td><input type='checkbox' name='' id='cbox27_11' onchange='getValueInputs(26)'><label for=''>- Es manipuladora, hace justicia por su propia mano.</label></td><td><input type='checkbox' name='' id='cbox27_22' onchange='getValueInputs(26)'><label for=''>- Vive confiada en el Señor y espera en Él para actuar, le deja a Él el juicio.</label></td></tr></table><br><br>"
         }
     }
 ]

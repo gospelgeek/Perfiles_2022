@@ -1,7 +1,7 @@
 [{
 
-        "x": "48%",
-        "y": "1%",
+        "x": "45%",
+        "y": "2%",
         "viewX": 1800,
         "viewY": 50,
         "width": "20%",
@@ -13,40 +13,41 @@
             "src": "./assets/pics/icons/logo_perfiles.png"
         }
     }, {
-        "x": "0%",
-        "y": "-1%",
+        "x": "62%",
+        "y": "-1.5%",
         "viewX": 1800,
         "viewY": 50,
-        "width": "94%",
-        "height": "4%",
-        "fontSize": "2.8em",
-        "tag": "p",
+        "width": "80%",
+        "height": "4.2%",
+        "fontSize": "3.4em",
+        "tag": "section",
         "class": "section-magazine",
         "data": {
-            "content": "Soy emocional"
+            "src": "./assets/pics/icons/section-pink.png",
+            "content": "Soy un ser<br> emocional"
         }
     }, {
-        "x": "8%",
-        "y": "16%",
+        "x": "50%",
+        "y": "14%",
         "viewX": 1800,
         "viewY": 50,
-        "width": "83%",
+        "width": "45%",
         "height": "4%",
-        "fontSize": "3.7em",
+        "fontSize": "6em",
         "tag": "p",
         "class": "text-introductory",
         "data": {
-            "content": "La aversión es una emoción básica e innata que vemos presente en nuestra vida a través de situaciones cotidianas, se manifiesta específicamente causando sensación de asco, fastidio y aborrecimiento hacia algo o alguien."
+            "content": "La aversión es una emoción básica e innata que vemos presente en nuestra vida a través de situaciones cotidianas, se manifiesta específicamente causando sensación de asco, fastidio y aborrecimiento hacia algo o alguien.<br><br>Esta emoción en sí misma no es mala, solemos estigmatizarla como algo negativo que podemos sentir; sin embargo, debemos reconocerla como una emoción útil y necesaria."
         }
     },
     {
-        "x": "70%",
-        "y": "35%",
+        "x": "75%",
+        "y": "60%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
         "height": "10%",
-        "fontSize": "3.7em",
+        "fontSize": "3.3em",
         "tag": "modal",
         "id": "modal-p19",
         "class": "button-read",
@@ -58,41 +59,41 @@
         }
     },
     {
-        "x": "58%",
-        "y": "40%",
+        "x": "64.3%",
+        "y": "65%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
         "height": "4%",
-        "fontSize": "3.7em",
+        "fontSize": "3.3em",
         "tag": "audio",
         "id": "audio19",
         "class": "btn-audio",
         "text": "Escuchar Audio",
         "icon": "./assets/pics/icons/escuchar.png",
         "data": {
-            "src": ""
+            "src": "./assets/audios/audio19.mp3"
         }
     },
     {
-        "x": "70%",
-        "y": "45%",
+        "x": "75.6%",
+        "y": "70%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
         "height": "4%",
-        "fontSize": "3.7em",
+        "fontSize": "3.3em",
         "tag": "print",
         "class": "button-print",
         "text": "Imprimir",
         "icon": "./assets/pics/icons/imprimir.png",
         "data": {
-            "url": "https://drive.google.com/file/d/1SQga6RgmNDd0a35XPHDeOAy0U0cIo60W/preview"
+            "url": "https://drive.google.com/file/d/1JdVDUTyJppozYDyzhuSgLtuo3wnCMHfb/preview"
         }
     },
     {
-        "x": "66%",
-        "y": "50%",
+        "x": "70%",
+        "y": "75%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
@@ -100,12 +101,26 @@
         "fontSize": "3.3em",
         "tag": "modal",
         "id": "modalReflexion-p19",
-        "class": "button-read",
+        "class": "button-reflexion",
         "text": "Reflexionar",
-        "icon": "./assets/pics/icons/leer.png",
+        "icon": "./assets/pics/icons/reflexionar.png",
         "data": {
+            "print": "<a target='_blank' href='https://drive.google.com/file/d/1M9H7DqJFQs6c-v3pUOrGvXmwoLp4_BFg/view?usp=share_link'><img src='./assets/pics/icons/imprimir-modal.png'></a>",
             "title": "<br>Actividad práctica y reflexiva<br><br>",
-            "content": "Teniendo en cuenta que, la emoción de aversión o asco es importante para la supervivencia y la seguridad, y que su función principal es protegernos de situaciones desagradables, y potencialmente peligrosas para nuestra vida espiritual; relaciona en la ficha, al frente de los cuatro pecados enumerados, ¿cómo sentir el rechazo sobre éste, te ayuda o te previene de un riesgo?<br><br>Sentir aversión al pecado de… <span>la fornicación</span><br><br>Me ayuda a protegerme de…<br><textarea rows='5' cols='50' id='input' class='inputStorage' onchange='getValueInputs(19)'></textarea><br><br>Sentir aversión al pecado de… <span>Envidia </span><br><br>Me ayuda a protegerme de…<br><textarea rows='5' cols='50' id='input' class='inputStorage' onchange='getValueInputs(19)'></textarea><br><br>Sentir aversión al pecado de… <span>Soberbia </span><br><br>Me ayuda a protegerme de…<br><textarea rows='5' cols='50' id='input' class='inputStorage' onchange='getValueInputs(19)'></textarea><br><br>Sentir aversión al pecado de… <span>Codicia </span><br><br>Me ayuda a protegerme de…<br><textarea rows='5' cols='50' id='input' class='inputStorage' onchange='getValueInputs(19)'></textarea><br><br>"
+            "content": "Teniendo en cuenta que, la emoción de aversión o asco es importante para la supervivencia y la seguridad, y que su función principal es protegernos de situaciones desagradables, y potencialmente peligrosas para nuestra vida espiritual; relaciona en la ficha, al frente de los cuatro pecados enumerados, ¿cómo sentir el rechazo sobre éste, te ayuda o te previene de un riesgo?<br><br>Sentir aversión al pecado de… <span>la fornicación</span><br><br>Me ayuda a protegerme de…<br><textarea rows='5' cols='50' id='input19_1' class='inputStorage' onchange='getValueInputs(18)'></textarea><br><br>Sentir aversión al pecado de… <span>Envidia </span><br><br>Me ayuda a protegerme de…<br><textarea rows='5' cols='50' id='input19_2' class='inputStorage' onchange='getValueInputs(18)'></textarea><br><br>Sentir aversión al pecado de… <span>Soberbia </span><br><br>Me ayuda a protegerme de…<br><textarea rows='5' cols='50' id='input19_3' class='inputStorage' onchange='getValueInputs(18)'></textarea><br><br>Sentir aversión al pecado de… <span>Codicia </span><br><br>Me ayuda a protegerme de…<br><textarea rows='5' cols='50' id='input19_4' class='inputStorage' onchange='getValueInputs(18)'></textarea><br><br>"
+        }
+    }, {
+        "x": "10%",
+        "y": "5%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "64%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "title-img",
+        "data": {
+            "src": "./assets/pics/titles/18.png"
         }
     }
 ]

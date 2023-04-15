@@ -1,7 +1,20 @@
 [{
+        "x": "0%",
+        "y": "-2%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "50%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "title-img",
+        "data": {
+            "src": "./assets/pics/titles/40.png"
+        }
+    }, {
 
-        "x": "48%",
-        "y": "1%",
+        "x": "46%",
+        "y": "2%",
         "viewX": 1800,
         "viewY": 50,
         "width": "20%",
@@ -13,17 +26,18 @@
             "src": "./assets/pics/icons/logo_perfiles.png"
         }
     }, {
-        "x": "0%",
+        "x": "62%",
         "y": "-1%",
         "viewX": 1800,
         "viewY": 50,
-        "width": "94%",
-        "height": "4%",
-        "fontSize": "2.8em",
-        "tag": "p",
+        "width": "150%",
+        "height": "4.2%",
+        "fontSize": "2em",
+        "tag": "section",
         "class": "section-magazine",
         "data": {
-            "content": "Recursos divinos"
+            "src": "./assets/pics/icons/section-yellow.png",
+            "content": "Recursos <br> divinos"
         }
     }, {
         "x": "41%",
@@ -84,11 +98,11 @@
         "text": "Escuchar Audio",
         "icon": "./assets/pics/icons/escuchar.png",
         "data": {
-            "src": ""
+            "src": "./assets/audios/audio41.mp3"
         }
     },
     {
-        "x": "71%",
+        "x": "70.5%",
         "y": "58%",
         "viewX": 1800,
         "viewY": 100,
@@ -100,11 +114,11 @@
         "text": "Imprimir",
         "icon": "./assets/pics/icons/imprimir.png",
         "data": {
-            "url": "https://drive.google.com/file/d/1SQga6RgmNDd0a35XPHDeOAy0U0cIo60W/preview"
+            "url": "https://drive.google.com/file/d/1LOaJNnNIdRSCueK8AAGdq-6A-AhGIVlM/view?usp=sharing"
         }
     },
     {
-        "x": "65.5%",
+        "x": "64.5%",
         "y": "63%",
         "viewX": 1800,
         "viewY": 100,
@@ -115,9 +129,11 @@
         "id": "modalReflexion-p41",
         "class": "button-read",
         "text": "Reflexionar",
-        "icon": "./assets/pics/icons/leer.png",
+        "icon": "./assets/pics/icons/reflexionar.png",
         "data": {
-            "title": "<br><br><br>"
+            "print": "<a target='_blank' href='https://drive.google.com/file/d/1hlUIevl6-Lb2N__I7EuVUrIAKyME5IGD/view?usp=share_link'><img src='./assets/pics/icons/imprimir-modal.png'></a>",
+            "title": "<br>RETO PERSONAL<br><br>",
+            "content": "<li>Toma un momento, piensa y decide: ¿A qué hora del día o de la noche, pudieras destinar diariamente para tener un encuentro con la Palabra de Dios?</li><br><li>Destina una agenda, libreta o cuaderno, para extraer allí, las cosas que te llaman la atención de la lectura bíblica diaria.</li><br><li>Ten a la mano hojas y un lapicero o marcador, para que escribas el versículo que durante la semana te impacto: hazlo y colócalo en un lugar visible o donde pases la mayor parte de tu tiempo (Escritorio, alcoba, una pared, la nevera…) y puedas visualizarlo continuamente, con el propósito de memorizar un texto bíblico por semana. (Puedes buscar un verso bíblico que te ayude a superar alguna debilidad, te ayude a formar tu carácter, o te oriente sobre alguna emoción en la que quieras trabajar.)</li><br><span>ACTIVIDAD PRÁCTICA</span><br><br>1. Une con una línea, el Versículo que te guía en esa emoción.<br><br><span>MIEDO</SPAN><br><select name='select' id='select41_1' onchange='getAnswerSelectp41(this)'><option value='value0'>---</option><option value='value1'>1ª PEDRO 5:7</option><option value='value2'>SALMOS 34:18</option><option value='value3'>ISAÍAS 41:13</option><option value='value4'>SALMOS 3:3</option><option value='value5'>SALMOS 37:8</option></select><br><br><span>ANSIEDAD</SPAN><br><select name='select' id='select41_2' onchange='getAnswerSelectp41(this)'><option value='value0'>---</option><option value='value1'>1ª PEDRO 5:7</option><option value='value2'>SALMOS 34:18</option><option value='value3'>ISAÍAS 41:13</option><option value='value4'>SALMOS 3:3</option><option value='value5'>SALMOS 37:8</option></select><br><br><span>TRISTEZA</SPAN><br><select name='select' id='select41_3' onchange='getAnswerSelectp41(this)'><option value='value0'>---</option><option value='value1'>1ª PEDRO 5:7</option><option value='value2'>SALMOS 34:18</option><option value='value3'>ISAÍAS 41:13</option><option value='value4'>SALMOS 3:3</option><option value='value5'>SALMOS 37:8</option></select><br><br><span>ENOJO</SPAN><br><select name='select' id='select41_4' onchange='getAnswerSelectp41(this)'><option value='value0'>---</option><option value='value1'>1ª PEDRO 5:7</option><option value='value2'>SALMOS 34:18</option><option value='value3'>ISAÍAS 41:13</option><option value='value4'>SALMOS 3:3</option><option value='value5'>SALMOS 37:8</option></select><br><br><span>DEPRESIÓN</SPAN><br><select name='select' id='select41_5' onchange='getAnswerSelectp41(this)'><option value='value0'>---</option><option value='value1'>1ª PEDRO 5:7</option><option value='value2'>SALMOS 34:18</option><option value='value3'>ISAÍAS 41:13</option><option value='value4'>SALMOS 3:3</option><option value='value5'>SALMOS 37:8</option></select><br><br>"
         }
     }
 ]

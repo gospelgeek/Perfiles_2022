@@ -1,6 +1,19 @@
 [{
-        "x": "48%",
-        "y": "1%",
+        "x": "10%",
+        "y": "5%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "77%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "title-img",
+        "data": {
+            "src": "./assets/pics/titles/16.png"
+        }
+    }, {
+        "x": "45%",
+        "y": "2%",
         "viewX": 1800,
         "viewY": 50,
         "width": "20%",
@@ -12,17 +25,18 @@
             "src": "./assets/pics/icons/logo_perfiles.png"
         }
     }, {
-        "x": "0%",
-        "y": "-1%",
+        "x": "62%",
+        "y": "-1.5%",
         "viewX": 1800,
         "viewY": 50,
-        "width": "94%",
-        "height": "4%",
-        "fontSize": "2.8em",
-        "tag": "p",
+        "width": "80%",
+        "height": "4.2%",
+        "fontSize": "3.4em",
+        "tag": "section",
         "class": "section-magazine",
         "data": {
-            "content": "Soy emocional"
+            "src": "./assets/pics/icons/section-pink.png",
+            "content": "Soy un ser<br> emocional"
         }
     }, {
         "x": "55%",
@@ -40,7 +54,7 @@
     },
     {
         "x": "74%",
-        "y": "47%",
+        "y": "50%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
@@ -58,24 +72,24 @@
     },
     {
         "x": "61%",
-        "y": "52%",
+        "y": "57%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
         "height": "4%",
         "fontSize": "3.7em",
         "tag": "audio",
-        "id": "audio16",
+        "id": "audio17",
         "class": "btn-audio",
         "text": "Escuchar Audio",
         "icon": "./assets/pics/icons/escuchar.png",
         "data": {
-            "src": ""
+            "src": "./assets/audios/audio17.mp3"
         }
     },
     {
         "x": "73.2%",
-        "y": "57%",
+        "y": "63%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
@@ -86,12 +100,12 @@
         "text": "Imprimir",
         "icon": "./assets/pics/icons/imprimir.png",
         "data": {
-            "url": "https://drive.google.com/file/d/1SQga6RgmNDd0a35XPHDeOAy0U0cIo60W/preview"
+            "url": "https://drive.google.com/file/d/17viLIiOy7kyN8bl4MTyXfJnhDwNMJqbU/preview"
         }
     },
     {
         "x": "69%",
-        "y": "62%",
+        "y": "69%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
@@ -99,11 +113,13 @@
         "fontSize": "3.3em",
         "tag": "modal",
         "id": "modalReflexion-p16",
-        "class": "button-read",
+        "class": "button-reflexion",
         "text": "Reflexionar",
         "icon": "./assets/pics/icons/reflexionar.png",
         "data": {
-            "title": "<br><br><br>"
+            "print": "<a target='_blank' href='https://drive.google.com/file/d/1A6A_000WVq6fOjKfB6o_la88PB0mlLM1/view?usp=share_link'><img src='./assets/pics/icons/imprimir-modal.png'></a>",
+            "title": "<br>ACTIVIDAD REFLEXIVA<br><br>",
+            "content": "1. ¿Alguna vez has confundido la tristeza con la depresión?, <label>SI <input name='radio17_1' type='radio' id='cbox17_1' value='si' onchange='getValueInputs(16)'></label> <label>NO <input name='radio17_1' type='radio' id='cbox17_2' value='no' onchange='getValueInputs(16)'></label><br><br>2.  Identifica y describe tres síntomas de la tristeza.<br><br><textarea rows='5' cols='50' id='input17_1' class='inputStorage' onchange='getValueInputs(16)'></textarea><br><br>Y tres síntomas de la depresión.<br><br><textarea rows='5' cols='50' id='input17_2' class='inputStorage' onchange='getValueInputs(16)'></textarea><br><br>3. ¿Qué estado de ánimo hace parte del otro; la tristeza de la depresión o la depresión de la tristeza?<br><br><textarea rows='5' cols='50' id='input17_3' class='inputStorage' onchange='getValueInputs(16)'></textarea><br><br>4.   ¿Te has sentido triste sin causa aparente y por tiempo prolongado?,<br> <label>SI <input name='radio17_2' type='radio' id='cbox17_3' value='si' onchange='getValueInputs(16)'></label> <label>NO <input name='radio17_2' type='radio' id='cbox17_4' value='no' onchange='getValueInputs(16)'></label><br><br>¿Qué hacer si esto ocurriera?<br><br><textarea rows='5' cols='50' id='input17_4' class='inputStorage' onchange='getValueInputs(16)'></textarea><br><br>5.  ¿Qué pudiera ocurrir, si a la tristeza como emoción no se le diera un manejo adecuado? <br><br><textarea rows='5' cols='50' id='input17_5' class='inputStorage' onchange='getValueInputs(16)'></textarea><br><br>6. Identifica y escribe tres factores sociales, tres espirituales, tres familiares y tres factores personales, que te pudieran servir como mecanismo de protección, frente a una amenaza de depresión.<br><br><span>SOCIALES</span><br><br><textarea rows='5' cols='50' id='input17_6' class='inputStorage' onchange='getValueInputs(16)'></textarea><br><br><span>ESPIRITUALES</span><br><br><textarea rows='5' cols='50' id='input17_7' class='inputStorage' onchange='getValueInputs(16)'></textarea><br><br><span>FAMILIARES</span><br><br><textarea rows='5' cols='50' id='input17_8' class='inputStorage' onchange='getValueInputs(16)'></textarea><br><br><span>PERSONALES</span><br><br><textarea rows='5' cols='50' id='input17_9' class='inputStorage' onchange='getValueInputs(16)'></textarea><br><br><i><span>¿Por qué estoy desanimado? ¿Por qué está tan triste mi corazón? ¡Pondré mi  esperanza en Dios! Nuevamente lo alabaré, ¡mi Salvador y mi Dios! Salmos 42:5 <a href='https://www.biblegateway.com/passage/?search=Salmos%2042:4-6&version=NTV'>NTV</a></span<i><br><br>"
         }
     }
 ]

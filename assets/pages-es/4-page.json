@@ -1,14 +1,89 @@
 [{
-    "x": "0",
-    "y": "6%",
-    "viewX": 1800,
-    "viewY": 50,
-    "width": "100%",
-    "height": "4%",
-    "fontSize": "3.5em",
-    "tag": "h1",
-    "class": "title",
-    "data": {
-        "content": "Editorial"
+        "x": "4%",
+        "y": "18%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "11%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "title_page",
+        "data": {
+            "src": "./assets/pics/titles/4.png"
+        }
+    }, {
+        "x": "0",
+        "y": "-1%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "100%",
+        "height": "4%",
+        "fontSize": "3.5em",
+        "tag": "h1",
+        "class": "title",
+        "data": {
+            "content": "Editorial"
+        }
+    }, {
+        "x": "28%",
+        "y": "32%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "63%",
+        "height": "4%",
+        "fontSize": "4.5em",
+        "tag": "p",
+        "class": "text-introductory",
+        "data": {
+            "content": "Nos complace compartir con ustedes, esta nueva edición de su revista Perfiles, con el tema “Mis emociones a la luz de la Palabra”. <br><br>Como creación divina, fuimos diseñados amorosamente por nuestro Señor, quien en su diseño perfecto nos creó con la capacidad de sentir y expresar emociones; pero estas, necesitan gestionarse de manera correcta, para tener una vida armónica y para relacionarnos de manera saludable, con los que nos rodean."
+        }
+    }, {
+        "x": "67%",
+        "y": "80%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "30%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "foto-p4",
+        "data": {
+            "src": "./assets/pics/photos/judith.jpg"
+        }
+    },
+    {
+        "x": "50%",
+        "y": "80%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "10%",
+        "fontSize": "3.3em",
+        "tag": "modal",
+        "id": "modal-p4",
+        "class": "button-read",
+        "text": "Leer más",
+        "icon": "./assets/pics/icons/leer.png",
+        "data": {
+            "title": "<br>Carta de la presidenta<br><br>",
+            "content": "Nos complace compartir con ustedes, esta nueva edición de su revista Perfiles, con el tema “Mis emociones a la luz de la Palabra”.<br><br>Como creación divina, fuimos diseñados amorosamente por nuestro Señor, quien en su diseño perfecto nos creó con la capacidad de sentir y expresar emociones; pero estas, necesitan gestionarse de manera correcta, para tener una vida armónica y para relacionarnos de manera saludable, con los que nos rodean.<br><br>Por medio de esta revista, queremos brindar herramientas para fortalecer el área emocional de la mujer; proporcionando una mirada bíblica a cada una de las emociones básicas del ser humano, y los recursos que en ella encontramos para el adecuado manejo de las mismas.<br><br>Para este propósito, hemos invitado un grupo de escritores, esposas de pastores y profesionales en el área de la psicología, quienes, dirigidos por Dios, nos compartirán sobre la importancia de cada emoción y el manejo adecuado de ellas.<br><br>También encontrarás en cada artículo una nueva sección titulada: <br>“Para reflexionar”<br>, donde podrás acceder a diferentes actividades, las cuales te ayudarán en tu desarrollo personal y espiritual; a su vez, puede ser utilizada por los comités locales de damas, como una herramienta de trabajo para la población femenil de su congregación, al momento de abordar dichas temáticas.<br><br>Te invitamos a disfrutar de este excelente material que será de mucha edificación para tu vida, y estamos seguras que también podrás bendecir a otros compartiendo en tus redes sociales, dando click en los innovadores botones que hemos diseñado para ello.<br><br>Dios les bendiga,<br><br><span>Judith Ramírez de Rico<br>Líder Nacional Comité de Asesoría y Acompañamiento<br>Damas Dorcas</span><br><br>"
+        }
+    },
+    {
+        "x": "39.5%",
+        "y": "85%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "4%",
+        "fontSize": "3.3em",
+        "tag": "audio",
+        "id": "audio7",
+        "class": "btn-audio",
+        "text": "Escuchar Audio",
+        "icon": "./assets/pics/icons/escuchar.png",
+        "data": {
+            "src": "./assets/audios/editorial-page-4.mp3"
+        }
     }
-}]
+]

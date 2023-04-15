@@ -1,14 +1,60 @@
 [{
-    "x": "0%",
-    "y": "6%",
-    "viewX": 1800,
-    "viewY": 50,
-    "width": "100%",
-    "height": "4%",
-    "fontSize": "3.2em",
-    "tag": "h1",
-    "class": "title",
-    "data": {
-        "content": "Intermedio 2"
+        "x": "25%",
+        "y": "2%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "45%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "",
+        "data": {
+            "src": "./assets/pics/titles/42.png"
+        }
+    }, {
+        "x": "0%",
+        "y": "6%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "100%",
+        "height": "4%",
+        "fontSize": "3.2em",
+        "tag": "h1",
+        "class": "title",
+        "data": {
+            "content": "Intermedio 2"
+        }
+    },
+    {
+        "x": "65.5%",
+        "y": "90%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "10%",
+        "fontSize": "3.3em",
+        "tag": "modal",
+        "id": "modalReflexion-p42",
+        "class": "button-read",
+        "text": "Reflexionar",
+        "icon": "./assets/pics/icons/reflexionar.png",
+        "data": {
+            "print": "<a target='_blank' href='https://drive.google.com/file/d/1le9xONCWCMfcY_hw-CoKGJJsXHkmXnx_/view'><img src='./assets/pics/icons/imprimir-modal.png'></a>",
+            "title": "<br>PARA REFLEXIONAR<br><br>",
+            "content": "1.  ¿Qué enseñanza te deja la vida de esta mujer?<br><br><textarea rows='6' cols='50' id='input42_1' class='inputStorage' onchange='getValueInputs(42)'></textarea><br><br>2. ¿Has tenido que enfrentar en tu vida, algún reto que, por temor, hubieras preferido evitar? ¿Cómo reaccionaste? ¿Crees que la solución de Ester de tener un tiempo de ayuno, influyó en la forma como enfrentó dicho reto?<br><br><textarea rows='6' cols='50' id='input42_2' class='inputStorage' onchange='getValueInputs(42)'></textarea><br><br>3. ¿Crees que Dios nos confronta con situaciones difíciles, para ayudarnos en nuestro crecimiento personal? ¿Cuál debería ser nuestra actitud?<br><br><textarea rows='6' cols='50' id='input42_3' class='inputStorage' onchange='getValueInputs(42)'></textarea><br><br>4. ¿Qué piensas del manejo emocional en la vida de Ester?, ¿Cuántas veces, los temores nos impiden conquistar grandes victorias? Escribe un reto que te gustaría enfrentar de la mano del Señor.<br><br><textarea rows='6' cols='50' id='input42_4' class='inputStorage' onchange='getValueInputs(42)'></textarea>"
+        }
+    }, {
+        "x": "-123%",
+        "y": "20%",
+        "viewX": 1800,
+        "viewY": 400,
+        "width": "345%",
+        "height": "4%",
+        "fontSize": "3.2em",
+        "tag": "crossword",
+        "class": "crossword",
+        "data": {
+
+        }
     }
-}]
+]

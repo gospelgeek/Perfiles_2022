@@ -1,14 +1,145 @@
 [{
-    "x": "0%",
-    "y": "6%",
-    "viewX": 1800,
-    "viewY": 50,
-    "width": "100%",
-    "height": "4%",
-    "fontSize": "3.2em",
-    "tag": "h1",
-    "class": "title",
-    "data": {
-        "content": "Intermedio 1"
+        "x": "-5%",
+        "y": "-5%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "30%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "",
+        "data": {
+            "src": "./assets/pics/graphics/cuadros.png"
+        }
+    }, {
+        "x": "90%",
+        "y": "-5%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "20%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "",
+        "data": {
+            "src": "./assets/pics/graphics/cuadros.png"
+        }
+    }, {
+        "x": "10%",
+        "y": "-2%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "60%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "title_page",
+        "data": {
+            "src": "./assets/pics/titles/30.png"
+        }
+    }, {
+        "x": "77%",
+        "y": "12%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "30%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "flechas-gif",
+        "data": {
+            "src": "./assets/pics/videos/flechas.GIF"
+        }
+    }, {
+        "x": "4%",
+        "y": "94%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "30%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "flechas-gif2",
+        "data": {
+            "src": "./assets/pics/videos/flechas.GIF"
+        }
+    }, {
+        "x": "0%",
+        "y": "4%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "100%",
+        "height": "4%",
+        "fontSize": "3.2em",
+        "tag": "h1",
+        "class": "title",
+        "data": {
+            "content": "LA IMPIA ATALIA"
+        }
+    }, {
+        "x": "17%",
+        "y": "78%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "10%",
+        "fontSize": "3.3em",
+        "tag": "modal",
+        "id": "modal-p7",
+        "class": "button-read",
+        "text": "Actividad",
+        "icon": "./assets/pics/icons/leer.png",
+        "data": {
+            "title": "<br>REFERENCIAS<br><br>",
+            "content": "<span>Referencias: </span>2 Reyes 8:18, cap11; 2Cron. 21:4-622, 23, 24<br><br>Estudia con detenimiento la historia de esta mujer, la cual encontrarás en las referencias dadas, y con base a ello, elabora un acróstico de sus debilidades, con las iniciales de su nombre.<br><br><div><span class='inicial'>A</span><input type='text' id='input30_1' class='inputStorage' onchange='getValueInputs(30)'></div><br><div><span class='inicial'>T</span><input type='text' id='input30_2' class='inputStorage' onchange='getValueInputs(30)'></div><br><div><span class='inicial'>A</span><input type='text' id='input30_3' class='inputStorage' onchange='getValueInputs(30)'></div><br><div><span class='inicial'>L</span><input type='text' id='input30_4' class='inputStorage' onchange='getValueInputs(30)'></div><br><div><span class='inicial'>I  </span><input type='text' id='input30_5' class='inputStorage' onchange='getValueInputs(30)'></div><br><div><span class='inicial'>A</span><input type='text' id='input30_6' class='inputStorage' onchange='getValueInputs(30)'></div><br><br><br>"
+        }
+    }, {
+        "x": "4%",
+        "y": "25%",
+        "viewX": 1800,
+        "viewY": 1300,
+        "width": "90%",
+        "height": "4%",
+        "fontSize": "3em",
+        "tag": "p",
+        "class": "text-itr2",
+        "data": {
+            "content": "<p class='inputs-completar' style='font-size:3em' xmlns='http://www.w3.org/1999/xhtml'><span class='spanpink'>COMPLETA: </span><br><br>1. El nombre de su padre fue: <input type='text' id='input30_7' class='inputStorage' onchange='getAnswerIntermedio1(this)'>. 2 Reyes 8:18.<br><br>2. Reinó en: <input type='text' id='input30_8' class='inputStorage' onchange='getAnswerIntermedio1(this)'>, por <input type='number' id='input30_9' min='1' max='10000000' class='inputStorage' onchange='getAnswerIntermedio1(this)'> años.  2 Reyes 11:3; 2 Crónicas 22:10.<br><br>3. Cuando Atalía vio que su hijo murió se <input type='text' id='input30_10' class='inputStorage' onchange='getAnswerIntermedio1(this)'> y <input type='text' id='input30_11' class='inputStorage' onchange='getAnswerIntermedio1(this)'> toda la descendencia real. 2 Reyes 11:1.<br><br>4.<input type='text' id='input30_12' class='inputStorage' onchange='getAnswerIntermedio1(this)'> tomó a Joás y lo ocultó de Atalía por <br><br><input type='number' id='input30_13' min='1' max='10000000' class='inputStorage' onchange='getAnswerIntermedio1(this)'> años. 2 Reyes 11:2-3<br><br>5. Atalía adoraba al dios <input type='text' id='input30_14' class='inputStorage' onchange='getAnswerIntermedio1(this)'> 2 Reyes 11:18</p>"
+        }
+    },
+    {
+        "x": "42%",
+        "y": "78%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "4%",
+        "fontSize": "3.3em",
+        "tag": "print",
+        "class": "button-print",
+        "text": "Imprimir",
+        "icon": "./assets/pics/icons/imprimir.png",
+        "data": {
+            "url": "https://drive.google.com/file/d/19kZQ6lfO8luTlEu3H6oxOs1DG01xRJyb/view"
+        }
+    },
+    {
+        "x": "65%",
+        "y": "78%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "10%",
+        "fontSize": "3.3em",
+        "tag": "modal",
+        "id": "modalReflexion-p22",
+        "class": "button-reflexion",
+        "text": "Reflexionar",
+        "icon": "./assets/pics/icons/reflexionar.png",
+        "data": {
+            "print": "<a target='_blank' href='#'><img src='./assets/pics/icons/imprimir-modal.png'></a>",
+            "title": "<br>PARA REFLEXIONAR<br><br>",
+            "content": "<li>¡Cuan grande influencia puede ejercer una mujer en su familia y entorno! ¿Qué opinas sobre la influencia ejercida por Atalía en su esposo, hijo y reino? ¿Te has preguntado qué clase de influencia eres para los tuyos?</li><br><textarea rows='5' cols='50' id='input30_15' class='inputStorage' onchange='getAnswerIntermedio1(this)'></textarea><br><br><li>¿Crees que tu forma de relacionarte con Dios afecta esa influencia? <select name='select' id='select30_1' onchange='getAnswerIntermedio1(this)'><option value='value1'>---</option><option value='value2'>SI</option><option value='value3'>NO</option></select> ¿De qué forma?</li><br><textarea rows='5' cols='50' id='input30_16' class='inputStorage' onchange='getAnswerIntermedio1(this)'></textarea><br><br><li>Cuanto nos impresiona la cruel actitud de esta mujer para alcanzar su objetivo; sería interesante reflexionar, sobre la forma cómo alcanzamos los nuestros, y recordar la importancia del Señorío de Cristo, en cada paso que damos, para alcanzar nuestro proyecto de vida.  Si Él nos está dirigiendo, no quedarán vidas heridas en el camino, sino que al contrario, entenderemos que fuimos llamadas para preservar vidas.</li><br><textarea rows='5' cols='50' id='input30_17' class='inputStorage' onchange='getAnswerIntermedio1(this)'></textarea><br><br>"
+        }
     }
-}]
+]

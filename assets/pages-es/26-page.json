@@ -1,4 +1,17 @@
 [{
+        "x": "12%",
+        "y": "10%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "75%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "",
+        "data": {
+            "src": "./assets/pics/titles/26.png"
+        }
+    }, {
         "x": "0%",
         "y": "6%",
         "viewX": 1800,
@@ -61,6 +74,23 @@
         "data": {
             "page": 26,
             "url": "http://twitter.com/intent/tweet?text=Perfiles&url="
+        }
+    }, {
+        "x": "15%",
+        "y": "88%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "77%",
+        "height": "4%",
+        "fontSize": "3.2em",
+        "tag": "tooltip",
+        "class": "tooltip-author",
+        "id": "author27",
+        "data": {
+            "author": "Yaneth Arrechea Vargas",
+            "position": "Licenciada en ciencias sociales, filosofia y ciencias religiosas",
+            "year": "2022",
+            "src": "./assets/pics/photos/yanetharrechea.png"
         }
     }
 ]

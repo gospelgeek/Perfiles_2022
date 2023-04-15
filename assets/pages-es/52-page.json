@@ -1,14 +1,59 @@
 [{
-    "x": "0%",
-    "y": "6%",
-    "viewX": 1800,
-    "viewY": 50,
-    "width": "100%",
-    "height": "4%",
-    "fontSize": "3.2em",
-    "tag": "h1",
-    "class": "title",
-    "data": {
-        "content": "Informativa, sociales y gestión"
+        "x": "35%",
+        "y": "21%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "35%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "",
+        "data": {
+            "src": "./assets/pics/titles/52.jpg"
+        }
+    }, {
+        "x": "0%",
+        "y": "6%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "100%",
+        "height": "4%",
+        "fontSize": "3.2em",
+        "tag": "h1",
+        "class": "title",
+        "data": {
+            "content": "Informativa, sociales y gestión"
+        }
+    }, {
+        "x": "24%",
+        "y": "36%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "56%",
+        "height": "4%",
+        "fontSize": "4em",
+        "tag": "p",
+        "class": "text-introductory",
+        "data": {
+            "content": "<span>¡Alaben al Señor porque él es bueno, y su gran amor perdura para siempre! (1 Crónicas 16:34)</span><br><br>Desde la fundación UDIM, hoy nos regocijamos y celebramos el poder cumplir casi 20 años de trabajo, en pro de la población femenil de la IPUC; hemos atravesado por muchos desafios, pero tambien hemos obtenido muchos logros a lo largo de nuestra trayectoria y eso nos hace desear que celebremos juntos.<br>Seguimos trabajando con ahinco, para que nuestros programas sigan funcionando, y dando herramientas a todas aquellas mujeres que asisten a nuestros seminarios de desarrollo personal; donde amigas y hermanas de la iglesia se ven beneficiadas."
+        }
+    },
+    {
+        "x": "52%",
+        "y": "74%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "10%",
+        "fontSize": "3.3em",
+        "tag": "modal",
+        "id": "modal-p52",
+        "class": "button-read",
+        "text": "Leer más",
+        "icon": "./assets/pics/icons/leer.png",
+        "data": {
+            "title": "",
+            "content": "<img class='imgModal' style='animation:none; width:30%!important' src='./assets/pics/graphics/img1.png'><br> Fundación para el desarrollo integral de la mujer UDIM <br><br><span> ¡Alaben al Señor porque él es bueno, y su gran amor perdura para siempre!</span> (1 Crónicas 16:34)<br><br>Desde la fundación UDIM, hoy nos regocijamos y celebramos el poder cumplir casi 20 años de trabajo, en pro de la población femenil de la IPUC; hemos atravesado por muchos desafíos, pero también hemos obtenido muchos logros a lo largo de nuestra trayectoria y eso nos hace desear que celebremos juntos.<br><br><img class='imgModal' style='animation:none' src='./assets/pics/graphics/img2.png'><br><br>Seguimos trabajando con ahinco, para que nuestros programas sigan funcionando, y dando herramientas a todas aquellas mujeres que asisten a nuestros seminarios de desarrollo personal; donde amigas y hermanas de la iglesia se ven beneficiadas.<br><br><img class='imgModal' style='animation:none' src='./assets/pics/graphics/img3.png'><br><br><img class='imgModal' style='animation:none' src='./assets/pics/graphics/img4.png'><br><br>El consejo directivo de la fundación sigue acompañando a mujeres que lo necesitan, en diferentes distritos como mujeres viudas y emprendedoras. Lo cual nos llena de satisfacción ver la respuesta de ellas y nuestras asesoras en cada distrito.<br><br><img class='imgModal' style='animation:none' src='./assets/pics/graphics/img5.png'><br><br>Solo esperamos que cada una de ellas sea bendecida en sus proyectos, para seguir adelante y que el señor les ayude a continuar con sus vidas.<br><br><img class='imgModal' style='animation:none; width:100%!important' src='./assets/pics/graphics/img6.png'><br><br><img class='imgModal' style='animation:none; width:50%!important' src='./assets/pics/graphics/img7.png'><br><br>El consejo directivo, deseamos que ustedes los lectores de tan apreciada revista PERFILES, puedan conocer los alcances de la fundación y puedan acceder a nuestros programas, que siempre buscan ayudar a mejorar la calidad de vida de la mujer cristina y no cristiana; en su desarrollo  social  y personal.<br><br><span>PROGRAMAS QUE NOS LLEVAN A BUSCAR LOS OBJETIVOS DE LA FUNDACIÓN</span><br><br><li>Seminarios de desarrollo personal</li><li>Semillas productivas</li><li>Donaciones (canitas y calamidad)</li><li>Técnica por competencias laborales</li><li>Diplomado: cuidado al adulto mayor</li><li>academia de emprendimiento</li><li>Atención psico-afectiva</li><li>Seminario potenciación de recursos</li><li>Visita a la mojana con capacitación para la población</li><br><br>A todos agradecemos su atención que el señor les bendiga, y gracias por su apoyo y oraciones a favor de nuestra fundación.<br><br><span>Consejo directivo de UDIM: año 2022</span><br><br>"
+        }
     }
-}]
+]

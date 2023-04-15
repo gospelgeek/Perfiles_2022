@@ -1,0 +1,159 @@
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    max-width: 100%;
+}
+
+table td {
+    width: 1.3em;
+    border: 1px solid #ffffff;
+    padding: 0;
+    margin: 0;
+    background-color: #672d90cc;
+    position: relative;
+    color: #000000;
+}
+
+td input {
+    width: 100%;
+    height: 1em;
+    padding: 0em;
+    text-align: center;
+    font-size: 1.8em;
+    color: #000000;
+}
+
+td input:focus {
+    background-color: #fff;
+}
+
+td span {
+    color: #444;
+    font-size: 0.8em;
+    position: absolute;
+    top: -1px;
+    left: 1px;
+}
+
+input.done {
+    font-weight: bold;
+    color: green;
+}
+
+.active,
+.clues-active {
+    display: block !important;
+}
+
+.clue-done {
+    color: #999;
+    text-decoration: line-through;
+}
+
+#puzzle-wrapper #puzzle {
+    margin: 0;
+}
+
+#puzzle-wrapper {
+    float: left;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#puzzle-clues {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+#puzzle-btn {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+    margin-bottom: 1%;
+}
+
+#puzzle-btn #solution,
+#reset {
+    margin-top: 10px;
+    background-color: #662d90;
+    border: 2px solid #662d90;
+    border-radius: 30px 30px 30px 30px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    transition: ease .3s;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+#solution:hover,
+#reset:hover {
+    transition: ease .3s;
+    box-shadow: rgba(127, 215, 219, 255) 0px 2px 4px 0px, rgba(127, 215, 219, 255) 0px 2px 16px 0px;
+}
+
+#puzzle-btn #solution {
+    margin-right: 10px;
+}
+
+#puzzle-clues li {
+    font-size: .8em;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    display: none;
+}
+
+.claves {
+    display: flex;
+    width: 100%;
+    margin: 3% 0 0 35%;
+}
+
+.claves h2 {
+    margin: 0;
+}
+
+.textClaves {
+    width: 100%;
+    color: #201f1f;
+}
+
+.textClaves #across,
+.textClaves #down {
+    width: 100%;
+    display: flex;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+
+.claves ol {
+    padding: 0;
+}
+
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
+}
+
+@media only screen and (max-width: 468px) {
+    #puzzle-clues {
+        position: absolute;
+        top: -15%;
+    }
+}

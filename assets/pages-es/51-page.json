@@ -1,28 +1,55 @@
 [{
-
-    "x": "48%",
-    "y": "1%",
-    "viewX": 1800,
-    "viewY": 50,
-    "width": "20%",
-    "height": "4%",
-    "fontSize": "2.8em",
-    "tag": "img",
-    "class": "",
-    "data": {
-        "src": "./assets/pics/icons/logo_perfiles.png"
+        "x": "48%",
+        "y": "1%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "20%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "",
+        "data": {
+            "src": "./assets/pics/icons/logo_perfiles.png"
+        }
+    },
+    {
+        "x": "0%",
+        "y": "-1%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "94%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "p",
+        "class": "section-magazine",
+        "data": {
+            "content": "Informativa"
+        }
+    },
+    {
+        "x": "0",
+        "y": "5%",
+        "width": "100%",
+        "tag": "all-component",
+        "id_unique": "a1-img-page-51",
+        "components": "<div style='display: grid; width: 90%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-columns: 100%; padding: 0.7em;'> <div style='display: grid; place-items: center; grid-template-rows: 100%; grid-template-columns: 50% 50%; gap: 0.5em;'> <div style='display: grid; place-items: center; grid-template-rows: 30% 70%; grid-template-columns: 100%;'> <p class='rotate-5ged' class='moserrate' style='text-align: center; font-size: 0.8em; color: #fa8b37;font-weight:bold'>CONGRESOS Y ENCUENTROS</p> <a class='rotate-5ged' style='cursor: pointer; display: flex; justify-content: center;' type='button' onclick='click_boton_a_carrusel(`4`)'> <img style='width: 80%; height: 63%;' src='./assets/pics/photos/congresosyencuentros-10.png' /> </a> </div> <div style='display: grid; place-items: center; grid-template-rows: 30% 70%; grid-template-columns: 100%;'> <p class='moserrate rotate-5ged' style='text-align: center; font-size: 0.75em; color: #3aaeda;font-weight:bold' >ACOMPAÑAMIENTO<br> MISIONES NACIONALES</p> <a style='cursor: pointer; display: flex; justify-content: center;' type='button' onclick='click_boton_a_carrusel(`5`)'> <img class='rotate-5ged' style='width: 80%; height: 63%;' src='./assets/pics/photos/misionesnal-10.png' /> </a> </div> </div> <div style='padding-top: 1em; display: grid; place-items: center; grid-template-rows: 100%; grid-template-columns: 50% 50%; gap: 0.5em;'> <div style='display: grid; place-items: center; grid-template-rows: 30% 70%; grid-template-columns: 100%;'> <p class='moserrate rotate-5ged' style='text-align: center; font-size: 0.8em;font-weight:bold'>CAPACITACIÓN LIDERES</p> <a style='cursor: pointer; display: flex; justify-content: center;' type='button' onclick='click_boton_a_carrusel(`6`)'> <img class='rotate-5ged' style='width: 80%; height: 63%;' src='./assets/pics/photos/capacitaciones-10.png' /> </a> </div> <div style='display: grid; place-items: center; grid-template-rows: 30% 70%; grid-template-columns: 100%;'> <p class='moserrate rotate-5ged' style='text-align: center; font-size: 0.8em; color: #bf4a9e;font-weight:bold'>ACOMPAÑAMIENTO<br> MISIONES EXTRANJERAS</p> <a onclick='click_boton_a_carrusel(`7`)' style='cursor: pointer; display: flex; justify-content: center;' type='button'> <img class='rotate-5ged' style='width: 80%; height: 63%;' src='./assets/pics/photos/misionesextranj-10.png' /> </a> </div> </div> </div>"
+    },
+    {
+        "y": "102%",
+        "width": "100%",
+        "tag": "all-component",
+        "id_unique": "a2-img-page-51",
+        "components": "<div style='display: grid; position: absolute; bottom: 0; width: 100%; height: auto; place-items: center; grid-auto-rows: auto; grid-template-columns: 100%;'> <div style='display: grid; width: 100%; place-items: center; position: relative;'> <img style='width: 60%; height: 80%; z-index: 5; ' src='./assets/pics/photos/base-10.png' /> <div id='perfiles-page-51' style='z-index: 3; transform: translate(-355%,-20%); cursor: pointer; position: absolute;'> <a href='https://www.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fperfiles-2022.netlify.app%252F%2523pagina%252F46&cancel_url=https%3A%2F%2Fwww.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=popup&locale=es_ES' target='_blank' style='display: grid; place-items: center; grid-auto-rows: auto; grid-template-columns: 100%; width: 2.6em; height: auto; text-decoration: none;'> <span><p style='text-align: center; font-size: 0.7em; color: #ffa845;'>PERFILES</p><p id='perfiles-animate' style='text-align: center; font-size: 0.85em; color:#395b69;'>12000mil</p></span> <img style='width: 1.5em; height: 1.5em;' src='./assets/pics/photos/conector-10.png' /> <img style='width: 4em; height: 4em;' src='./assets/pics/photos/revista-10.png' /> </a> </div><div id='facebook-page-51' style='z-index: 3; transform: translate(-190%,-70%); cursor: pointer; position: absolute;'> <a href='https://www.facebook.com/mujeripuc' target='_blank' style='display: grid; place-items: center; grid-auto-rows: auto; grid-template-columns: 100%; width: 2.6em; height: auto; text-decoration: none;'> <span><p style='text-align: center; font-size: 0.7em; color:#3eb9e6;'>FACEBOOK</p><p style='text-align: center; font-size: 0.85em; color: #395b69' id='facebook-animate'>23MIL</p></span> <img style='width: 1.5em; height: 1.5em;' src='./assets/pics/photos/conector-10.png' /> <img style='width: 4em; height: 4em;' src='./assets/pics/photos/face-10.png' /> </a> </div> <div id='instagram-page-51' style='z-index: 3; transform: translate(1%,-86%); cursor: pointer; position: absolute;'> <a href='https://www.instagram.com/mujeripuc_oficial/' target='_blank' style='display: grid; place-items: center; grid-auto-rows: auto; grid-template-columns: 100%; width: 2.6em; height: auto; text-decoration: none;'> <span><p style='text-align: center; font-size: 0.7em; color:#f7719d;'>INSTAGRAM</p><p id='instagram-counter' style='text-align: center; font-size: 0.85em; color: #395b69' >3276</p></span> <img style='width: 1.5em; height: 1.5em;' src='./assets/pics/photos/conector-10.png' /> <img style='width: 4em; height: 4em;' src='./assets/pics/photos/inst-10.png' /> </a> </div> <div id='sitioweb-page-51' style='z-index: 3; transform: translate(120%,-68%); cursor: pointer; position: absolute;'> <a href='https://mujer.ipuc.org.co/' target='_blank' style='display: grid; place-items: center; grid-auto-rows: auto; grid-template-columns: 100%; width: 4em; height: auto; text-decoration: none;'> <span><p style='text-align: center; font-size: 0.7em; color:#bf4a9e;'>SITIO WEB</p><p id='web-animate' style='text-align: center; font-size: 0.85em; color: #395b69;'>99.600mil</p></span> <img style='width: 1.5em; height: 1.5em;' src='./assets/pics/photos/conector-10.png' /> <img style='width: 4em; height: 4em;' src='./assets/pics/photos/web-10.png' /> </a> </div> <div id='radio-page-51' style='z-index: 3; transform: translate(355%,-20%); cursor: pointer; position: absolute;'> <a href='https://www.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https%3A%2F%2Fwww.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fperfiles-2022.netlify.app%252F%2523pagina%252F46&cancel_url=https%3A%2F%2Fwww.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=popup&locale=es_ES' target='_blank' style='display: grid; place-items: center; grid-auto-rows: auto; grid-template-columns: 100%; width: 2.6em; height: auto; text-decoration: none;'> <span><p style='text-align: center; font-size: 0.7em; color:#22d8de;'>RADIO</p><p id='radio-counter' style='text-align: center; font-size: 0.85em; color: #395b69'>52</p></span> <img style='width: 1.5em; height: 1.5em;' src='./assets/pics/photos/conector-10.png' /> <img style='width: 4em; height: 4em;' src='./assets/pics/photos/radio-10.png' /> </a> </div> </div>"
+    },
+    {
+        "x": "0%",
+        "y": "91%",
+        "styleBox": "width: 80%;",
+        "style": "width: 20%; color: #fff; font-size: 0.5em; text-aling: center;",
+        "tag": "img-content",
+        "data": {
+            "src": "./assets/pics/icons/mujerIpuc.png"
+        }
+        
     }
-}, {
-    "x": "0%",
-    "y": "-1%",
-    "viewX": 1800,
-    "viewY": 50,
-    "width": "94%",
-    "height": "4%",
-    "fontSize": "2.8em",
-    "tag": "p",
-    "class": "section-magazine",
-    "data": {
-        "content": "Informativa"
-    }
-}]
+]

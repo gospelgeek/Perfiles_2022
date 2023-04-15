@@ -1,14 +1,93 @@
 [{
-    "x": "0%",
-    "y": "-1%",
-    "viewX": 1800,
-    "viewY": 50,
-    "width": "94%",
-    "height": "4%",
-    "fontSize": "2.8em",
-    "tag": "p",
-    "class": "section-magazine",
-    "data": {
-        "content": "Soy emocional"
+        "x": "44%",
+        "y": "2.5%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "20%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "",
+        "data": {
+            "src": "./assets/pics/icons/logo_perfiles.png"
+        }
+    }, {
+        "x": "60%",
+        "y": "-1.8%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "53%",
+        "height": "4.2%",
+        "fontSize": "5.2em",
+        "tag": "section",
+        "class": "section-magazine",
+        "data": {
+            "src": "./assets/pics/icons/section-pink.png",
+            "content": "Soy un ser<br> emocional"
+        }
+    }, {
+        "x": "45%",
+        "y": "12%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "49%",
+        "height": "4%",
+        "fontSize": "5.9em",
+        "tag": "p",
+        "class": "text-introductory",
+        "data": {
+            "content": "¿Se puede enojar una mujer cristiana? ¿Es normal que sienta miedo frente a situaciones que no puede controlar? ¿Por qué actuamos a veces de manera que nos sentimos culpables después? ¿Qué es lo que hace que te sientas feliz cuando recibes sorpresas agradables?<br><br>He aquí una serie de consideraciones que pudieran dar respuestas a la manera como reaccionamos frente a los estímulos del medio."
+        }
+    },
+    {
+        "x": "75%",
+        "y": "53%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "10%",
+        "fontSize": "3.3em",
+        "tag": "modal",
+        "id": "modal-p7",
+        "class": "button-read",
+        "text": "Leer más",
+        "icon": "./assets/pics/icons/leer.png",
+        "data": {
+            "title": "<br>La mujer un ser emocional<br><br>",
+            "content": "¿Se puede enojar una mujer cristiana? ¿Es normal que sienta miedo frente a situaciones que no puede controlar? ¿Por qué actuamos a veces de manera que nos sentimos culpables después? ¿Qué es lo que hace que te sientas feliz cuando recibes sorpresas agradables?<br><br>He aquí una serie de consideraciones que pudieran dar respuestas a la manera como reaccionamos frente a los estímulos del medio. Es probable que, cuando nuestras emociones fluyen sintamos que no podemos controlarlas y volvemos a reaccionar como no queremos, para después ofrecer disculpas a nuestros seres queridos o amigos.<br><br><span>Qué son las emociones</span><br>Son experiencias complejas de carácter consciente que despiertan <span>respuestas</span> fisiológicas y psicológicas, tanto placenteras como no placenteras, y que habitualmente se halla caracterizada por fuertes <span>sentimientos</span>, tensión o excitación. (Deiros, 2006)<br><br>Los seres humanos fuimos creados por Dios en un estado de perfección y multidimensionales; de modo que, poseemos una dimensión orgánica, sexual, social, espiritual, familiar, emocional, etc.<br><br>Pedro escribe a las damas en su carta (1 Pedro 3-4):<br><br><i>“Vuestro atavío no sea el externo de peinados ostentosos, de adornos de oro o de vestidos lujosos, sino el interno, el del corazón, en el incorruptible ornato de un espíritu afable y apacible, que es de grande estima delante de Dios”</i><br><br>¿Quiere decir Pedro que lo más importante en la mujer es el ser interior? ¿Los sentimientos? ¿La forma como se comportan? Y si es así, ¿dónde queda la importancia del cuerpo? ¿Qué hacer con las necesidades multidimensionales que tienen?<br><br>Toda persona es importante, pero las cosas “internas del corazón”, como lo señala, son las agradables a Dios, porque otras son agradables a los demás y a nosotros mismos. El vestirse bonito, buscar las cosas que resaltan la belleza externa, es parte de la autoestima y el autoconcepto; pero las cosas internas permiten reaccionar de la manera adecuada en las situaciones del diario vivir, el cómo respondes a una ofensa, el qué haces cuando te aíras, entre otras reacciones.<br><br>Los investigadores dicen que las emociones no se programan, sino que emergen y de esta manera reaccionamos. Además, no son ni buenas ni malas, solo naturales. Cuando nuestras acciones se permean por las mismas, se requiere orientarlas de manera positiva; pero si no logramos manejarlas pueden ser perjudiciales para quienes se dejan dominar de ellas.<br><br><span>Cuáles son las emociones</span><br>Las emociones son seis (aunque pueden variar en la opinión de otros), y cumplen funciones básicas. Todos, tanto hombres como mujeres tenemos las mismas emociones, solo que cada quien vive su experiencia basado en algunos componentes como la cultura, la experiencia, la educación o la espiritualidad que tenga. Las siguientes son consideradas las seis emociones:<br><br>1. Miedo<br>2. Sorpresa<br>3. Aversión<br>4. ira<br>5. Alegría<br>6. Tristeza<br><br>De modo que las emociones le ponen color, vida a lo que somos; movilizan nuestros sentimientos y permiten que nuestra existencia tome el tono para diferentes ocasiones.<br><br><span>Las mujeres y las emociones</span><br>Aunque se considera que las mujeres son más emocionales que los hombres, en la práctica esto no es verdad, porque ambos compartimos las mismas emociones; sin embargo, lo que hace parecer como cierta esa afirmación, está más ligada con la cultura, puesto que a los varones desde niños les refuerzan ideas tradicionales, como que los hombres no lloran y que  son menos sensibles (aunque esto ha venido cambiando), mientras que a la mujer se le orienta que, entre más frágil, más femenina.<br><br>Sentir enojo, miedo o tristeza no está mal, sin embargo, la manera de responder o de exteriorizar esos sentimientos puede resultar útil o hiriente. Negar nuestros sentimientos, reprimirlos, tratar de actuar como si nada hubiera pasado, permitir que esa experiencia alimente el deseo de vengarse de alguien … estas cosas sí están mal. (Clinton, 2013).<br><br>Pablo, conociendo esta dimensión humana, aconseja que, si usted tiene un episodio de ira, no se deje controlar por ella, Efesios 4:26. De modo que, aunque la emoción de la ira es inevitable que a veces se exteriorice, lo importante es cómo vas a actuar bajo los efectos de esta emoción. Hay dos vías según Pablo:<br><br>1. <span>Airarse y pecar.</span> ¿Cómo pecamos cuando estamos bajo la ira? Lo primero es saber que la ira NO es pecado, el pecado radica en cómo actuamos bajo esa emoción, por ejemplo, dar portazos, agredir física o verbalmente a otro y muchas otras cosas parecidas.<br><br>2. <span>Permanencia del enojo.</span> Cuando la ira ha pasado, quizá no hiciste nada, pero te reprimiste a tal grado que se te altera el sueño, el alimento, el estado de ánimo, y sientes rabia o amargura en el corazón; aquí entonces se está construyendo un sentimiento consciente y perjudicial para la salud. Lo peor de todo es que, un enojo puede llevar a una persona a maquinar cómo hacer daño a otro en venganza por lo ocurrido.<br><br><span>Diferencias emocionales entre hombres y mujeres</span><br>Aunque hombres y mujeres son iguales en dignidad, existen diferencias biológicas, psicológicas, sexuales y emocionales, que los caracteriza y los hace únicos. Hay algunas pequeñas diferencias cerebrales, a lo menos en tamaño y unas pocas conexiones neuronales con funciones muy semejantes. Psicológicamente las diferencias son de orden comportamental influidos por el ambiente y no necesariamente son muy grandes, sin embargo, apuntamos algunas diferencias en la dimensión emocional:<br><br>1. Las mujeres son más sensibles para demostrar sus emociones que los varones, siendo probable que se deba a la formación y pautas de crianza en culturas como la latinoamericana.<br><br>2. Las mujeres gestionan de manera diferente sus emociones, al grado que padecen más fácilmente trastornos de ansiedad y depresión; mientras que los hombres tienden a sufrir trastornos antisociales.<br><br>3. Estudios realizados evidencian que las mujeres tienden a experimentar más emociones de manera negativa que los hombres, como la culpa y la tristeza, pero las diferencias no son significativas (Schmitt, 2021).<br><br>4. Frente al rechazo, las mujeres experimentan más emociones “negativas” (sus reacciones), mientras que los hombres las experimentan más cuando sus parejas les exigen mayor intimidad (Brody et al., 2002).<br><br><span>Las mujeres, las emociones y la Palabra de Dios</span><br>En la Biblia encontramos algunas mujeres que lograron manejar sus emociones a tal grado que, alcanzaron muchas bendiciones.<br><br>1. <span>Abigail: </span>Es una mujer hermosa y muy inteligente. Se había casado con un hombre extremadamente emocional, dominado por sus reacciones insensatas; este hombre desafió a David, el cual decidió matarlo, pero cuando Abigail se enteró, asumió una conducta sensata y tomando regalos fue al encuentro de David. Nótese, cómo ella le habla con respeto a David y le reconoce su autoridad; ofrece disculpas por su esposo y así salva no solo a su marido, sino a todos los hombres que le servían. Esta mujer se ganó la admiración de David, porque en una situación tan grave, ella gestionó muy bien sus emociones (tal vez el miedo, la ira o alguno otro), pero obtuvo resultados muy positivos. (Léase 1 Samuel 25).<br><br>2. <span>Ana: </span>Esta mujer era predominantemente emocional. Se observa en el pasaje cómo se entristecía y se enojaba continuamente, prestando atención a su rival Penina por no tener hijos; de hecho, eso la deprimía al grado de llorar mucho y no comer, sin embargo, lo interesante aquí, es cómo gestionaba sus emociones. El texto nos dice que ella decidió refugiarse en el Señor mediante la oración, aunque estaba amargada por la situación que vivía. Esto indica que orar podría ser un mecanismo para manejar las emociones cuando estas emergen incontrolables en tu vida.<br><br>De modo que, en la Biblia no se esconde la parte humana de hombres y mujeres; por el contrario, Dios deja entrever de qué estamos hechos, con nuestras debilidades y fortalezas, con nuestros errores y aciertos.<br><br>Jesús enseñó que del corazón salen los pensamientos y acciones humanas que pueden dañar a otros. Mateo 15:19, y Santiago señala que las emociones destructivas son aquellas que nosotros no gestionamos de manera correcta, Santiago 4:1.<br><br><span>Cómo gestionar las emociones</span><br>La Biblia nos presenta un recurso que muchas mujeres han usado y les ha dado resultados muy dicientes:<br><br>1. <span>“Vivir en el Espíritu”.</span> Esto es, vivir de acuerdo a la Palabra de Dios, obediencia, comunión, santidad, entre otros. Al vivir de ese modo, ninguna ley, ni la del pecado ni de la muerte espiritual, ni la de este mundo, podrá dominarte, pues estarás por encima de todo ello. Vivir en el Espíritu es estar en conexión con Dios.<br><br>2. <span>Controlar el temperamento.</span> Permitir que el fruto del Espíritu abunde en tu vida. Solo así lograrás gestionar tus emociones de una manera correcta y evitaras malos momentos, pudiendo dar gloria a Dios. <br><br><span>Referencias</span><br><br>Brody et al., 2002, citado por Schmitt, D. (2021) ¿Las mujeres son más emocionales que los hombres? Psychology Today. Recuperado de <a href='https://www.psychologytoday.com/es/blog/son-mas-emocionales-las-mujeres-que-los- hombres' target='blank'>https://www.psychologytoday.com/es/blog/son-mas-emocionales-las-mujeres-que-los- hombres</a><br><br>Clinton, J. (2013). Mujer, tú puedes alcanzar la libertad emocional. Editorial Portavoz. Michigan EE.UU. <a href='https://www.portavoz.com/libros/pdfs/9780825412493.pdf' target='blank'>https://www.portavoz.com/libros/pdfs/9780825412493.pdf</a><br><br>"
+        }
+    },
+    {
+        "x": "64.5%",
+        "y": "58%",
+        "viewX": 1800,
+        "viewY": 200,
+        "width": "83%",
+        "height": "4%",
+        "fontSize": "3.3em",
+        "tag": "audio",
+        "id": "audio6",
+        "class": "btn-audio",
+        "text": "Escuchar Audio",
+        "icon": "./assets/pics/icons/escuchar.png",
+        "data": {
+            "src": "./assets/audios/audio7.mp3"
+        }
+    },
+    {
+        "x": "75.3%",
+        "y": "63%",
+        "viewX": 1800,
+        "viewY": 100,
+        "width": "83%",
+        "height": "4%",
+        "fontSize": "3.3em",
+        "tag": "print",
+        "class": "button-print",
+        "text": "Imprimir",
+        "icon": "./assets/pics/icons/imprimir.png",
+        "data": {
+            "url": "https://drive.google.com/file/d/1_vYskocaawV5OKxYsy2SeRMpYaupo04t/preview"
+        }
     }
-}]
+]

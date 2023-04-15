@@ -35,20 +35,7 @@
         "tag": "p",
         "class": "text-biblical",
         "data": {
-            "content": "<i>“¿Por qué estoy desanimado? ¿Por qué está tan triste mi corazón? ¡Pondré mi esperanza en Dios! Nuevamente lo alabaré, ¡mi Salvador y mi Dios”</i>"
-        }
-    }, {
-        "x": "8%",
-        "y": "40%",
-        "viewX": 1800,
-        "viewY": 50,
-        "width": "70%",
-        "height": "4%",
-        "fontSize": "3.7em",
-        "tag": "p",
-        "class": "verse",
-        "data": {
-            "content": "<i>Salmos 42:5 NTV.</i>"
+            "content": "<i>“¿Por qué estoy desanimado? ¿Por qué está tan triste mi corazón? ¡Pondré mi esperanza en Dios! Nuevamente lo alabaré, ¡mi Salvador y mi Dios”</i><br><i>Salmos 42:5 NTV.</i>"
         }
     }, {
         "x": "10%",

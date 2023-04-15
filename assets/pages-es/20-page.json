@@ -103,7 +103,7 @@
         }
     }, {
         "x": "14%",
-        "y": "38%",
+        "y": "8%",
         "viewX": 1800,
         "viewY": 50,
         "width": "77%",
@@ -114,9 +114,9 @@
         "id": "author20",
         "data": {
             "author": "Ritzi Boom",
-            "position": "",
+            "position": "Psicóloga especialista en desarrollo familiar y social",
             "year": "2022",
-            "src": "./assets/pics/photos/"
+            "src": "./assets/pics/photos/ritzy.png"
         }
     }
 ]

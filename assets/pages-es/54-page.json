@@ -1,0 +1,43 @@
+[{
+    "x": "-25%",
+    "y": "59%",
+    "viewX": 1800,
+    "viewY": 1800,
+    "width": "86%",
+    "height": "4%",
+    "fontSize": "5em",
+    "tag": "a",
+    "class": "link-face",
+    "data": {
+        "href": "https://www.facebook.com/mujeripuc",
+        "content": "<img src='./assets/pics/icons/face-10.png'><p>@mujeripuc</p>"
+    }
+}, {
+    "x": "-12%",
+    "y": "72%",
+    "viewX": 1800,
+    "viewY": 1800,
+    "width": "60%",
+    "height": "4%",
+    "fontSize": "5em",
+    "tag": "a",
+    "class": "link-insta",
+    "data": {
+        "href": "https://www.instagram.com/mujeripuc_oficial/",
+        "content": "<img src='./assets/pics/icons/insta-10.png'><p>@mujeripuc_oficial</p>"
+    }
+}, {
+    "x": "-12%",
+    "y": "85%",
+    "viewX": 1800,
+    "viewY": 1800,
+    "width": "60%",
+    "height": "4%",
+    "fontSize": "5em",
+    "tag": "a",
+    "class": "link-youtube",
+    "data": {
+        "href": "https://www.youtube.com/channel/UCgq826964Ng6BvRRaFNsC8Q",
+        "content": "<img src='./assets/pics/icons/youtube-10.png'><p>@mujeripuc_oficial</p>"
+    }
+}]

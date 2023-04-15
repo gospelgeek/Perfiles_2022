@@ -1,7 +1,20 @@
 [{
+        "x": "0%",
+        "y": "83%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "55%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "title-img",
+        "data": {
+            "src": "./assets/pics/titles/44.png"
+        }
+    }, {
 
-        "x": "48%",
-        "y": "1%",
+        "x": "46%",
+        "y": "2%",
         "viewX": 1800,
         "viewY": 50,
         "width": "20%",
@@ -13,26 +26,27 @@
             "src": "./assets/pics/icons/logo_perfiles.png"
         }
     }, {
-        "x": "0%",
-        "y": "-1%",
+        "x": "62%",
+        "y": "-1.5%",
         "viewX": 1800,
         "viewY": 50,
-        "width": "94%",
-        "height": "4%",
-        "fontSize": "2.8em",
-        "tag": "p",
+        "width": "150%",
+        "height": "4.2%",
+        "fontSize": "1.9em",
+        "tag": "section",
         "class": "section-magazine",
         "data": {
+            "src": "./assets/pics/icons/section-yellow.png",
             "content": "Algo más"
         }
     }, {
-        "x": "35%",
+        "x": "16%",
         "y": "10%",
         "viewX": 1800,
         "viewY": 50,
-        "width": "39%",
+        "width": "65%",
         "height": "4%",
-        "fontSize": "7.5em",
+        "fontSize": "4.2em",
         "tag": "p",
         "class": "text-introductory",
         "data": {
@@ -40,8 +54,8 @@
         }
     },
     {
-        "x": "55%",
-        "y": "60%",
+        "x": "62%",
+        "y": "40%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
@@ -54,12 +68,12 @@
         "icon": "./assets/pics/icons/leer.png",
         "data": {
             "title": "<br>INTELIGENCIA EMOCIONAL EN LA MUJER<br><br>",
-            "content": "<i>Y dijo David a Abigail: Bendito sea Jehová Dios de Israel, que te envió para que hoy me encontrases.<br>Y bendito sea tu razonamiento, y bendita tú, que me has estorbado hoy de ir a derramar sangre, y a vengarme por mi propia mano.</i><br><span>1 Samuel 25:32-33 (RVR 1960)</span><br><br>Abigail mujer de buen entendimiento que supo razonar en el momento indicado, razonar permite aprender a tomar decisiones en torno a una realidad, un pensamiento acertado que nos lleva al actuar en el momento indicado.<br><br>Podemos observar que Abigail actuó con una comprensión aterrizada de la realidad, por esto podemos decir que hizo uso de la sabiduría, controlo sus emociones en el momento difícil.<br><br><i>Ahora, pues, reflexiona y ve lo que has de hacer, porque el mal está ya resuelto contra nuestro amo y contra toda su casa; pues él es un hombre tan perverso, que no hay quien pueda hablarle.<br><span>1 Samuel 25:17 (RVR 1960)</i></span><br><br>Abigail mujer valiente que con su actuación controlada e inteligente logra apaciguar el enojo de David en contra de Nabal<br><br><sup>25</sup><i>No haga caso ahora mi señor de ese hombre perverso, de Nabal; porque conforme a su nombre, así es. Él se llama Nabal,[a] y la insensatez está con él; mas yo tu sierva no vi a los jóvenes que tú enviaste.</i><br><br><sup26</sup><i>Ahora pues, señor mío, vive Jehová, y vive tu alma, que Jehová te ha impedido el venir a derramar sangre y vengarte por tu propia mano. Sean, pues, como Nabal tus enemigos, y todos los que procuran mal contra mi señor.<br><span>1 Samuel 25:26-26 (RVR 1960)</i></span><br><br>Como seres humanos tenemos emociones las cuales deben de ser controladas para actuar de manera adecuada.<br><br><span>¿Qué son las Emociones?</span><br><br>El Diccionario define las emociones como una reacción psicofisiológica que representa modos de adaptación a ciertos estímulos del individuo cuando percibe un objeto, persona, lugar o suceso importante. Alegría, tristeza, enojo, ansiedad, miedo, sorpresa, vergüenza, serenidad, admiración entre otras, son emociones que podemos sentir, pero no debemos dejarnos dominar por ellas, estamos llamados a controlar nuestras emociones. Jesús dijo:<br><br><sup>27</sup><i>La paz os dejo, mi paz os doy; yo no os la doy como el mundo la da. No se turbe vuestro corazón, ni tenga miedo.<br><span>San Juan 14:27 (RVR 1960)</span></i><br><br>Al controlar nuestras emociones aplicamos la Inteligencia Emocional, que puede ser definida como el conocimiento de nuestros sentimientos propios y los de los demás, lo que nos lleva a reconocerlos y a establecer relaciones interpersonales saludables dentro de nuestro entorno.<br><br>El aplicar la inteligencia emocional nos lleva a escuchar con atención, el escuchar bien permite una comprensión y cuando atendemos logramos una comunicación más afectiva, es importante entonces, aprender a escuchar.<br><br><sup19</sup><i>Mis queridos hermanos, tengan presente esto: Todos deben estar listos para escuchar, y ser lentos para hablar y para enojarse</i>;<br><span>Santiago 1:19 (NVI)</span><br><br>La inteligencia emocional me permite actuar con empatía considerando a los demás, para comprender los diferentes momentos que atraviesa una persona, generando la ayuda que se requiere, una actuación solidaria y conciliadora<br><br><sup>32</sup><i>Más bien, sean bondadosos y compasivos unos con otros, y perdónense mutuamente, así como Dios los perdonó a ustedes en Cristo. <span><br>Efesios 4:32 (NVI)</span></i><br><br>EL control emocional es un aprendizaje que nos lleva a regular adecuadamente la emoción que estamos sintiendo, esto nos ayuda a comunicarnos sabiamente <sup>1</sup>La blanda respuesta quita la ira; Mas la palabra áspera hace subir el furor. <span>Proverbios 15:1 (RVR 1960)</span><br><br>Conocernos es mirarnos interiormente, trabajando en ser mejores para nosotros mismos y para los demás, con humildad de corazón<br><br><sup>6</sup><i>Conocernos es mirarnos interiormente, trabajando en ser mejores para nosotros mismos y para los demás, con humildad de corazón. <span><br>Santiago 4:6 (RVR 1960)</span></i><br><br>Así como Abigail actúo de manera acertada en una circunstancia adversa, como cristianas estamos llamadas a actuar con sabiduría en los diferentes momentos, en ocasiones llegan desafíos a nuestra vida, que nos exigen aprender a usar los recursos que Dios nos ha entregado para tener una vida conforme a su voluntad.<br><br><i><sup>7</sup>Porque no nos ha dado Dios espíritu de cobardía, sino de poder, de amor y de dominio propio. <span>2 Timoteo 1:7 (RVR 1960)</span></i><br><br>Actuar con I.E. llevo a Abigail a ser una mujer que Dios uso, demostrando confianza y seguridad, su actuar fue reconocido por el rey David<br><br><sup>33</sup><i><span>Y bendito sea tu razonamiento, y bendita tú, que me has estorbado hoy de ir a derramar sangre, y a vengarme por mi propia mano.<br>1 Samuel 25:33 (RVR 1960).</span><br><br><span>Olga Lucia Aragón de Valencia<br>Esposa de Pastor distrito 6</span><br><br>"
+            "content": "<i>Y dijo David a Abigail: Bendito sea Jehová Dios de Israel, que te envió para que hoy me encontrases.<br>Y bendito sea tu razonamiento, y bendita tú, que me has estorbado hoy de ir a derramar sangre, y a vengarme por mi propia mano.</i><br><span>1 Samuel 25:32-33 (RVR 1960)</span><br><br>Abigail mujer de buen entendimiento que supo razonar en el momento indicado, razonar permite aprender a tomar decisiones en torno a una realidad, un pensamiento acertado que nos lleva al actuar en el momento indicado.<br><br>Podemos observar que Abigail actuó con una comprensión aterrizada de la realidad, por esto podemos decir que hizo uso de la sabiduría, controlo sus emociones en el momento difícil.<br><br><i>Ahora, pues, reflexiona y ve lo que has de hacer, porque el mal está ya resuelto contra nuestro amo y contra toda su casa; pues él es un hombre tan perverso, que no hay quien pueda hablarle.<br><span>1 Samuel 25:17 (RVR 1960)</i></span><br><br>Abigail mujer valiente que con su actuación controlada e inteligente logra apaciguar el enojo de David en contra de Nabal<br><br><sup>25</sup><i>No haga caso ahora mi señor de ese hombre perverso, de Nabal; porque conforme a su nombre, así es. Él se llama Nabal,[a] y la insensatez está con él; mas yo tu sierva no vi a los jóvenes que tú enviaste.</i><br><br><sup26</sup><i>Ahora pues, señor mío, vive Jehová, y vive tu alma, que Jehová te ha impedido el venir a derramar sangre y vengarte por tu propia mano. Sean, pues, como Nabal tus enemigos, y todos los que procuran mal contra mi señor.<br><span>1 Samuel 25:26-26 (RVR 1960)</i></span><br><br>Como seres humanos tenemos emociones las cuales deben de ser controladas para actuar de manera adecuada.<br><br><span>¿Qué son las Emociones?</span><br><br>El Diccionario define las emociones como una reacción psicofisiológica que representa modos de adaptación a ciertos estímulos del individuo cuando percibe un objeto, persona, lugar o suceso importante. Alegría, tristeza, enojo, ansiedad, miedo, sorpresa, vergüenza, serenidad, admiración entre otras, son emociones que podemos sentir, pero no debemos dejarnos dominar por ellas, estamos llamados a controlar nuestras emociones. Jesús dijo:<br><br><sup>27</sup><i>La paz os dejo, mi paz os doy; yo no os la doy como el mundo la da. No se turbe vuestro corazón, ni tenga miedo.<br><span>San Juan 14:27 (RVR 1960)</span></i><br><br>Al controlar nuestras emociones aplicamos la Inteligencia Emocional, que puede ser definida como el conocimiento de nuestros sentimientos propios y los de los demás, lo que nos lleva a reconocerlos y a establecer relaciones interpersonales saludables dentro de nuestro entorno.<br><br>El aplicar la inteligencia emocional nos lleva a escuchar con atención, el escuchar bien permite una comprensión y cuando atendemos logramos una comunicación más afectiva, es importante entonces, aprender a escuchar.<br><br><sup19</sup><i>Mis queridos hermanos, tengan presente esto: Todos deben estar listos para escuchar, y ser lentos para hablar y para enojarse</i>;<br><span>Santiago 1:19 (NVI)</span><br><br>La inteligencia emocional me permite actuar con empatía considerando a los demás, para comprender los diferentes momentos que atraviesa una persona, generando la ayuda que se requiere, una actuación solidaria y conciliadora<br><br><sup>32</sup><i>Más bien, sean bondadosos y compasivos unos con otros, y perdónense mutuamente, así como Dios los perdonó a ustedes en Cristo. <span><br>Efesios 4:32 (NVI)</span></i><br><br>EL control emocional es un aprendizaje que nos lleva a regular adecuadamente la emoción que estamos sintiendo, esto nos ayuda a comunicarnos sabiamente <sup>1</sup>La blanda respuesta quita la ira; Mas la palabra áspera hace subir el furor. <span>Proverbios 15:1 (RVR 1960)</span><br><br>Conocernos es mirarnos interiormente, trabajando en ser mejores para nosotros mismos y para los demás, con humildad de corazón<br><br><sup>6</sup><i>Conocernos es mirarnos interiormente, trabajando en ser mejores para nosotros mismos y para los demás, con humildad de corazón. <span><br>Santiago 4:6 (RVR 1960)</span></i><br><br>Así como Abigail actúo de manera acertada en una circunstancia adversa, como cristianas estamos llamadas a actuar con sabiduría en los diferentes momentos, en ocasiones llegan desafíos a nuestra vida, que nos exigen aprender a usar los recursos que Dios nos ha entregado para tener una vida conforme a su voluntad.<br><br><i><sup>7</sup>Porque no nos ha dado Dios espíritu de cobardía, sino de poder, de amor y de dominio propio. <span>2 Timoteo 1:7 (RVR 1960)</span></i><br><br>Actuar con I.E. llevo a Abigail a ser una mujer que Dios uso, demostrando confianza y seguridad, su actuar fue reconocido por el rey David<br><br><sup>33</sup><i><span>Y bendito sea tu razonamiento, y bendita tú, que me has estorbado hoy de ir a derramar sangre, y a vengarme por mi propia mano.<br>1 Samuel 25:33 (RVR 1960).</span><br><br><span>Olga Lucia Aragón de Valencia<br> Docente y Psicologa en formación, Distrito 6</span><br><br>"
         }
     },
     {
-        "x": "41.5%",
-        "y": "65%",
+        "x": "49%",
+        "y": "45%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
@@ -71,12 +85,12 @@
         "text": "Escuchar Audio",
         "icon": "./assets/pics/icons/escuchar.png",
         "data": {
-            "src": ""
+            "src": "./assets/audios/audio45.mp3"
         }
     },
     {
-        "x": "54%",
-        "y": "70%",
+        "x": "61.5%",
+        "y": "50%",
         "viewX": 1800,
         "viewY": 100,
         "width": "83%",
@@ -87,75 +101,7 @@
         "text": "Imprimir",
         "icon": "./assets/pics/icons/imprimir.png",
         "data": {
-            "url": "https://drive.google.com/file/d/1SQga6RgmNDd0a35XPHDeOAy0U0cIo60W/preview"
-        }
-    },
-    {
-        "x": "50%",
-        "y": "75%",
-        "viewX": 1800,
-        "viewY": 100,
-        "width": "83%",
-        "height": "10%",
-        "fontSize": "3.3em",
-        "tag": "modal",
-        "id": "modalReflexion-p45",
-        "class": "button-read",
-        "text": "Reflexionar",
-        "icon": "./assets/pics/icons/reflexionar.png",
-        "data": {
-            "title": "<br><br><br>"
-        }
-    },
-    {
-        "x": "87%",
-        "viewX": 100,
-        "viewY": 30,
-        "height": "4%",
-        "width": "11%",
-        "fontSize": "0.6em",
-        "tag": "share",
-        "id": "button-fb",
-        "class": "button-share-fb",
-        "text": "facebok",
-        "icon": "./assets/pics/icons/facebook.png",
-        "data": {
-            "page": 45,
-            "url": "http://www.facebook.com/sharer.php?u="
-        }
-    },
-    {
-        "x": "87%",
-        "viewX": 100,
-        "viewY": 30,
-        "height": "4%",
-        "width": "11%",
-        "fontSize": "0.6em",
-        "tag": "share",
-        "id": "button-wpp",
-        "class": "button-share-wpp",
-        "text": "whatsapp",
-        "icon": "./assets/pics/icons/whatsapp.png",
-        "data": {
-            "page": 45,
-            "url": "http://api.whatsapp.com/send?text="
-        }
-    },
-    {
-        "x": "87%",
-        "viewX": 100,
-        "viewY": 30,
-        "height": "4%",
-        "width": "11%",
-        "fontSize": "0.6em",
-        "tag": "share",
-        "id": "button-twi",
-        "class": "button-share-twi",
-        "text": "twitter",
-        "icon": "./assets/pics/icons/twiter.png",
-        "data": {
-            "page": 45,
-            "url": "http://twitter.com/intent/tweet?text=Perfiles&url="
+            "url": "https://drive.google.com/file/d/1INzgPTxRTp1_SdWqIVARA0xahJbVh5kb/view?usp=share_link"
         }
     }
 ]

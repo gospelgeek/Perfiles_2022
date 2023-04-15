@@ -1,14 +1,109 @@
 [{
-    "x": "0%",
-    "y": "6%",
-    "viewX": 1800,
-    "viewY": 50,
-    "width": "100%",
-    "height": "4%",
-    "fontSize": "3.2em",
-    "tag": "h1",
-    "class": "title",
-    "data": {
-        "content": "La mujer un ser emocional"
+        "x": "0%",
+        "y": "15%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "100%",
+        "height": "4%",
+        "fontSize": "2.8em",
+        "tag": "img",
+        "class": "title_page",
+        "data": {
+            "src": "./assets/pics/titles/6.png"
+        }
+    }, {
+        "x": "0%",
+        "y": "6%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "100%",
+        "height": "4%",
+        "fontSize": "3.2em",
+        "tag": "h1",
+        "class": "title",
+        "data": {
+            "content": "La mujer un ser emocional"
+        }
+    }, {
+        "x": "13%",
+        "y": "38%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "82%",
+        "height": "4%",
+        "fontSize": "3.2em",
+        "tag": "p",
+        "class": "text-biblical",
+        "data": {
+            "content": "<i>“La paz os dejo, mi paz os doy; yo no os la doy como el mundo la da. No se turbe vuestro corazón, ni tenga miedo” Juan 14:27.</i>"
+        }
+    },
+    {
+        "x": "2%",
+        "viewX": 100,
+        "viewY": 30,
+        "height": "4%",
+        "width": "11%",
+        "fontSize": "0.6em",
+        "tag": "share",
+        "id": "button-fb",
+        "class": "button-share-fb",
+        "text": "facebok",
+        "icon": "./assets/pics/icons/facebook.png",
+        "data": {
+            "page": 6,
+            "url": "http://www.facebook.com/sharer.php?u="
+        }
+    },
+    {
+        "x": "2%",
+        "viewX": 100,
+        "viewY": 30,
+        "width": "11%",
+        "height": "4%",
+        "fontSize": "0.6em",
+        "tag": "share",
+        "id": "button-wpp",
+        "class": "button-share-wpp",
+        "text": "whatsapp",
+        "icon": "./assets/pics/icons/whatsapp.png",
+        "data": {
+            "page": 6,
+            "url": "http://api.whatsapp.com/send?text="
+        }
+    },
+    {
+        "x": "2%",
+        "viewX": 100,
+        "viewY": 30,
+        "width": "11%",
+        "height": "4%",
+        "fontSize": "0.6em",
+        "tag": "share",
+        "id": "button-twi",
+        "class": "button-share-twi",
+        "text": "twitter",
+        "icon": "./assets/pics/icons/twiter.png",
+        "data": {
+            "page": 6,
+            "url": "http://twitter.com/intent/tweet?text=Perfiles&url="
+        }
+    }, {
+        "x": "16%",
+        "y": "44%",
+        "viewX": 1800,
+        "viewY": 50,
+        "width": "77%",
+        "height": "4%",
+        "fontSize": "3.2em",
+        "tag": "tooltip",
+        "class": "tooltip-author",
+        "id": "author8",
+        "data": {
+            "author": "Carlos Valencia",
+            "position": "",
+            "year": "2022",
+            "src": "./assets/pics/photos/carlosvalencia.jpeg"
+        }
     }
-}]
+]

@@ -1,41 +1,15 @@
 [{
-        "x": "6%",
-        "y": "3%",
+        "x": "4%",
+        "y": "9%",
         "viewX": 1800,
         "viewY": 50,
         "width": "90%",
         "height": "4%",
         "fontSize": "2.8em",
-        "tag": "img",
-        "class": "",
+        "tag": "div",
+        "class": "icons-face",
         "data": {
-            "src": "./assets/pics/titles/10.png"
-        }
-    }, {
-        "x": "39%",
-        "y": "10%",
-        "viewX": 1800,
-        "viewY": 50,
-        "width": "9%",
-        "height": "4%",
-        "fontSize": "2.8em",
-        "tag": "img",
-        "class": "face-icon",
-        "data": {
-            "src": "./assets/pics/graphics/Caraira.png"
-        }
-    }, {
-        "x": "20%",
-        "y": "19%",
-        "viewX": 1800,
-        "viewY": 50,
-        "width": "9%",
-        "height": "4%",
-        "fontSize": "2.8em",
-        "tag": "img",
-        "class": "face-icon",
-        "data": {
-            "src": "./assets/pics/graphics/Caraalegre.png"
+            "content": "<div class='titlep10'><img src='./assets/pics/titles/10.png'></div><div class='faces-img'><img class='face-icon-1' src='./assets/pics/graphics/Caraira.png'><img class='face-icon-2' src='./assets/pics/graphics/Caraalegre.png'>"
         }
     }, {
         "x": "0%",
@@ -142,7 +116,7 @@
             "author": "Yamileth Motta Guzmán",
             "position": "Psicóloga en formación",
             "year": "2022",
-            "src": "./assets/pics/photos/yamilethmotta.jpeg"
+            "src": "./assets/pics/photos/yamilethmotta.png"
         }
     }
 ]
